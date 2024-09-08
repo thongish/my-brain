@@ -1,7 +1,9 @@
 # All
 ```tasks
 not done
+exclude sub-items
 ```
+
 
 # Dev Web App
 - [x] Lab 1 📅 2024-9-10 ✅ 2024-09-07
@@ -10,21 +12,22 @@ not done
 # OOP
 - [x] Quiz 1 📅 2024-09-08 ✅ 2024-09-07
 - [x] Quiz 2 📅 2024-09-10 ✅ 2024-09-07
-- [ ] Week 1 practice 📅 2024-09-08 
-- [ ] Week 2 practice 📅 2024-09-15
+- [ ] Week 1 practice 📅 2024-09-08 🆔 Assignment
+- [ ] Week 2 practice 📅 2024-09-15 🆔 Assignment
 # Stats
 - [ ] Unit 1 practice📅 2024-09-11 
 # Business Systems
 - [ ] Week 1 videos/readings 📅 2024-09-12 
 	- [ ] Textbook
 	- [ ] Video
-- [ ] Week 1 assignment 📅 2024-09-13
+- [ ] Week 1 assignment 📅 2024-09-13 🆔 Assignment
 # Comms
 - [ ] Figure out software for assignment 📅 2024-09-09 
 	- [ ] read instructions and rubric
 - [ ] Watch week 1 & 2 videos 
 - [x] Parallel list/Oxford comma quiz 📅 2025-09-06 ✅ 2024-09-07
 - [ ] Technical definition quiz 📅 2024-09-13 
+- [ ] Assignment 1 📅 2024-09-27 🆔 Assignment
 # Networking
 - [ ] [Week 1 readings](https://hackmd.io/@yveshema/networking-overview#Reading-List)
 	- [ ] [OSI Model](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_1_1_0_0/)

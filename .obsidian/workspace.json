@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Week 1 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d134c24db8b2b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b19b664c3b898e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Week 1 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Week 1 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Week 1 Tasks.md"
               }
             }
           }
@@ -146,14 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "892a82f92808d396",
+  "active": "8b19b664c3b898e6",
   "lastOpenFiles": [
-    "Notes/2520 Week 1.md",
     "Notes Table of Contents.md",
-    "Tasks.md",
+    "README.md",
+    "Week 1 Tasks.md",
+    "Assignment Due Dates.md",
+    "Templates/Tasks Template.md",
+    "Week 2 Tasks.md",
+    "Weekly Tasks Archive",
+    "Notes/2520 Week 1.md",
+    "Linux Notes/week-one.md",
+    "Templates",
+    "New folder",
     "2024-09-07.md",
     "Untitled.canvas",
-    "Linux Notes/week-one.md",
     "week-one.md",
     "Linux Notes/Attachment/Screenshot from 2024-08-30 16-55-08.png",
     "Linux Notes/Attachment/Linux_Distribution_Timeline.svg",
