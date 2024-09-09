@@ -1,6 +1,6 @@
 
 # Dev Web App 2520
-[[2520 Week 1]]
+[[2520 Week 1]] How programming languages work, JavaScript review/refresher/fundamentals
 [[2520 Week 2]]
 [[2520 Week 3]]
 [[2520 Week 4]]
@@ -11,7 +11,7 @@
 [[2520 Week 9]]
 [[2520 Week 10]]
 # OOP 2515
-[[2515 Week 1]]
+[[2515 Week 1]] Python Basics, Virtual Environments, Modules and Packages, Unit Testing and pytest
 [[2515 Week 2]]
 [[2515 Week 3]] 
 [[2515 Week 4]] 

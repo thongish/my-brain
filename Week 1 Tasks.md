@@ -2,6 +2,7 @@
 ```tasks
 not done
 exclude sub-items
+filename includes {{query.file.filename}}
 ```
 
 
@@ -9,10 +10,19 @@ exclude sub-items
 - [x] Lab 1 📅 2024-9-10 ✅ 2024-09-07
 - [x] Quiz 1 📅 2024-9-10 ✅ 2024-09-07
 - [ ] JavaScript review 📅 2024-09-09 
+	- [ ] refresher
+	- [ ] fundamentals
+	- [ ] review on strings and functions
 # OOP
 - [x] Quiz 1 📅 2024-09-08 ✅ 2024-09-07
 - [x] Quiz 2 📅 2024-09-10 ✅ 2024-09-07
-- [ ] Week 1 practice 📅 2024-09-08 🆔 Assignment
+- [x] Mark shit as complete ✅ 2024-09-08
+- [x] Week 1 practice 🆔 Assignment 📅 2024-09-08 ✅ 2024-09-08
+- [x] Review 📅 2024-09-09 ✅ 2024-09-08
+	- [x] Python basics ✅ 2024-09-08
+	- [x] Python and virtual env setup ✅ 2024-09-08
+	- [x] Modules and packages ✅ 2024-09-08
+	- [x] Unit testing and pytest ✅ 2024-09-08
 - [ ] Week 2 practice 📅 2024-09-15 🆔 Assignment
 # Stats
 - [ ] Unit 1 practice📅 2024-09-11 
@@ -20,7 +30,7 @@ exclude sub-items
 - [ ] Week 1 videos/readings 📅 2024-09-12 
 	- [ ] Textbook
 	- [ ] Video
-- [ ] Week 1 assignment 📅 2024-09-13 🆔 Assignment
+- [ ] Week 1 assignment 🆔 Assignment 📅 2024-09-13
 # Comms
 - [ ] Figure out software for assignment 📅 2024-09-09 
 	- [ ] read instructions and rubric

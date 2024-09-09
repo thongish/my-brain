@@ -1,0 +1,25 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "6-k8JAn9aqUyKYj9wrHXy",
+      "name": "Frequent",
+      "value": "#270aff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Tasks Master List.md",
+      "color": "6-k8JAn9aqUyKYj9wrHXy"
+    },
+    {
+      "path": "Notes Table of Contents.md",
+      "color": "6-k8JAn9aqUyKYj9wrHXy"
+    },
+    {
+      "path": "Assignment Due Dates.md",
+      "color": "6-k8JAn9aqUyKYj9wrHXy"
+    }
+  ]
+}

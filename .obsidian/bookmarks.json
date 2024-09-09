@@ -1,3 +1,24 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1725780098443,
+      "path": "Assignment Due Dates.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1725780102944,
+      "path": "Notes Table of Contents.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1725780106701,
+      "path": "Week 1 Tasks.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1725833539435,
+      "path": "Tasks Master List.md"
+    }
+  ]
 }
