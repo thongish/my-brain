@@ -9,10 +9,10 @@ filename includes {{query.file.filename}}
 # Dev Web App
 - [x] Lab 1 📅 2024-9-10 ✅ 2024-09-07
 - [x] Quiz 1 📅 2024-9-10 ✅ 2024-09-07
-- [ ] JavaScript review 📅 2024-09-09 
-	- [ ] refresher
-	- [ ] fundamentals
-	- [ ] review on strings and functions
+- [x] JavaScript review 📅 2024-09-10 ✅ 2024-09-09
+	- [x] refresher ✅ 2024-09-09
+	- [x] fundamentals ✅ 2024-09-09
+	- [x] review on strings and functions ✅ 2024-09-09
 # OOP
 - [x] Quiz 1 📅 2024-09-08 ✅ 2024-09-07
 - [x] Quiz 2 📅 2024-09-10 ✅ 2024-09-07
@@ -25,18 +25,19 @@ filename includes {{query.file.filename}}
 	- [x] Unit testing and pytest ✅ 2024-09-08
 - [ ] Week 2 practice 📅 2024-09-15 🆔 Assignment
 # Stats
-- [ ] Unit 1 practice📅 2024-09-11 
+- [x] Unit 1 practice 📅 2024-09-11 ✅ 2024-09-10
+- [x] Unit 1 notes 📅 2024-09-10 ✅ 2024-09-10
 # Business Systems
 - [ ] Week 1 videos/readings 📅 2024-09-12 
 	- [ ] Textbook
 	- [ ] Video
 - [ ] Week 1 assignment 🆔 Assignment 📅 2024-09-13
 # Comms
-- [ ] Figure out software for assignment 📅 2024-09-09 
-	- [ ] read instructions and rubric
-- [ ] Watch week 1 & 2 videos 
+- [x] Figure out software for assignment 📅 2024-09-09 ✅ 2024-09-09
+	- [x] read instructions and rubric ✅ 2024-09-09
+- [ ] Watch week 1 & 2 videos 📅 2024-09-11 
 - [x] Parallel list/Oxford comma quiz 📅 2025-09-06 ✅ 2024-09-07
-- [ ] Technical definition quiz 📅 2024-09-13 
+- [x] Technical definition quiz 📅 2024-09-13 ✅ 2024-09-10
 - [ ] Assignment 1 📅 2024-09-27 🆔 Assignment
 # Networking
 - [ ] [Week 1 readings](https://hackmd.io/@yveshema/networking-overview#Reading-List)

@@ -2,7 +2,7 @@
 
 # Comments and semicolon
 
-```
+```js
 /* Multiline comments start with slash-star,
    and end with star-slash */
 
@@ -14,7 +14,7 @@ var abc;
 
 # Typeof operator
 
-```
+```js
 typeof 20 . // "number"
 
 typeof "Armaan"  // "string"
@@ -32,7 +32,7 @@ typeof [1, 2, 3]  // "object"
 
 # Numbers, Strings, Operators
 
-```
+```js
 // We can represent numbers in Javascript through the Number type. This type
 // includes integers (-1, 0, 1, 2) and floating point numbers (1.5, 4.2, 40.0)
 
@@ -180,7 +180,7 @@ if (d) {
 
 # Variables, arrays, and objects
 
-```
+```js
 // Variables are declared with the `var` keyword. Assignment uses a single `=`
 // character.
 var someVar = 5;
@@ -258,7 +258,7 @@ myObj.myFourthKey; // = undefined
 
 # Control structures and loops
 
-```
+```js
 // The `if` statement works as you'd expect.
 let count = 1;
 
@@ -343,7 +343,7 @@ switch (grade) {
 
 # Functions and scope in JavaScript
 
-```
+```js
 // JavaScript functions are declared with the `function` keyword.
 function myFunction(thing) {
     return thing.toUpperCase();
@@ -413,131 +413,131 @@ let myFunc() = () => {
 
 # Flash Cards
 
-`"1, 2, " + 3;`
+`{js}"1, 2, " + 3;`
 Is this a valid line of code?
 ?
 Yes, you can concatenate a number type with a string type
 - this is called Type coercion
 
-`"This is a string".charAt(3)`
+`{js}"This is a string".charAt(3)`
 What does this line of code return?
 ?
-"s"
-- `.charAt()` accesses characters in a string at the specified index
+`{js}"s"`
+- `{js}string.charAt()` accesses characters in a string at the specified index
 
-`"5" == 5;` is true. Why?::Double equals comparisons performs Type coercion 
+`{js}"5" == 5;` is true. Why?::Double equals comparisons performs Type coercion 
 
 true or false?
-`"5" === 5;`
+`{js}"5" === 5;`
 ?
 false
 
-`"Hello world".substring(0, 5);
+`{js}"Hello world".substring(0, 5);
 What is the output of this line?
 ?
-"Hello"
+`{js}"Hello"`
 - The substring method extracts a portion of a string between two indices
 	- First index is inclusive
 	- Second index is exclusive
 
-`"Hello".length`
-`"Hello".length()`
+`{js}"Hello".length`
+`{js}"Hello".length()`
 Which one is correct?
 ?
-`"Hello".length`
-- `.length` is a property, not a function
+`{js}"Hello".length`
+- `{js}.length` is a property, not a function
 
-Why would you want to use `null`?:: To indicate a deliberate non-value
+Why would you want to use `{js}null`?:: To indicate a deliberate non-value
 
-Why would you want to use `undefined`:: To indicate a value is not currently present
+Why would you want to use `{js}undefined`:: To indicate a value is not currently present
 
-`const someVar;`
-This line hasn't given the variable `someVar` a value, what is the default value that is given to this variable?
+`{js}const someVar;`
+This line hasn't given the variable `{js}someVar` a value, what is the default value that is given to this variable?
 ?
-`undefined`
+`{js}undefined`
 
-`false`,
-`null`,
-`undefined`,
-`Nan`,
-`0`
-and `""` 
+`{js}false`,
+`{js}null`,
+`{js}undefined`,
+`{js}Nan`,
+`{js}0`
+and `{js}""` 
 are known as what values?
 ?
 "falsy" values
 -  A value that is considered false when encountered in a Boolean context
 
 Why is this line of code dangerous?
-`someVar = 10;`
+`{js}someVar = 10;`
 ?
-Because without the use of `var` ,  `let`,  or `const`, the variable will be created in the global scope, not the scope you defined it in
+Because without the use of `{js}var` ,  `{js}let`,  or `{js}const`, the variable will be created in the global scope, not the scope you defined it in
 
-```
+```js
 let someVar = 10;
 
 someVar++;
 someVar--;
 ```
-What is the value of `someVar`?
+What is the value of `{js}someVar`?
 ?
-10
-- `someVar++` and `someVar--` are short-hand for adding or subtracting by 1
+`{js}10`
+- `{js}someVar++` and `{js}someVar--` are short-hand for adding or subtracting by 1
 
-```
+```js
 let myArray = [1, 2, 3, 4];
 
 myArray.unshift(0);
 ```
-What is the value of `myArray`?
+What is the value of `{js}myArray`?
 ?
-`[0, 1, 2, 3, 4]`
-- `.unshift()` Adds to to an array as the first element
+`{js}[0, 1, 2, 3, 4]`
+- `{js}array.unshift()` Adds to to an array as the first element
 
-```
+```js
 let myArray = [1, 2, 3, 4];
 
 someVar = myArray.shift();
 ```
-What is the value of `someVar`?
+What is the value of `{js}someVar`?
 ?
-1
-- `.shift()` removes the first element and returns it
+`{js}1`
+- `{js}array.shift()` removes the first element and returns it
 
 
-```
+```js
 let myArray = [1, 2, 3, 4];
 
 someVar = myArray.pop();
 ```
-What is the value of `someVar`?
+What is the value of `{js}someVar`?
 ?
-4
-- `.pop()` removes the last element and returns it
+`{js}4`
+- `{js}array.pop()` removes the last element and returns it
 
-```
+```js
 let myArray0 = [32,false,"js",12,56,90];
 
 console.log(myArray0.join("-"));
 ```
 What is the output of this code snippet?
 ?
-`"32-false-js-12-56-90"`
-- `.join()` method returns a new string by concatenating all elements in an array, separated by commas or a specified separator string
-	- in this case, the separator string is `"-"`
+`{js}"32-false-js-12-56-90"`
+- `{js}array.join()` method returns a new string by concatenating all elements in an array, separated by commas or a specified separator string
+	- in this case, the separator string is `{js}"-"`
 
-```
+```js
 let myArray0 = [32,false,"js",12,56,90];
 
 console.log(myArray0.slice(1,4));
 ```
 What is the output of this code snippet?
 ?
-`[false,"js",12]`
-- `.slice()` method extracts a portion of an array between two indices
+`{js}[false,"js",12]`
+- `{js}array.slice()` method extracts a portion of an array between two indices
 	- First index is inclusive
 	- Second index is exclusive
 
-```
+```js
 let myObj = {
 	key: "value1",
 	key: "value2",
@@ -547,7 +547,7 @@ Is this a valid JavaScript object?
 ?
 No, the keys in a JavaScript object MUST be unique
 
-```
+```js
 let myObj = {
 	key1: "value1",
 	key2: "value2",
@@ -559,9 +559,9 @@ myObj.key1;
 ```
 Which of the two accessing methods is correct in this code snippet?
 ?
-Both are valid ways to access the value of `key1`
+Both are valid ways to access the value of `{js}key1`
 
-```
+```js
 let myObj = {
 	key1: "value1",
 	key2: "value2",
@@ -569,10 +569,10 @@ let myObj = {
 ```
 How would you add a new key-value pair to this object?
 ?
-`myObj.key3 = "value3"`
-- Despite being able to access key values with subscript syntax `myObj[key2]`, you can't change or add new keys with it
+`{js}myObj.key3 = "value3"`
+- Despite being able to access key values with subscript syntax `{js}myObj[key2]`, you can't change or add new keys with it
 
-```
+```js
 for (let i = 0; i < 5; i++){
 	console.log(i)
 };
@@ -581,7 +581,7 @@ How many times will this for loop run?
 ?
 5
 
-```
+```js
 let description = "";
 
 let person = { fname: "Adam", lname: "Siyala", age: 20};
@@ -590,12 +590,12 @@ for (let key in person) {
     description += person[key] + " ";
 };
 ```
-What is the value of `description`?
+What is the value of `{js}description`?
 ?
-`'Adam Siyala 20'`
+`{js}'Adam Siyala 20'`
 - the for/in loop allows for looping over an object
 
-```
+```js
 let myPets = "";
 
 let pets = ["cat", "dog", "hamster", "bunny"];
@@ -604,12 +604,12 @@ for (let pet of pets){
     myPets += pet + " ";
 };
 ```
-What is the value of `myPets`?
+What is the value of `{js}myPets`?
 ?
-`'cat dog hamster bunny'`
+`{js}'cat dog hamster bunny'`
 - the for/of loop allows for looping over strings, arrays, and more
 
-```
+```js
 let house = {
 	size: "big",
 	color: "red",
@@ -619,11 +619,11 @@ if (house.size == "big" && house.color == "blue") {
 	console.log("Big blue house");
 };
 ```
-Does `console.log("Big blue house")` run here?
+Does `{js}console.log("Big blue house")` run here?
 ?
-No, the `&&` is a logical `and` operator
+No, the `{js}&&` is a logical `{js}and` operator
 
-```
+```js
 let house = {
 	size: "big",
 	color: "red",
@@ -633,11 +633,11 @@ if (house.size == "big" || house.color == "blue") {
 	console.log("Big blue house");
 };
 ```
-Does `console.log("Big blue house")` run here?
+Does `{js}console.log("Big blue house")` run here?
 ?
-Yes, the `||` is a logical `or` operator
+Yes, the `{js}||` is a logical `{js}or` operator
 
-```
+```js
 let grade = 'B';
 switch (grade) {
   case 'A':
@@ -656,19 +656,19 @@ switch (grade) {
 ```
 What will be printed in the terminal?
 ?
-`"OK job"`
-- Remember to use `break` after each case, or the cases after the correct one will be executed too
+`{js}"OK job"`
+- Remember to use `{js}break` after each case, or the cases after the correct one will be executed too
 
 How do you declare a JavaScript function?
 ?
-Using the `function` keyword
-```
+Using the `{js}function` keyword
+```js
 function myFunction() {
     
 }
 ```
 
-```
+```js
 function myFunc() {
 
 }
@@ -677,7 +677,7 @@ What kind of function syntax is this?
 ?
 Function declaration syntax
 
-```
+```js
 let myFunc() = function() {
 
 }
@@ -686,7 +686,7 @@ What kind of function syntax is this?
 ?
 Function expression syntax
 
-```
+```js
 let myFunc() = () => {
 
 }
@@ -695,7 +695,7 @@ What kind of function syntax is this?
 ?
 Arrow function syntax
 
-```
+```js
 myFunc();
 
 function myFunc() {

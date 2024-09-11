@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2f78a3cba1b6564f",
+        "id": "502649815d9b4e0e",
         "type": "tabs",
         "children": [
           {
-            "id": "633d2ae936b7c8a7",
+            "id": "e2e11b49aadf5352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e94cd546e21b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,26 +30,33 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "502649815d9b4e0e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3ccb043c426dd7ca",
+            "id": "82d51e6386f4bbec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JavaScript Fundamentals.md",
+                "file": "Notes/OOP Week 2 Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8973ad4dee6409b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stats Unit 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#STATS/W1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/JavaScript Fundamentals.md",
+                "file": "Week 2 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/JavaScript Fundamentals.md",
+                "file": "Week 2 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/JavaScript Fundamentals.md"
+                "file": "Week 2 Tasks.md"
               }
             }
           },
@@ -174,42 +194,50 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b3ceb9c86b88af18",
+  "active": "13e94cd546e21b4d",
   "lastOpenFiles": [
-    "Notes/2520 Week 1.md",
-    "Notes/JavaScript Fundamentals.md",
-    "Week 2 Tasks.md",
+    "Week 1 Tasks.md",
+    "Notes/Stats Unit 1.md",
+    "1350 Week 1.md",
     "Notes Table of Contents.md",
+    "Notes/OOP Week 2 Lecture.md",
+    "Assignment Due Dates.md",
+    "Questions.md",
+    "Images/Pasted image 20240910180627.png",
+    "Images/Pasted image 20240910181954.png",
+    "2520 Week 2.md",
+    "Images/Pasted image 20240910175920.png",
+    "Images/Pasted image 20240909202817.png",
+    "Images/Pasted image 20240910174136.png",
+    "Images",
+    "Notes/Python Basics.md",
+    "Week 2 Tasks.md",
+    "Notes/JavaScript Syntax Review.md",
+    "2515 Week 2.md",
     "Notes/2515 Week 1.md",
     "Notes/Unit Testing and pytest.md",
     "Notes/Modules and Packages.md",
     "Notes/Virtual Environments.md",
-    "Notes/Python Basics.md",
+    "Notes/WEB Week 2 Lecture.md",
+    "Notes/JavaScript Fundamentals.md",
+    "Notes/JavaScript Review on Strings and Functions.md",
+    "Notes/2520 Week 1.md",
+    "COMMS shit/COMMS Assignment 1 ex. 1.md",
+    "COMMS shit",
     "Notes/How Programming Languages Work.md",
-    "Notes/JavaScript Syntax Review.md",
-    "Week 1 Tasks.md",
-    "Tasks Master List.md",
-    "Assignment Due Dates.md",
-    "README.md",
-    "Flash Cards.md",
+    "COMMS shit/COMMS Assignment 1 ex. 3.md",
+    "COMMS shit/COMMS Assignment 1 Ideas.md",
+    "COMMS shit/COMMS Assignment 1 ex. 2.md",
     "Pasted image 20240908165354.png",
-    "Templates/Tasks Template.md",
-    "5 questions every unit test must answer.md",
-    "Linux Notes/week-one.md",
-    "2024-09-08.md",
     "Untitled.canvas",
     "Weekly Tasks Archive",
-    "Templates",
+    "Notes/Templates",
     "New folder",
-    "2024-09-07.md",
-    "week-one.md",
     "Linux Notes/Attachment/Screenshot from 2024-08-30 16-55-08.png",
     "Linux Notes/Attachment/Linux_Distribution_Timeline.svg",
     "Linux Notes/Attachment/kernel.webp",
     "Linux Notes/Attachment",
     "Linux Notes",
-    "Notes/Week 1.md",
-    "Notes",
-    "Welcome.md"
+    "Notes"
   ]
 }

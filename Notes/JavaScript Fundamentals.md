@@ -1,0 +1,63 @@
+# What is an expression?
+
+- A sequence of **operators** and their **operands**
+- Evaluating an expression produces a **result value**
+	- Evaluating expressions may generate a **side effect**
+		- i.e. evaluating `{js} console.log("BCIT is doodoo")`has a side effect of printing a line of characters in the console
+
+# Data types
+
+- JavaScript programs manipulate data, and each value has a type
+- ECMAScript standard defines a few basic data types:
+	1. Boolean
+	2. Number
+	3. String
+	4. null and undefined
+	5. objects
+## Number
+
+- JavaScript uses 64 bits to store numbers
+- There are also special numbers in JavaScript:
+	- `{js}10 / 0;` = infinity
+	- `{js}-10 / -;`= -infinity
+	- `{js}0 / 0; `= NaN
+
+# Variables and assignment
+
+- Each variable needs a name, called an **identifier**
+- **Identifiers** are the names for values and things in JavaScript
+	- Identifier must start with a letter, underscore `{js}_`, or dollar sign `{js}$`; subsequent characters can also be digits `{js}0 to 9`
+	- There are 35 keywords in JavaScript that can't be used as identifiers
+		- [List of keywords](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar)
+- Camel Case example: `{js}thisIsCamelCase`
+
+## How do we name things?
+
+- Use intention-revealing names (why, what, and/or how)  
+- Avoid disinformation (no false clues)  
+- Make meaningful distinctions (no noise words)  
+- Use pronounceable names  
+- Use searchable names (no single letter identifiers)  
+- Pick one word per concept, i.e., don’t use `{js}sum` and `{js}total` and `{js}aggregate` in the same program
+# Operators and operands
+
+## Increment and decrement
+
+- Two ways to add/subtract from a number
+	- Postfix
+		- `{js}a++` or `{js}a--`
+		- Add/subtract 1 to or from `{js}a` and return the old value of `{js}a` while overwriting the original value
+	- Prefix
+		- `{js}++a` or `{js}--a`
+		- Add/subtract 1 to or from `{js}a` and return the new value
+
+# Resources
+
+- [AirBNB Style Guide](https://github.com/airbnb/javascript)
+- [Modern JavaScript Tutorial](https://javascript.info/)
+	- If use this site, ignore:
+		- 2.3,
+		- 2.6,
+		- 2.12
+		- 2.17
+		- 2.18

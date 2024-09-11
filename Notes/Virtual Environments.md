@@ -9,17 +9,17 @@
 - Makes reproducing program environment easier
 # Best practices
 
-- Use `venv` module from Python
+- Use `{python}venv` module from Python
 - Created one venv per project/assignment
-	- Create using `py -m venv venv`
-		- This uses the module `venv` and creates folder called `venv`
-		- `py -m venv folder`
+	- Create using `{bash}py -m venv venv`
+		- This uses the module `{python}venv` and creates folder called `{python}venv`
+		- `{bash}py -m venv folder`
 - The venv will be created in a folder
 	- Will contain binaries (scripts)
 	- Will contain libraries required by the program to run
-	- Folder typically called `venv`
+	- Folder typically called `{python}venv`
 - The venv must be **activated** in order to work
-	- Activate using `activate` script in `venv/Scripts`
+	- Activate using `{python}activate` script in `{python}venv/Scripts`
 - Once venv is active, the **only** commands needed are `python` and `pip`
 - Don't use `py`, `python3`, etc.
 

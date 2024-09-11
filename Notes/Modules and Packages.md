@@ -4,7 +4,7 @@
 - Python code is written in files
 - Each file is a Python module
 
-```
+```python
 # Contents of my_print.py
 
 MY_MESSAGE = "Hello!"
@@ -14,7 +14,7 @@ def my_print_func(text):
 	print(text)
 ```
 - You can import other files,
-```
+```python
 # Contents of main.py
 import my_print
 
@@ -22,15 +22,15 @@ def main():
 	my_print.my_print_func("Example.")
 	print(my_print.MY_MESSAGE)
 ```
--  The entire `my_print` module is imported
+-  The entire `{python}my_print` module is imported
 - You can access functions or variables using `.` notation
 	- Can also access "properties" with `.` notation
 - Everything in Python is an object
 - When module is imported, the code it contains is **executed**
-- Make sure to use `if __name__ == "__main__":` to prevent side effects
+- Make sure to use `{python}if __name__ == "__main__":` to prevent side effects
 
 - or specific symbols of a module:
-```
+```python
 from my_print import MY_MESSAGE  
 
 print(MY_MESSAGE)
@@ -40,13 +40,13 @@ print(MY_MESSAGE)
 
 - Packages are collections of modules
 - Several files in a folder
-- Is a folder with `__init__.py` file in it
+- Is a folder with `{python}__init__.py` file in it
 	- can work without one, but should always have one
 
 ## About packages
 
 - Python packages can contain modules, and other packages
-```
+```python
 ├── constants.py
 ├── display       # This is the PACKAGE display
 │ ├── __init__.py
@@ -65,9 +65,9 @@ print(MY_MESSAGE)
 
 # Importing modules and packages
 
-- You can import the whole package just like modules: `import logic`
+- You can import the whole package just like modules: `{python}import logic`
 	- and then use `.` to access submodules/packages
-```
+```python
 import logic  
 
 logic.computer.aimbot.shoot() 
@@ -84,7 +84,7 @@ logic.game.start()
 
 ## Importing sub-packages
 
-```
+```python
 import logic.game  
 
 logic.game.start() # OK  
@@ -95,17 +95,17 @@ logic.computer.aimbot.shoot() # DOES NOT WORK (we only have logic.game)
 ## Importing and renaming
 
 - Can be convenient for long/complicated names
-```
+```python
 import logic.computer.aimbot as bot
 
 bot.shoot()
 ```
 
-## Using `__init__.py` to allow easier access to subpackages
+## Using `{python}__init__.py` to allow easier access to subpackages
 
-- When Python encounters an `import` statement and the symbol imported is a package, the `__init__.py` file will automatically run
+- When Python encounters an `{python}import` statement and the symbol imported is a package, the `{python}__init__.py` file will automatically run
 - This file can import functions/variables from submodules and packages to allow for easier imports
-```
+```python
 ├── logic  
 │ ├── __init__.py  
 │ ├── constants  
@@ -115,13 +115,13 @@ bot.shoot()
 │ └── game.py  
 └── main.py
 ```
-### `logic/__init__.py`
-```
+### `{python}logic/__init__.py`
+```python
 from .constants.player import NUMBER_PLAYERS  
 from .constants.bot import AIMBOT_PRECISION
 ```
-### `main.py`
-```
+### `{python}main.py`
+```python
 from logic import NUMBER_PLAYERS  
 
 # Or even  
@@ -132,7 +132,7 @@ from logic import NUMBER_PLAYERS, AIMBOT_PRECISION
 
 - When running a Python program, the working directory is the **directory where you ran the Python command**
 - This can have an effect when testing/developing programs
-```
+```python
 ├── my_package  
 │ ├── __init__.py  
 │ └── my_module.py  
@@ -140,12 +140,12 @@ from logic import NUMBER_PLAYERS, AIMBOT_PRECISION
 └── main.py
 ```
 
-```
+```python
 # Contents of my_package/my_module.py  
 open("file.txt", "r")
 ```
 - `python my_package/my_module.py`: WORKS
 - `python -m my_package.my_module`: WORKS (preferred way)
-- `cd my_package`, and then `python my_module.py`: DOES NOT WORK (there is no "main.txt" file in the `my_package` folder)
+- `cd my_package`, and then `python my_module.py`: DOES NOT WORK (there is no "main.txt" file in the `{python}my_package` folder)
 
 # [[2515 Week 1]]

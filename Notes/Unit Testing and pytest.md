@@ -20,21 +20,21 @@
 	- Upon each commit in a git repository (**continuous integration**)
 - Makes sure sure that the requirements for the programs are respected by the developer; the program does what it is supposed to do
 
-# Run tests with `pytest`
+# Run tests with `{python}pytest`
 
-- At the root of the project, run `pytest`
-	- `pytest` will scan and discover all tests in the test files
+- At the root of the project, run `{bash}pytest`
+	- `{bash}pytest` will scan and discover all tests in the test files
 	- Test files are any files that match the patterns:
-		- `test_*.py`
-		- `*_test.py`
-	- Tests are functions/methods whose names start with `test_`
+		- `{bash}test_*.py`
+		- `{bash}*_test.py`
+	- Tests are functions/methods whose names start with `{bash}test_`
 	- Tests can be:
 		- regular functions outside of classes
-		- methods inside classes, whose names start with `Test`
-- Very often, tests are located in the `tests` folder, at the root of the folder
+		- methods inside classes, whose names start with `{python}Test`
+- Very often, tests are located in the `{python}tests` folder, at the root of the folder
 ## Examples
 
-```
+```python
 # test_something.py  
 def test_thingy():         # This is run by pytest  
 	pass  
@@ -51,13 +51,13 @@ class TestSomething:
 # How to write a test
 
 ## Code to be tested
-```
+```python
 def add_values(a, b):
 	return a+b
 ```
 
 ## The test
-```
+```python
 def test_add_values():
 	result = add_values(2,3)
 	assert result == 5     # This line makes sure the output is the one we expect
@@ -66,15 +66,15 @@ def test_add_values():
 ## How to test for exceptions?
 
 - Sometimes *expected* that your code raises exceptions
-```
+```python
 def add_values(a, b):  
 	if type(a) is not int or type(b) is not int:  
 		raise TypeError("Invalid value")  
 	return a+b
 ```
 ### The test
-- Use the `with pytest.raises(<NAME>)` to catch the expected Exception `<NAME>`
-```
+- Use the `{python}with pytest.raises(<NAME>)` to catch the expected Exception `{python}<NAME>`
+```python
 import pytest  
 
 def test_add_values_invalid():  
@@ -91,20 +91,20 @@ def test_add_values_invalid():
 
 ## Code coverage in Python
 
-- Use the `coverage` library (an external dependency), together with `pytest`
-- Install in venv with `pip install pytest-cov`
-- Can then run tests and add coverage with the `--cov` options
+- Use the `{python}coverage` library (an external dependency), together with `{bash}pytest`
+- Install in venv with `{python}pip install pytest-cov`
+- Can then run tests and add coverage with the `{bash}--cov` options
 	- can be a Python module
-		- `pytest --cov=add`
+		- `{bash}pytest --cov=add`
 	- or a Python package
-		- `pytest --cov=.` (use `.` for the current folder)
+		- `{bash}pytest --cov=.` (use `.` for the current folder)
 - `coverage` will report about all the Python files used to run your program
 
 ## Coverage reports
 
 - Generate nice looking HTML report
-	- `pytest --cov=. --cov-report=html`
-		- This will create/update contents in the `htmlcov` folder 
+	- `{bash}pytest --cov=. --cov-report=html`
+		- This will create/update contents in the `{python}htmlcov` folder 
 
 # Developing with a test-oriented mindset
 ## Goals

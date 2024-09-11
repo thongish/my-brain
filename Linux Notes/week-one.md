@@ -11,24 +11,6 @@ Next week:
 - Create a Droplet (Linux VM)
 - Introduction to working in the terminal
 
-## Introductions
-
-**About me:**
-- Nathan McNinch
-- I started using Linux in the late 90s. [Slackware](http://www.slackware.com/) was my first distro.
-- Favourite tool that I have used since I started working at BCIT
-    - Nix and [NixOS](https://nixos.org/) 
-- Outside of class I like
-    - climbing (bouldering particularly)
-    - coffee, I am a coffee nerd
-    - comics. Most of the series that I am into right now are [Image](https://imagecomics.com/) comics. 
-
-**About you:**
-- What is your name?
-- Do you have any previous experience with a Linux OS or BSD OS? not including 1420.
-- What is your favourite tool, programming language, technology that you have used so far at BCIT...?
-- Outside of class what do you like to do? (#1 hobby)
-
 ### Course overview
 
 #### Course notes
@@ -37,19 +19,7 @@ The course notes are available as [markdown](https://www.markdownguide.org/) on 
 
 More on class notes and taking notes later.
 
-#### Office hours
-
-Please schedule appointments at least 24 hours in advance. When you schedule an appointment let me know what you want to talk about. This way I can prepare material if needed.
-
-If the times below don't work for you, please get in touch with me and we can figure out a time that works for both of us. Online meetings are fine as well.
-
-Contact me via email at nmcninch@bcit.ca
-
-- Tuesday 11:30-12:30 location TBD
-- Thursday 08:30-09:30 location TBD
-- Friday 11:30-12:30 location TBD
-
-#### course breakdown
+#### Course Breakdown
 | Criteria                    | %   | Comments                     |
 | --------------------------- | --- | ---------------------------- |
 | Midterm exam                | 20  |                              |

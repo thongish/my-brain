@@ -22,7 +22,7 @@
 [[2515 Week 9]] 
 [[2515 Week 10]]
 # Stats
-[[1350 Week 1]]
+[[1350 Week 1]] Definitions, sampling, variables, distributions
 [[1350 Week 2]]
 [[1350 Week 3]]
 [[1350 Week 4]]
