@@ -12,7 +12,7 @@
 [[2520 Week 10]]
 # OOP 2515
 [[2515 Week 1]] Python Basics, Virtual Environments, Modules and Packages, Unit Testing and pytest
-[[2515 Week 2]]
+[[2515 Week 2]] 
 [[2515 Week 3]] 
 [[2515 Week 4]] 
 [[2515 Week 5]] 
@@ -33,7 +33,7 @@
 [[1350 Week 9]]
 [[1350 Week 10]]
 # Business Systems
-[[2831 Week 1]]
+[[2831 Week 1]] Chapter 1, Chapter 10, SDLC Video
 [[2831 Week 2]]
 [[2831 Week 3]]
 [[2831 Week 4]]

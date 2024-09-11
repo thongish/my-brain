@@ -144,3 +144,27 @@
 	- i.e. The age of Canadians in 2024
 		- The amount of people between the ages 0 and 50 might be fairly similar but going further after age 50, there might be less and less people as age goes higher
 			- This is due to the fact that humans have life spans
+
+
+
+# [[1350 Week 1]]
+
+
+# Flash Cards
+
+What is the definition of a **population**?::The *complete* set of individuals (people, objects, etc.) we want to know about
+
+What is a **sample**?::A subset of individuals selected from the population
+
+What is a **sampling frame**??::The *physical* list of all the individuals in a population that we can sample
+
+What is a **variable**?::Any *number of characteristics* that we could measure for each individual in the population
+
+What is a **data set**?::A set of measurements of certain variables for individuals in a certain sample (or the entire population)
+
+The **observation** or **measurement** of X is...::the value of X for one specific individual
+
+What kind of sampling method randomly selects a subset of individuals from a population?::Simple random sampling
+
+How do you find the step size in **systemic sampling**?::Population / sample size = step size
+
