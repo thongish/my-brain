@@ -11,43 +11,21 @@
             "id": "13e94cd546e21b4d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240911161500.png"
-              }
-            }
-          },
-          {
-            "id": "82d51e6386f4bbec",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stats Unit 1.md",
+                "file": "OSI Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8973ad4dee6409b2",
+            "id": "2edcca887b227d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stats Unit 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dcdb20d4f31c6d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Common Network Infrastructure Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3c98d72e0123aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240911161500.png",
+                "file": "Week 1 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240911161500.png",
+                "file": "Week 1 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20240911161500.png"
+                "file": "Week 1 Tasks.md"
               }
             }
           },
@@ -208,25 +199,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b3ceb9c86b88af18",
+  "active": "c3c98d72e0123aac",
   "lastOpenFiles": [
-    "SDLC Video Notes.md",
-    "2831 Week 1.md",
-    "Business Chapter 10.md",
-    "Images/Pasted image 20240911163445.png",
-    "Images/Pasted image 20240911163340.png",
-    "Images/Pasted image 20240911161500.png",
-    "Business Chapter 1.md",
+    "OSI Model.md",
+    "Common Network Infrastructure Devices.md",
+    "Week 1 Tasks.md",
+    "2620 Week 1.md",
     "Notes Table of Contents.md",
+    "Notes/Business Chapter 10.md",
+    "Notes/Stats Unit 1.md",
+    "Notes/Stats Unit 2.md",
+    "Notes/2831 Week 1.md",
+    "Notes/Business Chapter 1.md",
+    "Notes/SDLC Video Notes.md",
     "Assignment Due Dates.md",
     "Week 2 Tasks.md",
+    "Notes/1350 Week 2.md",
+    "README.md",
     "Untitled.md",
-    "Notes/Stats Unit 2.md",
-    "Week 1 Tasks.md",
+    "Images/Pasted image 20240911161500.png",
+    "Images/Pasted image 20240911163445.png",
+    "Images/Pasted image 20240911163340.png",
     "Images/Pasted image 20240911104741.png",
-    "1350 Week 2.md",
     "Notes/1350 Week 1.md",
-    "Notes/Stats Unit 1.md",
     "Notes/OOP Week 2 Lecture.md",
     "2520 Week 6.md",
     "Notes/2515 Week 2.md",
@@ -242,10 +237,6 @@
     "Notes/Python Basics.md",
     "Notes/JavaScript Syntax Review.md",
     "Notes/2515 Week 1.md",
-    "Notes/Unit Testing and pytest.md",
-    "Notes/Modules and Packages.md",
-    "Notes/Virtual Environments.md",
-    "Notes/WEB Week 2 Lecture.md",
     "COMMS shit",
     "Pasted image 20240908165354.png",
     "Untitled.canvas",

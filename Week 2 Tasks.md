@@ -27,7 +27,7 @@ filename includes {{query.file.filename}}
 - [ ] Finish Unit 2 notes and flash cards 📅 2024-09-17
 - [ ] Unit 2 practice questions 📅 2024-09-17 
 # Business Systems
-- [ ]
+- [ ] Go thru week 1 notes and write flash cards
 # Comms
 - [ ]
 # Networking

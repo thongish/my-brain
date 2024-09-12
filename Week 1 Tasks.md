@@ -28,14 +28,14 @@ filename includes {{query.file.filename}}
 - [x] Unit 1 practice 📅 2024-09-11 ✅ 2024-09-10
 - [x] Unit 1 notes 📅 2024-09-10 ✅ 2024-09-10
 # Business Systems
-- [ ] Week 1 videos/readings 📅 2024-09-12 
-	- [ ] Textbook
-	- [ ] Video
-- [ ] Week 1 assignment 🆔 Assignment 📅 2024-09-13
+- [x] Week 1 videos/readings 📅 2024-09-12 ✅ 2024-09-11
+	- [x] Textbook ✅ 2024-09-11
+	- [x] Video ✅ 2024-09-11
+- [x] Week 1 assignment 🆔 Assignment 📅 2024-09-13 ✅ 2024-09-11
 # Comms
 - [x] Figure out software for assignment 📅 2024-09-09 ✅ 2024-09-09
 	- [x] read instructions and rubric ✅ 2024-09-09
-- [ ] Watch week 1 & 2 videos 📅 2024-09-11 
+- [x] Watch week 1 & 2 videos 📅 2024-09-11 ✅ 2024-09-11
 - [x] Parallel list/Oxford comma quiz 📅 2025-09-06 ✅ 2024-09-07
 - [x] Technical definition quiz 📅 2024-09-13 ✅ 2024-09-10
 - [ ] Assignment 1 📅 2024-09-27 🆔 Assignment
@@ -45,13 +45,13 @@ filename includes {{query.file.filename}}
 	- [ ] Wireshark stuff
 - [ ] Packet capture activity
 - [ ] Week 2 readings
-	- [ ] [Network infrastructure devices](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_2_2_0_0/)
+	- [x] [Network infrastructure devices](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_2_2_0_0/) ✅ 2024-09-11
 	- [ ] [Network topologies](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_3_0_0_0/)
 	- [ ] [Overview of networks](https://intronetworks.cs.luc.edu/current2/html/intro.html)
 # Linux
 - [x] Download Arch cloud version ✅ 2024-09-07
 - [x] Make Digital Ocean account ✅ 2024-09-07'
 - [ ] Week 1 readings 📅 2024-09-13 
-	- [ ] [AI can do your homework](https://www.youtube.com/watch?v=bEJ0_TVXh-I)
+	- [x] [AI can do your homework](https://www.youtube.com/watch?v=bEJ0_TVXh-I) ✅ 2024-09-11
 	- [ ] [What is SSH?](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
 	- [ ] [Ch. 2 textbook](https://learning.oreilly.com/library/view/linux-for-system/9781803247946/B18575_02.xhtml)
