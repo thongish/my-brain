@@ -12,7 +12,7 @@ filename includes {{query.file.filename}}
 	- [ ] [[JavaScript Fundamentals]]
 	- [ ] [[JavaScript Review on Strings and Functions]]
 - [ ] Quiz 2??
-- [ ] Lab 2 📅 2024-09-16 
+- [ ] Lab 2 📅 2024-09-16 🆔 Assignment
 - [ ] Watch video??
 # OOP
 - [ ] Go over week 1 notes and create flashcards
@@ -20,7 +20,6 @@ filename includes {{query.file.filename}}
 	- [ ] [[Virtual Environments]]
 	- [ ] [[Modules and Packages]]
 	- [ ] [[Unit Testing and pytest]]
-- [ ] Study for EVAL on week 4
 - [ ] Unit test assignment 📅 2024-09-15 
 # Stats
 - [ ] Finish up Unit 1 flash cards
@@ -28,9 +27,17 @@ filename includes {{query.file.filename}}
 - [ ] Unit 2 practice questions 📅 2024-09-17 
 # Business Systems
 - [ ] Go thru week 1 notes and write flash cards
+- [ ] Assignment 2 📅 2024-09-20 🆔 Assignment
+- [ ] Week 2 readings 📅 2024-09-19 
+	- [ ] chapter 7
+	- [ ] chapter 10 cont.
 # Comms
-- [ ]
+- [ ] Start instruction assignment skeleton
+- [ ] Quiz 2 📅 2024-09-19 
 # Networking
-- [ ]
+- [ ] Go over week 1 notes and make flash cards
+- [ ] Packet capture activity
 # Linux
-- [ ]
+- [ ] Go over week 1 notes and write flash cards
+	- [ ] SSH
+	- [ ] Chapter 2

@@ -40,18 +40,17 @@ filename includes {{query.file.filename}}
 - [x] Technical definition quiz 📅 2024-09-13 ✅ 2024-09-10
 - [ ] Assignment 1 📅 2024-09-27 🆔 Assignment
 # Networking
-- [ ] [Week 1 readings](https://hackmd.io/@yveshema/networking-overview#Reading-List)
-	- [ ] [OSI Model](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_1_1_0_0/)
-	- [ ] Wireshark stuff
-- [ ] Packet capture activity
-- [ ] Week 2 readings
+- [x] [Week 1 readings](https://hackmd.io/@yveshema/networking-overview#Reading-List) ✅ 2024-09-12
+	- [x] [OSI Model](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_1_1_0_0/) ✅ 2024-09-12
+	- [x] Wireshark stuff ✅ 2024-09-12
+- [x] Week 2 readings ✅ 2024-09-12
 	- [x] [Network infrastructure devices](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_2_2_0_0/) ✅ 2024-09-11
-	- [ ] [Network topologies](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_3_0_0_0/)
-	- [ ] [Overview of networks](https://intronetworks.cs.luc.edu/current2/html/intro.html)
+	- [x] [Network topologies](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_3_0_0_0/) ✅ 2024-09-12
+	- [x] [Overview of networks](https://intronetworks.cs.luc.edu/current2/html/intro.html) ✅ 2024-09-12
 # Linux
 - [x] Download Arch cloud version ✅ 2024-09-07
 - [x] Make Digital Ocean account ✅ 2024-09-07'
-- [ ] Week 1 readings 📅 2024-09-13 
+- [x] Week 1 readings 📅 2024-09-13 ✅ 2024-09-12
 	- [x] [AI can do your homework](https://www.youtube.com/watch?v=bEJ0_TVXh-I) ✅ 2024-09-11
-	- [ ] [What is SSH?](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
-	- [ ] [Ch. 2 textbook](https://learning.oreilly.com/library/view/linux-for-system/9781803247946/B18575_02.xhtml)
+	- [x] [What is SSH?](https://www.cloudflare.com/learning/access-management/what-is-ssh/) ✅ 2024-09-12
+	- [x] [Ch. 2 textbook](https://learning.oreilly.com/library/view/linux-for-system/9781803247946/B18575_02.xhtml) ✅ 2024-09-12

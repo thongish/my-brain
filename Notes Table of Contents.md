@@ -66,7 +66,7 @@
 [[2620 Week 9]]
 [[2620 Week 10]]
 # Linux
-[[2420 Week 1]]
+[[2420 Week 1]] What is SSH?, Chapter 2, 
 [[2420 Week 2]]
 [[2420 Week 3]]
 [[2420 Week 4]]
