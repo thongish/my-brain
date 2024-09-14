@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/Common Network Infrastructure Devices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d9cdeefe1aba143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Week 2 Tasks.md",
                 "mode": "source",
                 "source": false
@@ -20,55 +32,19 @@
             }
           },
           {
-            "id": "c3c98d72e0123aac",
+            "id": "c95a51d0c7e37918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1350 Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15277678785656f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Network Topologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f429007e0aaed406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Linux Chapter 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94a7b0634ff4b30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2831 Week 2 Lecture.md",
+                "file": "Week 2 Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/1350 Week 1.md",
+                "file": "Week 2 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/1350 Week 1.md",
+                "file": "Week 2 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/1350 Week 1.md"
+                "file": "Week 2 Tasks.md"
               }
             }
           },
@@ -204,35 +180,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b3ceb9c86b88af18",
+  "active": "c95a51d0c7e37918",
   "lastOpenFiles": [
-    "Notes/2831 Week 2.md",
-    "Notes/1350 Week 1.md",
-    "Questions.md",
-    "Notes/Root Notes",
-    "Notes Table of Contents.md",
+    "Weekly Tasks Archive/Week 1 Tasks.md",
     "Week 2 Tasks.md",
     "Tasks Master List.md",
-    "Notes/Network Topologies.md",
-    "Notes/Linux Chapter 2.md",
-    "Weekly Tasks Archive/Week 1 Tasks.md",
-    "Notes/2620 Week 1.md",
-    "Notes/2420 Week 1.md",
-    "Untitled.canvas",
-    "Notes/OSI Model.md",
-    "Notes/2831 Week 2 Lecture.md",
-    "Notes/Secure Shell (SSH) Protocol.md",
     "Assignment Due Dates.md",
-    "Notes/Business Chapter 10.md",
+    "Notes/2420 Week 1.md",
+    "2420 Week 2.md",
+    "2420 Week 2 Lecture.md",
+    "Notes/2620 Week 2 Lecture.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Notes/Secure Shell (SSH) Protocol.md",
+    "Notes Table of Contents.md",
+    "Notes/Linux Chapter 2 Shell.md",
+    "Notes/2620 Week 1.md",
+    "Notes/2620 Week 2.md",
+    "Notes/OSI Model.md",
     "Notes/Common Network Infrastructure Devices.md",
+    "COMMS shit/COMMS Assignment 1 ex. 1.md",
+    "Notes/1350 Week 1.md",
+    "Notes/Network Topologies.md",
+    "Notes/2831 Week 2 Lecture.md",
+    "Notes/2831 Week 2.md",
+    "Questions.md",
+    "Notes/Root Notes",
+    "Untitled.canvas",
+    "Notes/Business Chapter 10.md",
     "Notes/Stats Unit 1.md",
     "Notes/Stats Unit 2.md",
-    "Notes/2831 Week 1.md",
-    "Notes/Business Chapter 1.md",
-    "Notes/SDLC Video Notes.md",
-    "Notes/1350 Week 2.md",
-    "README.md",
-    "Untitled.md",
     "Images/Pasted image 20240911161500.png",
     "Images/Pasted image 20240911163445.png",
     "Images/Pasted image 20240911163340.png",

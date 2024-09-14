@@ -1,4 +1,4 @@
-
+w
 # Dev Web App 2520
 [[2520 Week 1]] How programming languages work, JavaScript review/refresher/fundamentals
 [[2520 Week 2]]
@@ -55,7 +55,7 @@
 [[2216 Week 9]]
 [[2216 Week 10]]
 # Networking
-[[2620 Week 1]]
+[[2620 Week 1]] OSI Model, Common Network Infrastructure Devices, Network Topologies
 [[2620 Week 2]]
 [[2620 Week 3]]
 [[2620 Week 4]]

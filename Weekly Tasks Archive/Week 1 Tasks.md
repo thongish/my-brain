@@ -23,7 +23,7 @@ filename includes {{query.file.filename}}
 	- [x] Python and virtual env setup ✅ 2024-09-08
 	- [x] Modules and packages ✅ 2024-09-08
 	- [x] Unit testing and pytest ✅ 2024-09-08
-- [ ] Week 2 practice 📅 2024-09-15 🆔 Assignment
+- [x] Week 2 practice 🆔 Assignment 📅 2024-09-15 ✅ 2024-09-13
 # Stats
 - [x] Unit 1 practice 📅 2024-09-11 ✅ 2024-09-10
 - [x] Unit 1 notes 📅 2024-09-10 ✅ 2024-09-10
