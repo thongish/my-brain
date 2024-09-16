@@ -226,8 +226,8 @@ int(another) # Raises an Exception!
 - They return a value (of any type)
 ```python
 def register_student(student_id, name, international=False, scholarship=False):  
-# Do something with the parameters  
-return True
+	# Do something with the parameters  
+	return True
 ```
 - The function `{python}register_student` takes 4 parameters (or arguments)
 	- `{python}student_id` and `{python}name` must be provided in this order
@@ -525,5 +525,48 @@ for key in my_dict.keys():
 
 Are strings mutable (can be changed) or immutable (can't be changed)?::Immutable
 
+```python
+x = " ".join(["Mellaad", "is", "strong", "!"])
+print(x)
+```
+What is printed to the terminal?
+?
+`{python}"Mellaad is strong !"`
 
-## CONTINUE FROM STRINGS
+```python
+phone_num = "604-666-7777"
+print(phone_num.split("-"))
+```
+What is printed here?
+?
+`{python}['604', '666', '7777]`
+
+```python
+def register_student(student_id, name, international=False, scholarship=False):  
+	# Do something with the parameters  
+	return True
+```
+What type of arguments are `{python}international` and `{python}scholarship`, and when calling this function, do you have to pass in arguments for them?
+?
+They are **keyword** arguments and no you don't have to pass in arguments when calling the function because they already have default values
+
+```python
+def append_to_list(value, my_list=[]):
+    my_list.append(value)
+    return my_list
+
+print(append_to_list(1))  
+print(append_to_list(2))  
+print(append_to_list(3))  
+```
+What are the outputs of the 3 print statements?
+?
+```python
+[1]
+[1, 2]
+[1, 2, 3]
+```
+- Every time the function is called, the list gets reused instead of creating a new list 
+
+
+CONTINUE FROM STRINGS

@@ -164,7 +164,100 @@ What is a **data set**?::A set of measurements of certain variables for individu
 
 The **observation** or **measurement** of X is...::the value of X for one specific individual
 
-What kind of sampling method randomly selects a subset of individuals from a population?::Simple random sampling
+What are the 4 methods of **Random Sampling** (Probability Sampling)?
+?
+- Simple random sample
+- Systematic sample
+- Stratified sample
+- Cluster sample
+
+Which sampling method randomly selects a subset of individuals from a population?::Simple random sampling
 
 How do you find the step size in **systemic sampling**?::Population / sample size = step size
+
+Which sampling method selects members of the population at a regular interval?::Systemic sample
+
+Which sampling method divides the population into subgroups based on shared characteristics and proportionally selects random members of each subgroup?::Stratified sample
+
+Which sampling method divides the population into subgroups and then randomly selects whole subgroups?::Cluster sample
+
+What are the 4 methods of **Non-Random Sampling (Non-Probability Sampling**?
+?
+-  Convenience sample
+- Purposive sample
+- Snowball sample
+- Quota sample
+
+Which sampling method intentionally selects members based on their characteristics, knowledge, experiences, or some other criteria?::Purposive sample
+
+Which sampling method where selected individuals help recruit future participants to sample?::Snowball sample
+
+Which sampling method selects participants non-randomly and must ensure a specific number or percentage of participants is sampled?::Quota sample
+
+Which sampling method samples participants based on easy availability or willingness to participate?::Convenience sample
+
+What is a **Sampling error?**::Errors that occur due to the fact that the sampling size is almost always smaller than the population
+
+What is a **Non-sampling error**?::Errors that occur due to human mistakes or machine malfunction
+
+What is an **Error of inclusion**?
+?
+When some individuals are in the **sampling frame** but are **not part of the population**
+- These individuals may be included in the sample which is an error because they are not part of the population (the people we actually want to know about)
+
+What is an **Error of exclusion**?
+?
+When some individuals are **not in the sample frame** but are **part of the population**
+- These individuals will never be included in the sample
+
+How do you reduce **Sampling errors**?
+?
+- Larger sample size
+- Ensure sample has similar proportions to the population
+
+How do you reduce **Non-sampling errors**?
+?
+- Hire people with necessary knowledge and provide training
+- Purchase good quality software
+
+What are the two types of **Random Variables**?
+?
+- Categorical (Qualitative
+	- The value of X is a **label** or **word**
+- Numerical (Quantitative)
+	- The value of X is a **number**
+
+What are the two sub-types of a **Categorical Variable**?
+?
+- Nominal 
+	- i.e. days in a week, colors, fruits, etc.
+- Ordinal
+	- i.e. google rating, customer experience survey (ranking service from 1-5)
+
+What are the two sub-types of a **Numerical Variable**?
+?
+- Ratio
+	- i.e. mass, volume, etc.
+- Interval
+	- i.e. temperature
+
+What is the major difference between a **Nominal** and a **Ordinal** variable?::Nominal variables don't deal with rankings in their values, while ordinal variables do
+
+What is the major difference between **Ratio** and **Interval** variables?
+?
+Ratio variables have an absolute zero while interval variables don't
+- ex. 0 degrees Celsius does not actually mean there is 0 temperature, but 0 mass means there is no mass
+
+What is a **distribution** in the context of **random variables?**
+?
+The underlying "pattern" of a random variable
+- ex. Age distribution among Canadians in 2024
+	- The number of people in younger age groups (i.e. 0-50) may be fairly similar
+	- After age 50, the number of people decreases due to natural life spans
+
+
+
+
+
+
 

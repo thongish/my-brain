@@ -1,3 +1,4 @@
+#WEB/W1 \
 # What is an expression?
 
 - A sequence of **operators** and their **operands**
@@ -61,3 +62,42 @@
 		- 2.12
 		- 2.17
 		- 2.18
+
+# Flash cards
+
+
+What is an expression?::A sequence of operators and their operands that, when evaluated, produces a result value and may generate a side effect.
+
+What is a side effect in the context of evaluating an expression?::An unintended change or output resulting from the evaluation of an expression, such as printing a line of characters to the console.
+
+What are the basic data types defined by the ECMAScript standard?
+?
+- Boolean, 
+- Number, 
+- String, 
+- null and undefined, 
+- objects.
+
+How does JavaScript store numbers?::JavaScript uses 64 bits to store numbers.
+
+What are some special numbers in JavaScript?
+?
+- Infinity (`{js}10 / 0`), 
+- -Infinity (`{js}-10 / -0`), 
+- and NaN (`{js}0 / 0`).
+
+What is a variable in JavaScript?::A storage location identified by a name (identifier) used to hold data values.
+
+What is an identifier in JavaScript?::The name given to a variable or other value in JavaScript, which must start with a letter, underscore (`{js}_`), or dollar sign (`{js}$`), with subsequent characters allowed to be digits (`{js}0 to 9`).
+
+What are some rules for naming identifiers in JavaScript?
+?
+- Use intention-revealing names, 
+- avoid disinformation, 
+- make meaningful distinctions, 
+- use pronounceable and searchable names, 
+- and pick one word per concept.
+
+What is camel case in naming conventions?::A naming convention where the first word is lowercase and each subsequent word starts with an uppercase letter, e.g., `{js}thisIsCamelCase`.
+
+What are the two ways to increment or decrement a number in JavaScript?::Postfix (`{js}a++` or `{js}a--`) which returns the old value, and Prefix (`{js}++a` or `{js}--a`) which returns the new value.

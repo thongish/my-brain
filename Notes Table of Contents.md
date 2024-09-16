@@ -1,7 +1,7 @@
 w
 # Dev Web App 2520
 [[2520 Week 1]] How programming languages work, JavaScript review/refresher/fundamentals
-[[2520 Week 2]]
+[[2520 Week 2]] Callbacks
 [[2520 Week 3]]
 [[2520 Week 4]]
 [[2520 Week 5]]
@@ -12,7 +12,7 @@ w
 [[2520 Week 10]]
 # OOP 2515
 [[2515 Week 1]] Python Basics, Virtual Environments, Modules and Packages, Unit Testing and pytest
-[[2515 Week 2]] 
+[[2515 Week 2]] Object Oriented Programming
 [[2515 Week 3]] 
 [[2515 Week 4]] 
 [[2515 Week 5]] 
@@ -23,7 +23,7 @@ w
 [[2515 Week 10]]
 # Stats
 [[1350 Week 1]] Definitions, sampling, variables, distributions
-[[1350 Week 2]]
+[[1350 Week 2]] Graphical summaries of numerical data
 [[1350 Week 3]]
 [[1350 Week 4]]
 [[1350 Week 5]]
@@ -34,7 +34,7 @@ w
 [[1350 Week 10]]
 # Business Systems
 [[2831 Week 1]] Chapter 1, Chapter 10, SDLC Video
-[[2831 Week 2]]
+[[2831 Week 2]] Chapter 7
 [[2831 Week 3]]
 [[2831 Week 4]]
 [[2831 Week 5]]

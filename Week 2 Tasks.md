@@ -6,42 +6,46 @@ filename includes {{query.file.filename}}
 ```
 
 # Dev Web App
-- [ ] Go over week 1 notes and create flashcards
+- [x] Go over week 1 notes and create flashcards ✅ 2024-09-15
 	- [x] [[How Programming Languages Work]] ✅ 2024-09-08
 	- [x] [[JavaScript syntax review]] ✅ 2024-09-08
-	- [ ] [[JavaScript Fundamentals]]
-	- [ ] [[JavaScript Review on Strings and Functions]]
+	- [x] [[JavaScript Fundamentals]] ✅ 2024-09-15
+	- [x] [[JavaScript Review on Strings and Functions]] ✅ 2024-09-15
 - [ ] Quiz 2??
-- [ ] Lab 2 📅 2024-09-16 🆔 Assignment
+- [x] Lab 2 🆔 Assignment 📅 2024-09-16 ✅ 2024-09-14
 - [ ] Watch video??
 # OOP
-- [ ] Go over week 1 notes and create flashcards
-	- [ ] [[Python Basics]]
-	- [ ] [[Virtual Environments]]
-	- [ ] [[Modules and Packages]]
-	- [ ] [[Unit Testing and pytest]]
+- [x] Go over week 1 notes and create flashcards ✅ 2024-09-15
+	- [x] [[Python Basics]] ✅ 2024-09-15
+	- [x] [[Virtual Environments]] ✅ 2024-09-15
+	- [x] [[Modules and Packages]] ✅ 2024-09-15
+	- [x] [[Unit Testing and pytest]] ✅ 2024-09-15
 - [x] Unit test assignment 📅 2024-09-15 ✅ 2024-09-13
-- [ ] Readings (OOP) 📅 2024-09-22
+- [x] Readings (OOP) 📅 2024-09-22 ✅ 2024-09-14
 - [ ] Evo assignment 📅 2024-09-22 🆔 Assignment
-- [ ] Quiz 3 📅 2024-09-22 
+- [x] Quiz 3 📅 2024-09-22 ✅ 2024-09-14
 - [ ] Hangman part 2 📅 2024-09-22 🆔 Assignment
 # Stats
-- [ ] Finish up Unit 1 flash cards
-- [ ] Finish Unit 2 notes and flash cards 📅 2024-09-17
+- [x] Finish up Unit 1 flash cards ✅ 2024-09-15
+- [x] Finish Unit 2 notes and flash cards 📅 2024-09-17 ✅ 2024-09-15
 - [ ] Unit 2 practice questions 📅 2024-09-17 
 # Business Systems
-- [ ] Go thru week 1 notes and write flash cards
+- [x] Go thru week 1 notes and write flash cards ✅ 2024-09-15
 - [ ] Assignment 2 📅 2024-09-20 🆔 Assignment
-- [ ] Week 2 readings 📅 2024-09-19 
-	- [ ] chapter 7
-	- [ ] chapter 10 cont.
+- [x] Week 2 readings 📅 2024-09-19 ✅ 2024-09-15
+	- [x] chapter 7 ✅ 2024-09-15
+	- [x] chapter 10 cont. ✅ 2024-09-15
 - [ ] Go thru and define terms for week 1 and 2 📅 2024-09-19 
 # Comms
-- [ ] Start instruction assignment skeleton 📅 2024-09-16 
-- [ ] Quiz 3 📅 2024-09-19
+- [x] Start instruction assignment skeleton 📅 2024-09-16 ✅ 2024-09-14
+- [ ] Finish my portion of assignment 1 📅 2024-09-19 🆔 Assignment
+- [x] Quiz 3 📅 2024-09-19 ✅ 2024-09-14
 - [ ] Read chapter 10, 11, 12
 # Networking
-- [ ] Go over week 1 notes and make flash cards
+- [x] Go over week 1 notes and make flash cards ✅ 2024-09-15
+	- [x] OSI Model ✅ 2024-09-15
+	- [x] Common network infrastructure devices ✅ 2024-09-15
+	- [x] network topologies ✅ 2024-09-15
 - [ ] Packet capture activity
 - [ ] Week 2 readings 📅 2024-09-20 
 	- [ ] Ethernet fundamentals

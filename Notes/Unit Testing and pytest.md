@@ -27,7 +27,7 @@
 	- Test files are any files that match the patterns:
 		- `{bash}test_*.py`
 		- `{bash}*_test.py`
-	- Tests are functions/methods whose names start with `{bash}test_`
+	- Tests are functions/methods whose names start with `{python}test_`
 	- Tests can be:
 		- regular functions outside of classes
 		- methods inside classes, whose names start with `{python}Test`
@@ -128,3 +128,37 @@ def test_add_values_invalid():
 - True for software development in general
 
 # [[2515 Week 1]]
+
+
+# Flash cards
+
+```python
+# test_something.py  
+def test_thingy():          # 1
+	pass  
+def thing():                # 2
+	pass  
+class Something:  
+	def test_thing(self):   # 3
+		pass  
+class TestSomething:        # 4
+	def test_thing2(self): 
+```
+Which of these classes/functions will pytest run?
+?
+1 and 4
+- Test function names must start with `{python}test_` 
+- Class names must start with `{python}Test`
+
+```python
+def add_values(a, b):
+	return a+b
+```
+What might the unit test look like for this function?
+?
+```python
+def test_add_values():
+	result = add_values(2,3)
+	assert result == 5     # This line makes sure the output is the one we expect
+```
+

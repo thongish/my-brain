@@ -1,3 +1,4 @@
+#BUSINESS/W1 
 # Information systems development
 
 ## Programming
@@ -116,3 +117,46 @@
 - Lean methodology works best in entrepreneurial environment where a company is interested in determining if their idea is worth developing
 
 - Big difference between iterative and non-iterative methodologies is that the full set of requirements for the system are not known when the project is launched
+
+
+# Flash cards
+
+What is programming?::The process of creating a set of logical instructions for a digital device to follow using a programming language.
+
+What is the Systems Development Life Cycle (SDLC)?::A structured and risk-averse methodology designed to manage large projects with multiple programmers and significant organizational impact, often referred to as the waterfall methodology.
+
+What is the waterfall methodology?::A structured approach where each phase must be completed before the next begins, criticized for being rigid and not allowing changes once the process has started.
+
+What are the common phases of the Systems Development Life Cycle (SDLC)?::1. Preliminary analysis, 2. System analysis, 3. System design, 4. Programming, 5. Testing, 6. Implementation, 7. Maintenance.
+
+What occurs during the preliminary analysis phase of Systems Development Life Cycle (SDLC)?::Important questions are asked to assess the problem, feasibility, and project fit, leading to a feasibility study covering technical, economic, and legal aspects.
+
+What happens in the system analysis phase of Systems Development Life Cycle (SDLC)?::System analysts determine specific requirements by documenting procedures, interviewing key users, and developing data requirements, resulting in a system requirements document.
+
+What is produced during the system design phase of Systems Development Life Cycle (SDLC)?::A system design document that includes technical details required for the system, such as UI, database design, data inputs/outputs, and reporting.
+
+What is the programming phase in Systems Development Life Cycle (SDLC)?::Programmers develop the software using the system design document as a guide, resulting in an initial working software that meets the requirements.
+
+What is the purpose of the testing phase in Systems Development Life Cycle (SDLC)?::To put the software through structured tests like unit tests, system tests, and user acceptance tests to identify and resolve bugs and issues.
+
+What occurs during the implementation phase of Systems Development Life Cycle (SDLC)?::Training users, providing documentation, and converting data from the previous system to the new system.
+
+What is involved in the maintenance phase of Systems Development Life Cycle (SDLC)?::Providing support, fixing bugs, evaluating and implementing new feature requests, and making system updates and backups.
+
+What is Rapid Application Development (RAD)?::A methodology that focuses on quickly building a working model, getting user feedback, and iterating on the model to develop a final version.
+
+What are the four phases of RAD methodology?::1. Requirements planning, 2. User Design, 3. Construction, 4. Cutover.
+
+What is the cutover phase in RAD?::Switching from the old system to the new software, with migration approaches varying between organizations, such as immediate switch or running both systems in parallel.
+
+What are Agile methodologies?::A group of methodologies that utilize incremental changes with a focus on quality, with each increment released in a specific time period, based on the Agile Manifesto.
+
+What are characteristics of agile methodology?::Small cross-functional teams, daily status meetings, short time-frame increments, and a working project at the end of each iteration.
+
+What is Lean methodology?::A focus on developing a Minimum Viable Product (MVP) to demonstrate the core idea, gathering feedback, and iterating based on that feedback, with potential pivots in strategy.
+
+What is a Minimum Viable Product (MVP)?::A working software application with just enough functionality to demonstrate the idea behind the project.
+
+What is a pivot in Lean methodology?::A change in strategy based on feedback, which may involve rethinking the core idea or altering functions to create a new MVP.
+
+What is a key difference between iterative and non-iterative methodologies?::In iterative methodologies, the full set of requirements is not known at the project launch, while non-iterative methodologies require complete requirements upfront.

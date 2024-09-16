@@ -1,4 +1,4 @@
-
+#NETWORK/W1
 
 **Router**
 - A Layer 3 device that can make forwarding decisions based on logical addresses (i.e. IP addresses)
@@ -53,3 +53,36 @@
 
 **Network-Attached Storage (NAS) Device**
 - A network appliance that makes storage resources (i.e. large, redundant hard drives) available to network clients
+
+
+# Flash cards
+
+What is a **router**?::A Layer 3 device that can make forwarding decisions based on logical addresses (i.e. IP addresses).
+
+What is a **Wide Area Network** (WAN)?::A network connection that interconnects geographically separate networks.
+
+What is a **Virtual Private Network** (VPN)?::Allows a secure connection to be set up over an untrusted network, creating a virtual tunnel that connects devices over the internet.
+
+What is a **Wireless Access Point** (WAP)?::Communicates with wireless devices (i.e. smartphones, laptops, printers) and interconnects them with a wired network.
+
+What is a **switch**?::A Layer 2 device that makes forwarding decisions based on physical addresses (i.e. MAC addresses) and builds a MAC address table.
+
+What is a **Network Interface Card** (NIC)?::A card inside a networked device that allows the device to communicate on a network, with a MAC address burned into the card.
+
+What is a **Media Access Control** (MAC) address?::A 48-bit address burned into a NIC, typically written in hexadecimal notation.
+
+What is an Intru**sion Prevention System** (IPS)?::A sensor that sits in-line with network traffic, can recognize the signature of well-known attacks, and stop them.
+
+What is an Intrusio**n Detection System** (IDS)?::A sensor that receives a copy of network traffic, can recognize the signature of well-known attacks, and stop them, but is not as secure as the IPS.
+
+What is a **firewall**?::A network device that uses a set of rules to determine what traffic to permit or deny between portions (i.e. zones) of a network.
+
+What is a D**emilitarized Zone** (DMZ)?::A portion of a network that should be accessible by external devices (i.e. devices on the internet) and hosts public-facing services like web, email, and FTP servers.
+
+What is a **firewall router**?::A router configured to perform both firewall functions and routing functions.
+
+What is a **multilayer switch**?::An Ethernet switch that can make forwarding decisions based on Layer 3 (i.e. IP addresses) and Layer 2 (i.e. MAC addresses) information.
+
+What is a **cache engine**?::Locally stores content retrieved from a remote network (typically the internet) and sends it to local devices, saving bandwidth.
+
+What is a **Network-Attached Storage** (NAS) device?::A network appliance that makes storage resources (i.e. large, redundant hard drives) available to network clients.****

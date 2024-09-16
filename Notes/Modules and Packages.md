@@ -148,4 +148,27 @@ open("file.txt", "r")
 - `python -m my_package.my_module`: WORKS (preferred way)
 - `cd my_package`, and then `python my_module.py`: DOES NOT WORK (there is no "main.txt" file in the `{python}my_package` folder)
 
+
+# Flash Cards
+
+```python
+├── constants.py
+├── display       # This is the PACKAGE display
+│ ├── __init__.py
+│ └── show_map.py # It contains the MODULE show_map
+├── logic         # This is the PACKAGE logic
+│ ├── __init__.py
+│ ├── computer    # It contains a PACKAGE computer
+│ │ ├── __init__.py
+│ │ └── aimbot.py # Which contains a MODULE aimbot
+│ │               # This module has a FUNCTION shoot() in its code
+│ ├── game.py     # This module belongs to the PACKAGE computer
+│ └── win.py
+└── main.py
+```
+Let's say you wanted to import the aimbot module so you can use the `{python}shoot()` function. How would you do that?
+?
+`{python}import logic.computer.aimbot`
+
+
 # [[2515 Week 1]]

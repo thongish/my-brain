@@ -1,3 +1,4 @@
+#BUSINESS/W1 
 # What is an information system?
 
 ## Defining information systems
@@ -12,3 +13,14 @@
 	- People
 	- Processes
 		- A series of steps undertaken to achieve a desired outcome or goal
+
+
+# Flash cards
+
+What is an information system?::A collection of interrelated components that manipulates data to support organizations.
+
+What are the five major components of an information system?::Hardware, Software, Data, People, and Processes.
+
+What is data in the context of an information system?::A collection of facts.
+
+What are processes in an information system?::A series of steps undertaken to achieve a desired outcome or goal.

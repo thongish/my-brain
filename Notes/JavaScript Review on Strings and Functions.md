@@ -1,3 +1,4 @@
+#WEB/W1
 # Functions 
 
 - **Hierarchical function call** or **nested function call**
@@ -108,3 +109,50 @@ var totalCM = totalInches * cmPerInch;
 
 console.log('Centimeters: %f\n', totalCM);
 ```
+
+
+
+
+# Flash cards
+
+What is a hierarchical function call in programming?::When you call a function or multiple functions within a function.
+
+How should functions generally be designed?::Functions should generally do just one thing; if a function does more than one thing, it should be decomposed into two or more functions.
+
+What is the convention for a function or method returning -1?::It commonly indicates that a search term was not found.
+
+What does the `{js}Number(value)` function do in JavaScript?::It converts the value to a number.
+
+What does the `{js}String(value)` function do in JavaScript?::It converts the value to a string.
+
+What does the `{js}isFinite(number)` function do in JavaScript?::It returns false if the number is `Infinity`, `-Infinity`, or `NaN`.
+
+What does the `{js}isNaN(number)` function do in JavaScript?::It returns false if the argument is not a number.
+
+What does the `{js}parseFloat(string)` function do in JavaScript?::It parses a string and returns a floating-point number.
+
+What does the `{js}parseInt(string)` function do in JavaScript?::It parses a string and returns an integer.
+
+What is a string in JavaScript?::A sequence of text characters that can be stored in a variable.
+
+What is a string literal in JavaScript?::The value of a string, e.g., `{js}"This is a string literal"`.
+
+How can you fix a string containing single quotes in JavaScript?::Use a backslash to escape the single quote, e.g., `{js}'My mom\'s car is faster than my car'`.
+
+Do string methods like `{js}string.toUpperCase()` change the original string?::No, they do not change the original string.
+
+How are strings compared in JavaScript?::Strings are compared lexicographically based on Unicode code points.
+
+What is Unicode in JavaScript?::A character set that represents every possible character with a unique integer known as a code point.
+
+How can you convert a text character to its Unicode code point in JavaScript?::Use the function `{js}string.codePointAt()`.
+
+What is the scope of global variables in JavaScript?::Global variables are defined outside of a function and extend from their assignment statement to the end of the file.
+
+What is the scope of local variables in JavaScript?::Local variables are defined inside a function or block and are limited to inside that function or block.
+
+What is the `{js}readline-sync` Node module used for?::It allows getting input from the user in the terminal.
+
+Why should you clean input data when using `{js}readline-sync`?::To ensure the data is in the correct format, such as trimming whitespace and converting to the right case.
+
+How do you convert user input from `{js}readline-sync` to numbers in JavaScript?::Use `{js}parseInt()` or `{js}parseFloat()` to convert the string inputs to numbers.
