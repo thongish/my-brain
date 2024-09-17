@@ -71,7 +71,7 @@ What is a **Network Interface Card** (NIC)?::A card inside a networked device th
 
 What is a **Media Access Control** (MAC) address?::A 48-bit address burned into a NIC, typically written in hexadecimal notation.
 
-What is an Intru**sion Prevention System** (IPS)?::A sensor that sits in-line with network traffic, can recognize the signature of well-known attacks, and stop them.
+What is an **Intrusion Prevention System** (IPS)?::A sensor that sits in-line with network traffic, can recognize the signature of well-known attacks, and stop them.
 
 What is an Intrusio**n Detection System** (IDS)?::A sensor that receives a copy of network traffic, can recognize the signature of well-known attacks, and stop them, but is not as secure as the IPS.
 

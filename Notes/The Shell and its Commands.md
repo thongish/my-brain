@@ -1,6 +1,4 @@
 #LINUX/W1
-# The shell and its commands
-
 ## Definitions
 
 **Portable Operating System Interface** (POSIX)
@@ -159,3 +157,118 @@ Must run the chmod command to make the file executable
 	- Used if you're a non-privileged user and want to modify the group membership of your own file
 - `{bash}man -k`
 	- Searching man pages with keywords
+
+
+
+# Flash cards
+
+What is a shell?::A program that receives commands and sends them to the operating system for processing.
+
+What is the fundamental capability of shells?
+?
+The ability to launch command-line programs already installed on the system.
+- Also offers built-ins and scripting control structures such as conditional loops
+
+What are some common Linux shells??
+- sh, 
+- csh/tcsh, 
+- ksh, 
+- bash, 
+- zsh, 
+- and fish
+
+How can you view the search path in bash?::`{bash}echo $PATH`
+
+How do you check your shell version?::`{bash}echo $SHELL`
+
+What is the purpose of flags?
+?
+To change how the invoked program behaves.
+- ex. `{bash}ls -lt`
+	- The `{bash}-lt` here outputs a lengthy listing of files arranged by creation time
+
+What are wildcards used for?
+?
+To match file names in the current directory.
+- ex. `{bash}ls -l *.sh`
+	- Listing files named `anything.sh`
+
+What is the cat command used for?::`{bash}cat /etc/passwd` (displays the contents of a file).
+
+What is command piping?
+?
+Taking the output of one program and using it as an input for another program
+-  ex. `{bash}cat testfile.txt | wc -w`
+	- Return content of the file and piping it to the `{bash}wc` command to count the number of words
+
+There are variables predefined in bash, such as `{bash}$HOME`, how do you see the list of all these variables?::Use the `{bash}set` command
+
+What does `{bash}pwd` do?::Prints the absolute path of the current working directory.
+
+How do you make a new directory?::`{bash}mkdir <directory name>`
+
+How do you delete a directory?::`{bash}rmdir <directory name>` (removes an empty directory).
+
+What command can be used to recursively remove directories and files?::`{bash}rmdir -rf <directory name>`
+
+What is the purpose of `{bash}touch`?::To create an empty file or update the modification date of a file.
+
+What does `ls` do?::Lists all files and directories in the current directory.
+
+How can you see hidden files with `{bash}ls`?::`{bash}ls -a`
+
+How do you list files with details using `{bash}ls`?::`{bash}ls -la`
+
+How do you copy a file?::`{bash}cp <file to be copied> <where to copy it>`
+
+How do you move or rename a file?::`{bash}mv <file1> <file2>` (can be used for both moving and renaming).
+
+How do you remove a file?::`{bash}rm <file>`
+
+What do the `{bash}-r` and `{bash}-f` flags in `{bash}rm` do?::`{bash}-r `removes directories recursively, and `{bash}-f` forces removal.
+
+What is `{bash}locate` used for?::To find the path of a file on the system.
+
+How can you make `locate` ignore case sensitivity?::`{bash}locate -i <file name>`
+
+What is `{bash}echo` used for?::To display content and write to a file.
+
+How can you append content to a file with `{bash}echo`?::`{bash}echo "content to be appended" >> file1.txt`
+
+How do you overwrite content in a file using `{bash}echo`?::`{bash}echo "this content will replace" > file1.txt`
+
+What does `{bash}cat` do?::Reads and displays the content of a file.
+
+What does `{bash}df` do?::Displays filesystem information like disk usage and available space.
+
+How do you make `{bash}df` output human-readable?::`{bash}df -h`
+
+What does `{bash}du` do?::Shows the size of a directory and its subdirectories.
+
+How can you make `{bash}du` output human-readable?::`{bash}du -sh`
+
+What does `{bash}uname` do?::Displays system information about the operating system.
+
+How do you view detailed system information with `{bash}uname`?::`{bash}uname -a`
+
+What does `{bash}chmod` do?::Changes file permissions for read, write, and execute.
+
+What are the permission levels in `{bash}chmod`?::4 = read, 2 = write, 1 = execute, 0 = no permission.
+
+What is an example of a `{bash}chmod` command with octal notation?::`{bash}chmod 754 file1.txt`
+
+How do you change a file's permissions to,
+User = read/write
+Group = read/write
+Owner = read/write/execute
+?
+`{bash}chmod 667 file1.txt`
+`{bash}chmod u=rw,g=rw,o=rwx file1.txt`
+
+What does `{bash}chown` do?::Changes the ownership of a file or directory.
+
+How do you change the owner and group of a file?::`{bash}chown <user>:<group> <file or directory name>`
+
+What does `{bash}chgrp` do?::Changes the group ownership of a file or directory.
+
+How can you search man pages by keyword?::`{bash}man -k <keyword>`

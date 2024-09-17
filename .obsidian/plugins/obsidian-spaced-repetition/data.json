@@ -122,18 +122,19 @@
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
-    "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 40,
+    "flashcardHeightPercentage": 100,
+    "flashcardWidthPercentage": 100,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
-    "convertHighlightsToClozes": true,
+    "convertHighlightsToClozes": false,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
+    "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
@@ -150,9 +151,10 @@
     "easyBonus": 1.3,
     "maximumInterval": 36525,
     "maxLinkFactor": 1,
-    "showDebugMessages": false
+    "showDebugMessages": false,
+    "showPaserDebugMessages": false
   },
-  "buryDate": "2024-09-15",
+  "buryDate": "2024-09-16",
   "buryList": [],
   "historyDeck": null
 }

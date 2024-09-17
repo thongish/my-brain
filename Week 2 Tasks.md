@@ -11,7 +11,7 @@ filename includes {{query.file.filename}}
 	- [x] [[JavaScript syntax review]] ✅ 2024-09-08
 	- [x] [[JavaScript Fundamentals]] ✅ 2024-09-15
 	- [x] [[JavaScript Review on Strings and Functions]] ✅ 2024-09-15
-- [ ] Quiz 2??
+- [x] Quiz 2?? ✅ 2024-09-16
 - [x] Lab 2 🆔 Assignment 📅 2024-09-16 ✅ 2024-09-14
 - [ ] Watch video??
 # OOP
@@ -31,29 +31,27 @@ filename includes {{query.file.filename}}
 - [ ] Unit 2 practice questions 📅 2024-09-17 
 # Business Systems
 - [x] Go thru week 1 notes and write flash cards ✅ 2024-09-15
-- [ ] Assignment 2 📅 2024-09-20 🆔 Assignment
+- [x] Assignment 2 🆔 Assignment 📅 2024-09-20 ✅ 2024-09-16
 - [x] Week 2 readings 📅 2024-09-19 ✅ 2024-09-15
 	- [x] chapter 7 ✅ 2024-09-15
 	- [x] chapter 10 cont. ✅ 2024-09-15
-- [ ] Go thru and define terms for week 1 and 2 📅 2024-09-19 
+- [x] Go thru and define terms for week 1 and 2 📅 2024-09-19 ✅ 2024-09-16
 # Comms
 - [x] Start instruction assignment skeleton 📅 2024-09-16 ✅ 2024-09-14
 - [ ] Finish my portion of assignment 1 📅 2024-09-19 🆔 Assignment
 - [x] Quiz 3 📅 2024-09-19 ✅ 2024-09-14
-- [ ] Read chapter 10, 11, 12
 # Networking
 - [x] Go over week 1 notes and make flash cards ✅ 2024-09-15
 	- [x] OSI Model ✅ 2024-09-15
 	- [x] Common network infrastructure devices ✅ 2024-09-15
 	- [x] network topologies ✅ 2024-09-15
-- [ ] Packet capture activity
-- [ ] Week 2 readings 📅 2024-09-20 
-	- [ ] Ethernet fundamentals
-	- [ ] Ethernet basics
+- [x] Week 2 readings 📅 2024-09-20 ✅ 2024-09-16
+	- [x] Ethernet fundamentals ✅ 2024-09-16
+	- [x] Ethernet basics ✅ 2024-09-16
 # Linux
-- [ ] Go over week 1 notes and write flash cards
-	- [ ] SSH
-	- [ ] Chapter 2
+- [x] Go over week 1 notes and write flash cards ✅ 2024-09-16
+	- [x] SSH ✅ 2024-09-16
+	- [x] Chapter 2 ✅ 2024-09-16
 - [ ] Readings 📅 2024-09-20 
-	- [ ] chapter 3
+	- [x] chapter 3 ✅ 2024-09-16
 	- [ ] introduction to cloud-init

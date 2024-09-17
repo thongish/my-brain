@@ -474,7 +474,7 @@ Because without the use of `{js}var` ,  `{js}let`,  or `{js}const`, the variable
 
 ```js
 let someVar = 10;
-
+//
 someVar++;
 someVar--;
 ```
@@ -485,7 +485,7 @@ What is the value of `{js}someVar`?
 
 ```js
 let myArray = [1, 2, 3, 4];
-
+//
 myArray.unshift(0);
 ```
 What is the value of `{js}myArray`?
@@ -495,7 +495,7 @@ What is the value of `{js}myArray`?
 
 ```js
 let myArray = [1, 2, 3, 4];
-
+//
 someVar = myArray.shift();
 ```
 What is the value of `{js}someVar`?
@@ -506,7 +506,7 @@ What is the value of `{js}someVar`?
 
 ```js
 let myArray = [1, 2, 3, 4];
-
+//
 someVar = myArray.pop();
 ```
 What is the value of `{js}someVar`?
@@ -516,7 +516,7 @@ What is the value of `{js}someVar`?
 
 ```js
 let myArray0 = [32,false,"js",12,56,90];
-
+//
 console.log(myArray0.join("-"));
 ```
 What is the output of this code snippet?
@@ -527,7 +527,7 @@ What is the output of this code snippet?
 
 ```js
 let myArray0 = [32,false,"js",12,56,90];
-
+//
 console.log(myArray0.slice(1,4));
 ```
 What is the output of this code snippet?
@@ -552,9 +552,8 @@ let myObj = {
 	key1: "value1",
 	key2: "value2",
 };
-
+//
 myObj[key1];
-
 myObj.key1;
 ```
 Which of the two accessing methods is correct in this code snippet?
@@ -583,9 +582,8 @@ How many times will this for loop run?
 
 ```js
 let description = "";
-
 let person = { fname: "Adam", lname: "Siyala", age: 20};
-
+//
 for (let key in person) {
     description += person[key] + " ";
 };
@@ -597,9 +595,8 @@ What is the value of `{js}description`?
 
 ```js
 let myPets = "";
-
 let pets = ["cat", "dog", "hamster", "bunny"];
-
+//
 for (let pet of pets){
     myPets += pet + " ";
 };
@@ -614,7 +611,7 @@ let house = {
 	size: "big",
 	color: "red",
 };
-
+//
 if (house.size == "big" && house.color == "blue") {
 	console.log("Big blue house");
 };
@@ -628,7 +625,7 @@ let house = {
 	size: "big",
 	color: "red",
 };
-
+//
 if (house.size == "big" || house.color == "blue") {
 	console.log("Big blue house");
 };
@@ -664,13 +661,13 @@ How do you declare a JavaScript function?
 Using the `{js}function` keyword
 ```js
 function myFunction() {
-    
+	//do something
 }
 ```
 
 ```js
 function myFunc() {
-
+	//do something
 }
 ```
 What kind of function syntax is this?
@@ -679,7 +676,7 @@ Function declaration syntax
 
 ```js
 let myFunc() = function() {
-
+	// do something
 }
 ```
 What kind of function syntax is this?
@@ -688,7 +685,7 @@ Function expression syntax
 
 ```js
 let myFunc() = () => {
-
+	// do something
 }
 ```
 What kind of function syntax is this?
@@ -697,9 +694,8 @@ Arrow function syntax
 
 ```js
 myFunc();
-
 function myFunc() {
-
+	// do something
 }
 ```
 Will this piece of code run?

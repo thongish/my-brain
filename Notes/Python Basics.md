@@ -415,11 +415,11 @@ What is a dynamically typed language::means the type of variable is determined o
 
 ```python
 something = "This is something"
-
+#
 def example_function():
 	something = " "
 	return something
-
+#
 example_function()
 print(something)
 ```
@@ -449,7 +449,7 @@ Floor division or Integer division
 ```python
 rich = True
 beautiful = True
-
+#
 attractive = rich and beautiful
 not_attractive = not (rich and beautiful)
 not_attractive_2 = not rich or not beautiful
@@ -554,7 +554,7 @@ They are **keyword** arguments and no you don't have to pass in arguments when c
 def append_to_list(value, my_list=[]):
     my_list.append(value)
     return my_list
-
+#
 print(append_to_list(1))  
 print(append_to_list(2))  
 print(append_to_list(3))  
@@ -568,5 +568,3 @@ What are the outputs of the 3 print statements?
 ```
 - Every time the function is called, the list gets reused instead of creating a new list 
 
-
-CONTINUE FROM STRINGS

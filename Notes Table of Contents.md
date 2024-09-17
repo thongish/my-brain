@@ -1,4 +1,4 @@
-w
+
 # Dev Web App 2520
 [[2520 Week 1]] How programming languages work, JavaScript review/refresher/fundamentals
 [[2520 Week 2]] Callbacks
@@ -33,8 +33,8 @@ w
 [[1350 Week 9]]
 [[1350 Week 10]]
 # Business Systems
-[[2831 Week 1]] Chapter 1, Chapter 10, SDLC Video
-[[2831 Week 2]] Chapter 7
+[[2831 Week 1]] Chapter 1, Chapter 10, SDLC Video, Glossary
+[[2831 Week 2]] Chapter 7, Glossary
 [[2831 Week 3]]
 [[2831 Week 4]]
 [[2831 Week 5]]
@@ -56,7 +56,7 @@ w
 [[2216 Week 10]]
 # Networking
 [[2620 Week 1]] OSI Model, Common Network Infrastructure Devices, Network Topologies
-[[2620 Week 2]]
+[[2620 Week 2]] Ethernet Fundamentals
 [[2620 Week 3]]
 [[2620 Week 4]]
 [[2620 Week 5]]
@@ -66,8 +66,8 @@ w
 [[2620 Week 9]]
 [[2620 Week 10]]
 # Linux
-[[2420 Week 1]] What is SSH?, Chapter 2, 
-[[2420 Week 2]]
+[[2420 Week 1]] What is SSH?, Chapter 2 Shell, 
+[[2420 Week 2]] Chapter 3 Linux Filesystem
 [[2420 Week 3]]
 [[2420 Week 4]]
 [[2420 Week 5]]

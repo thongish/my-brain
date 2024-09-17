@@ -52,3 +52,19 @@
 # What port does SSH use?
 
 - Port 22 is the default port for SSH
+
+
+
+# Flash cards
+
+What is SSH?::A method for securely sending commands to a computer over an unsecured network.
+
+What is public key cryptography?::A method to encrypt or sign data with two different keys: a public key available to anyone and a private key kept secret by its owner.
+
+How does SSH use public key cryptography?::Both sides in an SSH connection have a public/private key pair and authenticate each other using these keys.
+
+What additional authentication is often required in SSH?::A username and password.
+
+What is SSH used for?::Remotely managing servers, securely transferring files, accessing cloud services, connecting to private network services, and bypassing firewall restrictions.
+
+What port does SSH use?::Port 22.
