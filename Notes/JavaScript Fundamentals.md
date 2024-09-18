@@ -67,8 +67,10 @@
 
 
 What is an expression?::A sequence of operators and their operands that, when evaluated, produces a result value and may generate a side effect.
+<!--SR:!2024-09-18,1,230-->
 
 What is a side effect in the context of evaluating an expression?::An unintended change or output resulting from the evaluation of an expression, such as printing a line of characters to the console.
+<!--SR:!2024-09-18,1,230-->
 
 What are the basic data types defined by the ECMAScript standard?
 ?
@@ -77,18 +79,23 @@ What are the basic data types defined by the ECMAScript standard?
 - String, 
 - null and undefined, 
 - objects.
+<!--SR:!2024-09-18,1,230-->
 
 How does JavaScript store numbers?::JavaScript uses 64 bits to store numbers.
+<!--SR:!2024-09-18,1,230-->
 
 What are some special numbers in JavaScript?
 ?
 - Infinity (`{js}10 / 0`), 
 - -Infinity (`{js}-10 / -0`), 
 - and NaN (`{js}0 / 0`).
+<!--SR:!2024-09-20,3,250-->
 
 What is a variable in JavaScript?::A storage location identified by a name (identifier) used to hold data values.
+<!--SR:!2024-09-18,1,230-->
 
 What is an identifier in JavaScript?::The name given to a variable or other value in JavaScript, which must start with a letter, underscore (`{js}_`), or dollar sign (`{js}$`), with subsequent characters allowed to be digits (`{js}0 to 9`).
+<!--SR:!2024-09-18,1,230-->
 
 What are some rules for naming identifiers in JavaScript?
 ?
@@ -97,7 +104,10 @@ What are some rules for naming identifiers in JavaScript?
 - make meaningful distinctions, 
 - use pronounceable and searchable names, 
 - and pick one word per concept.
+<!--SR:!2024-09-18,1,230-->
 
 What is camel case in naming conventions?::A naming convention where the first word is lowercase and each subsequent word starts with an uppercase letter, e.g., `{js}thisIsCamelCase`.
+<!--SR:!2024-09-20,3,250-->
 
-What are the two ways to increment or decrement a number in JavaScript?::Postfix (`{js}a++` or `{js}a--`) which returns the old value, and Prefix (`{js}++a` or `{js}--a`) which returns the new value.
+What are the two ways to increment or decrement a number in JavaScript? and what do they return?::Postfix (`{js}a++` or `{js}a--`) which returns the old value, and Prefix (`{js}++a` or `{js}--a`) which returns the new value.
+<!--SR:!2024-09-18,1,230-->
