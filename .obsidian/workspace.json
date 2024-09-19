@@ -21,18 +21,6 @@
             }
           },
           {
-            "id": "a7094346fba3f095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Business Chapter 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d1566bfbb0216a9a",
             "type": "leaf",
             "state": {
@@ -62,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stats Unit 3.md",
+                "file": "Notes/The Linux Filesystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,18 +63,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1bf1a1692fecfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/The Linux Filesystem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bc58d4ed0213e2bb",
             "type": "leaf",
             "state": {
@@ -97,8 +73,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7094346fba3f095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/The Linux Filesystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -164,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3 Tasks.md",
+                "file": "Notes/The Linux Filesystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3 Tasks.md",
+                "file": "Notes/The Linux Filesystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3 Tasks.md"
+                "file": "Notes/The Linux Filesystem.md"
               }
             }
           },
@@ -234,10 +224,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "766444b610cfba3c",
+  "active": "a7094346fba3f095",
   "lastOpenFiles": [
-    "Notes/The Linux Filesystem.md",
     "Week 3 Tasks.md",
+    "Notes/The Linux Filesystem.md",
+    "Notes/Stats Unit 3.md",
+    "Notes/2831 Week 2 Glossary.md",
+    "Notes Table of Contents.md",
+    "Notes/Business Chapter 7.md",
     "Tasks Master List.md",
     "README.md",
     "Questions.md",
@@ -246,7 +240,6 @@
     "Images/Pasted image 20240918140651.png",
     "Notes/Stats Unit 2.md",
     "Notes/2420 Week 2.md",
-    "Notes Table of Contents.md",
     "Notes/2520 Week 2.md",
     "Notes/WEB Week 2 Lecture.md",
     "Notes/WEB Week 2 Lecture Notes.md",
@@ -254,11 +247,8 @@
     "Notes/Object Oriented Programming.md",
     "Notes/2515 Week 3.md",
     "Notes/2515 Week 3 Lecture.md",
-    "Notes/Stats Unit 3.md",
     "Notes/1350 Week 2.md",
     "Notes/2831 Week 2.md",
-    "Notes/2831 Week 2 Glossary.md",
-    "Notes/Business Chapter 7.md",
     "Notes/2831 Week 2 Lecture.md",
     "Notes/1350 Week 3.md",
     "Notes/1350 Week 1.md",

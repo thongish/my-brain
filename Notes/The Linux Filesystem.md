@@ -215,3 +215,103 @@
 - Use the command `{bash}top` to monitor CPU utilization
 
 ![[Pasted image 20240916202703.png]]
+
+
+
+
+# Flash cards
+
+What is a filesystem?::A framework used to organize and handle the storage and retrieval of data on computers.
+
+What is the role of a filesystem?::It isolates and identifies data by breaking it into pieces and naming each piece.
+
+What is ext?::Extended filesystem.
+
+What is ext2?::Second expanded filesystem.
+
+What is ext3?::An upgraded version of ext2 with journaling capabilities.
+
+What is journaling in ext3?::A system that logs changes, allowing recovery and repair in case of crashes.
+
+What are the three levels of journaling in ext3?::Journal, Writeback, and Ordered.
+
+What is the Journal journaling mode?::Logs both user data and metadata for maximum recovery, but is the slowest.
+
+What is the Writeback journaling mode?::Only logs metadata updates, prioritizing performance over data consistency.
+
+What is the Ordered journaling mode?::The default mode, ensuring changes to file data are written to disk before updating metadata.
+
+What is ext4?::The fourth extended filesystem, used by most Linux distros, with support for larger files and filesystems.
+
+What is JSF?::Journaled File System.
+
+What is XFS?::A high-performance 64-bit journaling filesystem known for handling large files.
+
+What is Btrfs?::A copy-on-write (COW) filesystem that logs changes after writing block modifications in new areas.
+
+What is Swap in Linux?::Temporary storage used when memory is low, moving inactive program data from RAM to disk.
+
+Can Linux work with FAT and NTFS?::Yes, Linux is compatible with FAT and NTFS filesystems from Windows.
+
+What is /bin?::A directory storing essential system binaries and commands.
+
+What is /boot?::A directory containing bootloader files and boot configurations.
+
+What is /dev?::A directory representing physical devices like hard drives and USBs.
+
+What is /etc?::A directory containing system-wide configuration files.
+
+What is /home?::A directory storing personal user data and directories.
+
+What is /lib?::A directory storing essential system libraries required by programs and utilities.
+
+What is /media?::A directory where external devices like USB drives and CD-ROMs are 
+mounted.
+
+What is /mnt?::A generic mount point for drives or network locations.
+
+What is /opt?::A directory for third-party software not managed by the system’s package manager.
+
+What is /proc?::A directory containing system information and active process data.
+
+What is /root?::The home directory for the root user (superuser).
+
+What is /sbin?::A directory storing binaries essential for system administration.
+
+What is /tmp?::A directory for temporary files that are usually deleted on shutdown.
+
+What is /usr?::A directory containing user programs and utilities shared across users.
+
+What is /var?::A directory storing files that dynamically change during system operations.
+
+What is a hard link?::A reference to the inode of a file, a synchronized carbon copy of the file.
+
+What is a symbolic link?::A shortcut pointing directly to a file, rather than its inode.
+
+What is an inode?::A data structure used to describe filesystem objects, such as files and directories, in Unix-style systems.
+
+How does a hard link work?::It points directly to a file and persists even if the file's name is changed.
+
+What happens to a symbolic link when the original file is moved?::The symbolic link breaks, resulting in a dangling link.
+
+How do you mount a filesystem in Linux?::Use the `{bash}mount <to be mounted> <mount directory>` command.
+
+How do you unmount a filesystem?::Use the `{bash}umount <mounted device>` command.
+
+What is the /proc filesystem?::A pseudo-filesystem containing runtime system information.
+
+What is a pseudo-filesystem?::A filesystem providing a tree-like interface to non-file objects, making them appear as regular files.
+
+What does /proc/cpuinfo contain?::Detailed information about the CPU, including its specifications and capabilities.
+
+What does /proc/meminfo contain?::Information about the system's physical memory, including total and free memory.
+
+What does /proc/vmstat contain?::Statistics about the system's virtual memory, such as page faults and swap activity.
+
+What does /proc/mounts contain?::Information about all currently mounted file systems.
+
+What does /proc/filesystems contain?::All file systems compiled into the kernel and currently loaded kernel modules.
+
+What does /proc/uptime contain?::The system’s uptime since the last boot.
+
+What command shows CPU utilization?::`{bash}top`
