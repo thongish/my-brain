@@ -28,7 +28,7 @@ filename includes {{query.file.filename}}
 # Stats
 - [x] Finish up Unit 1 flash cards ✅ 2024-09-15
 - [x] Finish Unit 2 notes and flash cards 📅 2024-09-17 ✅ 2024-09-15
-- [ ] Unit 2 practice questions 📅 2024-09-17 
+- [x] Unit 2 practice questions 📅 2024-09-17 ✅ 2024-09-18
 # Business Systems
 - [x] Go thru week 1 notes and write flash cards ✅ 2024-09-15
 - [x] Assignment 2 🆔 Assignment 📅 2024-09-20 ✅ 2024-09-16
@@ -38,7 +38,6 @@ filename includes {{query.file.filename}}
 - [x] Go thru and define terms for week 1 and 2 📅 2024-09-19 ✅ 2024-09-16
 # Comms
 - [x] Start instruction assignment skeleton 📅 2024-09-16 ✅ 2024-09-14
-- [ ] Finish my portion of assignment 1 📅 2024-09-19 🆔 Assignment
 - [x] Quiz 3 📅 2024-09-19 ✅ 2024-09-14
 # Networking
 - [x] Go over week 1 notes and make flash cards ✅ 2024-09-15
@@ -52,6 +51,6 @@ filename includes {{query.file.filename}}
 - [x] Go over week 1 notes and write flash cards ✅ 2024-09-16
 	- [x] SSH ✅ 2024-09-16
 	- [x] Chapter 2 ✅ 2024-09-16
-- [ ] Readings 📅 2024-09-20 
+- [x] Readings 📅 2024-09-20 ✅ 2024-09-18
 	- [x] chapter 3 ✅ 2024-09-16
-	- [ ] introduction to cloud-init
+	- [x] introduction to cloud-init ✅ 2024-09-18

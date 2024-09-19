@@ -24,7 +24,7 @@
 # Stats
 [[1350 Week 1]] Definitions, sampling, variables, distributions
 [[1350 Week 2]] Graphical summaries of numerical data
-[[1350 Week 3]]
+[[1350 Week 3]] Numerical summaries of data
 [[1350 Week 4]]
 [[1350 Week 5]]
 [[1350 Week 6]]

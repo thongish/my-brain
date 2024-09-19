@@ -116,3 +116,59 @@
 	- Decision support system works best here
 	- A decision where most factors needed for making the decision are known but human experience and other outside factors may still impact the decision
 	- i.e. diagnosing a medical condition
+
+
+# Flash cards
+
+What is the **productivity paradox?**::The difficulty in proving the direct contribution of IT investments to productivity.
+
+What is **competitive advantage?**::A company's ability to outperform rivals by achieving higher profitability.
+
+What are the two primary methods for obtaining competitive advantage?
+?
+- Cost advantage 
+	- Achieving lower operational costs compared to competitors
+- Differentiation advantage
+	- Offering unique products or services that stand out from competitors
+
+What is the **value chain**?::A series of activities undertaken by a company to produce and deliver a product or service.
+
+What are the **primary activities** in the **value chain**?
+?
+- Inbound logistics, 
+- operations, 
+- outbound logistics, 
+- sales/marketing,
+- service
+
+What is '**human resource management**'?::Recruiting, hiring, and services needed to attract and retain employees.
+
+What is **Porter's Five Forces** framework?::A tool for analyzing industry competition and profitability.
+
+What are the **5 elements** in the **Porter's Five Forces** framework?
+?
+- Threat of substitute products
+- Bargaining power of suppliers
+	- More suppliers to choose from, lower prices
+	- Less suppliers to choose from, higher prices
+- Barriers to entry
+	- Easier to enter industry, harder to profit
+- Rivalry among existing competitors
+- Threat of new entrants
+
+What are **collaborative systems**?
+?
+Tools that facilitate teamwork beyond face-to-face meetings.
+- VOIP
+- File sharing
+- Project management tools (i.e. Trello)
+- Google drive
+- Git hub
+
+What is a **Decision Support System** (DSS)?::A system designed to help make specific decisions by providing relevant data and tools.
+
+What are '**structured decisions**'?::Routine decisions with known outcomes, suitable for automation.
+
+What are '**unstructured decisions**'?::Complex decisions with many unknowns, requiring human judgment.
+
+What are '**semi-structured decisions**'?::Decisions with some known factors and some that require human experience, such as medical diagnosis.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intro to cloud-init.md",
+                "file": "Week 3 Tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,43 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stats Unit 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7e98fbedb0a8391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2520 Week 3 Lecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b160670b3e68e702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Intro to cloud-init.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eb61a7c1b3c2d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 Tasks.md",
+                "file": "Notes/Business Chapter 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,9 +55,50 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5370afb6653f604d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stats Unit 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "737ad00dc2c0482c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bf1a1692fecfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/The Linux Filesystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc58d4ed0213e2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 3 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Stats Unit 2.md",
+                "file": "Week 3 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Stats Unit 2.md",
+                "file": "Week 3 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Stats Unit 2.md"
+                "file": "Week 3 Tasks.md"
               }
             }
           },
@@ -229,37 +234,38 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a7094346fba3f095",
+  "active": "766444b610cfba3c",
   "lastOpenFiles": [
-    "Notes/1350 Week 2.md",
-    "Notes Table of Contents.md",
-    "Notes/Intro to cloud-init.md",
-    "Notes/2515 Week 3.md",
-    "Week 2 Tasks.md",
-    "Notes/Unit Testing and pytest.md",
-    "Notes/2515 Week 3 Lecture.md",
-    "Tasks Master List.md",
-    "Week 3 Tasks.md",
-    "Notes/Ethernet Fundamentals.md",
-    "Notes/2520 Week 3 Lecture.md",
-    "Notes/2420 Week 2.md",
-    "Notes/2520 Week 3.md",
-    "Notes/Business Chapter 7.md",
     "Notes/The Linux Filesystem.md",
-    "Assignment Due Dates.md",
+    "Week 3 Tasks.md",
+    "Tasks Master List.md",
+    "README.md",
+    "Questions.md",
+    "Weekly Tasks Archive/Week 2 Tasks.md",
+    "Notes/Intro to cloud-init.md",
+    "Images/Pasted image 20240918140651.png",
+    "Notes/Stats Unit 2.md",
+    "Notes/2420 Week 2.md",
+    "Notes Table of Contents.md",
+    "Notes/2520 Week 2.md",
+    "Notes/WEB Week 2 Lecture.md",
+    "Notes/WEB Week 2 Lecture Notes.md",
+    "Notes/2515 Week 2.md",
+    "Notes/Object Oriented Programming.md",
+    "Notes/2515 Week 3.md",
+    "Notes/2515 Week 3 Lecture.md",
+    "Notes/Stats Unit 3.md",
+    "Notes/1350 Week 2.md",
+    "Notes/2831 Week 2.md",
+    "Notes/2831 Week 2 Glossary.md",
+    "Notes/Business Chapter 7.md",
+    "Notes/2831 Week 2 Lecture.md",
+    "Notes/1350 Week 3.md",
+    "Notes/1350 Week 1.md",
+    "Notes/Stats Unit 1.md",
     "Images/Pasted image 20240916194448.png",
     "Images/Pasted image 20240916202703.png",
     "Images/Pasted image 20240916202222.png",
-    "chapter.md",
-    "Notes/Business Chapter 10.md",
-    "Notes/2420 Week 1.md",
-    "Notes/Business Chapter 1.md",
-    "Notes/2620 Week 2.md",
-    "Notes/2520 Week 2.md",
-    "Notes/2620 Week 1.md",
-    "Notes/The Shell and its Commands.md",
-    "Notes/2831 Week 2.md",
-    "Notes/2831 Week 2 Glossary.md",
     "Images/Pasted image 20240915113704.png",
     "Images/Pasted image 20240915113744.png",
     "Notes/Root Notes",
@@ -268,7 +274,6 @@
     "Images/Pasted image 20240911163445.png",
     "Images/Pasted image 20240911163340.png",
     "Images/Pasted image 20240911104741.png",
-    "Images/Pasted image 20240910180627.png",
     "Images",
     "COMMS shit",
     "Weekly Tasks Archive",

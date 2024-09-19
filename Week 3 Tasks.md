@@ -11,16 +11,24 @@ filename includes {{query.file.filename}}
 - [ ] Watch video in week 3
 # OOP
 - [ ] Go back to week 2 notes and write flash cards
+	- [ ] Check if sorted() .sort() in my flash cards
 - [ ] Study for evaluation next week 📅 2024-09-24 
 	- Has quiz and written section
-- [ ] Check if sorted() .sort() in my flash cards
 # Stats
-- [ ] Go back to week 2 notes and write flash cards
+- [x] Go back to week 2 notes and write flash cards ✅ 2024-09-18
+- [ ] Finish unit 3 notes 📅 2024-09-22 
+- [ ] unit 3 practice 📅 2024-09-25 
 # Business Systems
 - [ ] Go back to week 2 notes and write flash cards
 # Comms
 - [ ]
+- [ ] Finish my portion of assignment 1 📅 2024-09-19 🆔 Assignment
+	- [ ] Glossary
+	- [ ] Troubleshooting
 # Networking
-- [ ] Go back to week 2 notes and write flash cards
+- [x] Go back to week 2 notes and write flash cards ✅ 2024-09-18
 # Linux
 - [ ] Go back to week 2 notes and write flash cards
+- [ ] Readings 📅 2024-09-27 
+	- [ ] Chapter 4
+	- [ ] Module 8 
