@@ -105,49 +105,50 @@ What is the ***frequency*** of a class?::The number of times a measurement of X 
 
 What is a **frequency distribution**?::How often different values or ranges of values occur in a dataset
 
-What is relative frequency?::Frequency / total number of values of X.
+What is **relative frequency**?::Frequency / total number of values of X.
 
-What is precision?::The interval of values in the data set.
+What is **precision**?::The interval of values in the data set.
 
-What is a modal class?::The class with the highest frequency.
+What is a **modal class**?::The class with the highest frequency.
 
-What is the upper class limit?::The highest value in the range of a class.
+What is the **upper class limit**?::The highest value in the range of a class.
 
-What is the lower class limit?::The lowest value in the range of a class.
+What is the **lower class limit**?::The lowest value in the range of a class.
 
-What is the class mark?::The average of the lower and upper class limits of a class.
+What is the **class mark**?::The average of the lower and upper class limits of a class.
 
-What is the lower class boundary?::The average of the highest value of the previous class and the lowest value of the current class.
+What is the **lower class boundary**?::The average of the highest value of the previous class and the lowest value of the current class.
 
-What is the upper class boundary?::The average of the highest value of the current class and the lowest value of the next class.
+What is the **upper class boundary**?::The average of the highest value of the current class and the lowest value of the next class.
 
-What is class width?::The upper boundary minus the lower boundary.
+What is **class width**?::The upper boundary minus the lower boundary.
 
 How do you determine the number of classes?::The number of classes is approximately n^(1/2), where n = sample size.
 
-What is a histogram?::A visual representation of the corresponding frequency distribution.
+What is a **histogram**?::A visual representation of the corresponding frequency distribution.
 
 What does the height of a histogram rectangle represent?::The frequency or relative frequency of that class.
 
 What does it mean if Bill scored in the 75th percentile?::He is doing better than 75% of people.
 
-What are quartiles?::Percentiles in multiples of 25.
+What are **quartiles**?::Percentiles in multiples of 25.
 
 What is the inter-quartile range (IQR)?
 ?
 The difference between Q3 and Q1.
 - Q$_3$ - Q$_1$
 
-What is the five-number summary?::Q0 (min), Q1, Q2, Q3, Q4 (max).
+What is the **five-number summary**?::Q0 (min), Q1, Q2, Q3, Q4 (max).
 
-What is a boxplot?::A simple way to visualize the five-number summary and the inter-quartile range.
+What is a **boxplot**?::A simple way to visualize the five-number summary and the inter-quartile range.
 
-What are outliers?::Extremely small or large values of X.
+What are **outliers**?::Extremely small or large values of X.
 
-What is the rule for identifying outliers?
+How do you calculate **outliers**?
 ?
-- Outliers are below (Q1 - 1.5 * IQR) 
-- or above (Q3 + 1.5 * IQR).
+- lower limit = Q$_1$ - 1.5 * *IQR*
+- upper limit = Q$_3$ + 1.5 * *IQR*
+- any value below the lower limit or higher than the upper limit is an outlier
 
 What is a pie chart?::A chart that represents parts of a whole, but can make comparing categories harder.
 

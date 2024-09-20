@@ -36,7 +36,6 @@
 		- This data can take the form of:
 			- **Metadata** about the instance, such as machine ID, hostname and network config
 				OR
-			- **Vendor data** and/or **user data**
 				- Both of these take the same form, but **vendor data** is provided by the cloud vendor, and **user data** is provided by the user
 				- These data are usually applied in the post-networking phase, and might include:
 					- Hardware optimizations
@@ -61,3 +60,47 @@
 		- If custom scripts were provided in the user data, cloud-init can run them
 			- Allows for additional specified software to be installed, security settings to be applied, etc.
 			- Can also inject SSH keys into the instance's `authorized_keys` file
+
+
+
+# Flash cards
+
+
+What is cloud-init?::An open-source initialization tool designed to make setting up pre-configured 
+systems easier and more efficient.
+
+Who commonly uses cloud-init?::Developers, system administrators, and IT professionals to automate configuration of VMs, cloud instances, or machines on a network.
+
+What is the benefit of cloud-init?::It automates initial configurations for new cloud instances, ensuring consistent and reliable results every time.
+
+What tasks does cloud-init handle?
+?
+- It sets the hostname, 
+- configures network interfaces, 
+- creates user accounts, 
+- and runs scripts on new instances.
+
+How does cloud-init operate?
+?
+It operates in two phases: 
+- an early (local) boot stage before networking is enabled, 
+- and a late boot stage after networking is configured.
+
+What happens during the early boot phase in cloud-init?
+?
+- Cloud-init discovers the data source, 
+- fetches configuration data,
+- and writes the network configuration.
+
+What happens during the late boot phase in cloud-init?
+?
+- cloud-init configures the running instance according to your needs, as specified in the vendor and/or user data
+	- Configuration management
+	- Install and update software
+	- Create user accounts
+	- Execute user scripts
+
+What is the data source in cloud-init?::The source of configuration data that cloud-init uses to set up the instance.
+
+What kind of data does cloud-init fetch during the early boot stage?::Metadata (like machine ID, hostname, and network config) as well as vendor data and user data.
+

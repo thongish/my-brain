@@ -50,13 +50,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The Linux Filesystem.md",
+                "file": "Notes Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "737ad00dc2c0482c",
@@ -80,14 +81,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The Linux Filesystem.md",
+                "file": "Notes/Stats Unit 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/The Linux Filesystem.md",
+                "file": "Notes Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/The Linux Filesystem.md",
+                "file": "Notes Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/The Linux Filesystem.md"
+                "file": "Notes Table of Contents.md"
               }
             }
           },
@@ -224,35 +223,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a7094346fba3f095",
+  "active": "5370afb6653f604d",
   "lastOpenFiles": [
     "Week 3 Tasks.md",
-    "Notes/The Linux Filesystem.md",
-    "Notes/Stats Unit 3.md",
-    "Notes/2831 Week 2 Glossary.md",
     "Notes Table of Contents.md",
+    "Notes/2831 Week 2.md",
+    "Notes/2831 Week 2 Glossary.md",
     "Notes/Business Chapter 7.md",
+    "Notes/Stats Unit 2.md",
+    "Notes/Stats Unit 1.md",
+    "Notes/Intro to cloud-init.md",
+    "Notes/2515 Week 3 Lecture.md",
+    "Notes/The Linux Filesystem.md",
+    "Notes/2420 Week 2.md",
+    "Notes/Unit Testing and pytest.md",
+    "Notes/Stats Unit 3.md",
     "Tasks Master List.md",
     "README.md",
     "Questions.md",
     "Weekly Tasks Archive/Week 2 Tasks.md",
-    "Notes/Intro to cloud-init.md",
     "Images/Pasted image 20240918140651.png",
-    "Notes/Stats Unit 2.md",
-    "Notes/2420 Week 2.md",
     "Notes/2520 Week 2.md",
     "Notes/WEB Week 2 Lecture.md",
     "Notes/WEB Week 2 Lecture Notes.md",
     "Notes/2515 Week 2.md",
     "Notes/Object Oriented Programming.md",
     "Notes/2515 Week 3.md",
-    "Notes/2515 Week 3 Lecture.md",
     "Notes/1350 Week 2.md",
-    "Notes/2831 Week 2.md",
     "Notes/2831 Week 2 Lecture.md",
     "Notes/1350 Week 3.md",
-    "Notes/1350 Week 1.md",
-    "Notes/Stats Unit 1.md",
     "Images/Pasted image 20240916194448.png",
     "Images/Pasted image 20240916202703.png",
     "Images/Pasted image 20240916202222.png",

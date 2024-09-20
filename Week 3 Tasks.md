@@ -20,7 +20,7 @@ filename includes {{query.file.filename}}
 - [ ] Finish unit 3 notes 📅 2024-09-22 
 - [ ] unit 3 practice 📅 2024-09-25 
 # Business Systems
-- [ ] Go back to week 2 notes and write flash cards
+- [x] Go back to week 2 notes and write flash cards ✅ 2024-09-19
 - [ ] Assignment 3 📅 2024-09-26 🆔 Assignment
 # Comms
 - [ ] Finish my portion of assignment 1 📅 2024-09-19 🆔 Assignment
@@ -30,7 +30,7 @@ filename includes {{query.file.filename}}
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-18
 - [ ] Study for quiz next week 📅 2024-09-26 
 # Linux
-- [ ] Go back to week 2 notes and write flash cards
+- [x] Go back to week 2 notes and write flash cards ✅ 2024-09-19
 - [ ] Readings 📅 2024-09-27 
 	- [ ] Chapter 4
 	- [ ] Module 8 

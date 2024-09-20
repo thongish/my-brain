@@ -67,7 +67,7 @@
 [[2620 Week 10]]
 # Linux
 [[2420 Week 1]] What is SSH?, Chapter 2 Shell, 
-[[2420 Week 2]] Chapter 3 Linux Filesystem
+[[2420 Week 2]] Chapter 3 Linux Filesystem, cloud-init
 [[2420 Week 3]]
 [[2420 Week 4]]
 [[2420 Week 5]]
