@@ -65,59 +65,32 @@ Any facts, or words and images that are not your own should be referenced from a
 
 Install and configure `doctl` in an existing droplet and use it to create a new droplet. The `doctl` command line tool is in the Arch package repositories, so you can install it with Pacman.
 
-Your tutorial should include instructions on installing and configuring `doctl`.
+Your tutorial should include instructions on installing and configuring `doctl`
 
---- 
-# Getting started with doctl and cloud-init
+## **grading rubric**
 
----
-# Table of contents:
-- [Introduction](#Introduction)
-- [doctl Installation and Setup](#Second-Table)
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Section**|**absent**|**poor**|**satisfactory**|**good**|**excellent**|
+|Tutorial clarity|0%|5%|14%|20%|25%|
+|Tutorial completeness|0%|5%|14%|20%|25%|
+|Markdown correctness|0%|1%|3%|4%|5%|
+|Git components|0%|1%|3%|4%|5%|
+|Resources and citations|0%|5%|8%|12%|15%|
+|Demonstrating understanding of topic|0%|5%|14%|20%|25%|
 
---- 
-# Introduction
+**late penalties**
 
-This tutorial will walk you through the process of using the tools `doctl`[^1], and `cloud-init`[^2] to set up an Arch Linux droplet on Digital Ocean. 
+Late assignments will be deducted 10% per day, up to 4 days late. After 4 days the assignment will receive a 0.
 
-**Things we'll need:**
-- A local machine running the cloud version of Arch Linux
-- A Digital Ocean account
-- The `doctl` program
+## **resources**
 
-[^1]: doctl is a tool that allows you to utilize the DigitalOcean API using the command line(reference).
+markdown:  
+- [markdown tutorial]([https://www.markdownguide.org/)](https://www.markdownguide.org/))
 
---- 
+cloud-init:  
+- [cloud-init docs]([https://docs.cloud-init.io/en/latest/index.html)](https://docs.cloud-init.io/en/latest/index.html)  
+- [how to perform initial server configuration with cloud-init]([https://www.digitalocean.com/community/tutorials/how-to-use-cloud-config-for-your-initial-server-setup)](https://www.digitalocean.com/community/tutorials/how-to-use-cloud-config-for-your-initial-server-setup)
 
-# Something
-
-
-
-
-# something
-
-
-
-
-
-
-# something
-
-
-
-
-
-
-# Something
-
-
-
-
-
-
-
-
-
-# Second Table
-
-
+doctl:  
+- [doctl docs]([https://docs.digitalocean.com/reference/doctl/)](https://docs.digitalocean.com/reference/doctl/)

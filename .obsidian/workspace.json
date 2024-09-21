@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Assignment 1/Linux Assignment 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,12 +192,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "14be1c17f7b281f5",
+  "active": "a7094346fba3f095",
   "lastOpenFiles": [
-    "Linux Assignment 1/Linux Assignment 1.md",
+    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
+    "Week 3 Tasks.md",
     "README.md",
     "Notes/Stats Unit 2.md",
-    "Week 3 Tasks.md",
     "Week 4 Tasks.md",
     "Notes/OSI Model.md",
     "Notes/2520 Week 3 Lecture.md",
