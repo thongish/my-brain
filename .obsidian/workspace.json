@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Assignment 1/Linux Assignment 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Assignment 1/Linux Assignment 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Assignment 1/Linux Assignment 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Assignment 1/Linux Assignment 1.md"
+                "file": "README.md"
               }
             }
           },
@@ -195,9 +194,9 @@
   },
   "active": "14be1c17f7b281f5",
   "lastOpenFiles": [
+    "Linux Assignment 1/Linux Assignment 1.md",
     "Week 3 Tasks.md",
     "Week 4 Tasks.md",
-    "Linux Assignment 1/Linux Assignment 1.md",
     "Notes/OSI Model.md",
     "Notes/2520 Week 3 Lecture.md",
     "Notes/2515 Week 3 Lecture.md",

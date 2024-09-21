@@ -13,22 +13,27 @@
 	- add a public ssh key to the authorized_keys file in your new users home directory  
 	- disable root access via ssh
 
+--- 
+# Getting started with doctl and cloud-init
 
-
+---
 # Table of contents:
--  [Introduction](#Introduction)
-- [Second table of contents](#Second-Table)
+- [Introduction](#Introduction)
+- [doctl Installation and Setup](#Second-Table)
 
-
+--- 
 # Introduction
 
-This tutorial will walk you through the process of using the tools `doctl`, and `cloud-init` to set up an Arch Linux droplet on Digital Ocean. 
+This tutorial will walk you through the process of using the tools `doctl`[^1], and `cloud-init` to set up an Arch Linux droplet on Digital Ocean. 
 
 **Things we'll need:**
 - A local machine running the cloud version of Arch Linux
 - A Digital Ocean account
 - The `doctl` program
 
+[^1]: doctl is a tool that allows you to utilize the DigitalOcean API using the command line(reference).
+
+--- 
 
 # Something
 
