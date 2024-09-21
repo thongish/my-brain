@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stats Unit 2.md",
+                "file": "Linux Assignment 1/Linux Assignment 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,6 +195,8 @@
   "active": "14be1c17f7b281f5",
   "lastOpenFiles": [
     "Linux Assignment 1/Linux Assignment 1.md",
+    "README.md",
+    "Notes/Stats Unit 2.md",
     "Week 3 Tasks.md",
     "Week 4 Tasks.md",
     "Notes/OSI Model.md",
@@ -216,7 +218,6 @@
     "Notes/2831 Week 2.md",
     "Notes/2831 Week 2 Glossary.md",
     "Notes/Business Chapter 7.md",
-    "Notes/Stats Unit 2.md",
     "Notes/Stats Unit 1.md",
     "Notes/Intro to cloud-init.md",
     "Notes/The Linux Filesystem.md",
