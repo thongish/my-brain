@@ -54,6 +54,13 @@
 **Network-Attached Storage (NAS) Device**
 - A network appliance that makes storage resources (i.e. large, redundant hard drives) available to network clients
 
+**Bridge**
+- A device that joins two or more network segments that 
+
+**Hub**
+
+**Nat router**
+- 
 
 # Flash cards
 

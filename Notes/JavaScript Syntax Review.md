@@ -457,7 +457,7 @@ Why would you want to use `{js}null`?:: To indicate a deliberate non-value
 <!--SR:!2024-09-20,3,250-->
 
 Why would you want to use `{js}undefined`:: To indicate a value is not currently present
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-21,1,210-->
 
 `{js}const someVar;`
 This line hasn't given the variable `{js}someVar` a value, what is the default value that is given to this variable?
@@ -515,7 +515,7 @@ What is the value of `{js}someVar`?
 ?
 `{js}1`
 - `{js}array.shift()` removes the first element and returns it
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-22,2,230-->
 
 
 ```js
@@ -527,7 +527,7 @@ What is the value of `{js}someVar`?
 ?
 `{js}4`
 - `{js}array.pop()` removes the last element and returns it
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 ```js
 let myArray0 = [32,false,"js",12,56,90];
@@ -552,7 +552,7 @@ What is the output of this code snippet?
 - `{js}array.slice()` method extracts a portion of an array between two indices
 	- First index is inclusive
 	- Second index is exclusive
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 ```js
 let myObj = {
@@ -563,7 +563,7 @@ let myObj = {
 Is this a valid JavaScript object?
 ?
 No, the keys in a JavaScript object MUST be unique
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 ```js
 let myObj = {
@@ -627,7 +627,7 @@ What is the value of `{js}myPets`?
 ?
 `{js}'cat dog hamster bunny'`
 - the for/of loop allows for looping over strings, arrays, and more
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 ```js
 let house = {
@@ -680,7 +680,7 @@ What will be printed in the terminal?
 ?
 `{js}"OK job"`
 - Remember to use `{js}break` after each case, or the cases after the correct one will be executed too
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 How do you declare a JavaScript function?
 ?
@@ -700,7 +700,7 @@ function myFunc() {
 What kind of function syntax is this?
 ?
 Function declaration syntax
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 ```js
 let myFunc() = function() {
@@ -710,7 +710,7 @@ let myFunc() = function() {
 What kind of function syntax is this?
 ?
 Function expression syntax
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-22,2,230-->
 
 ```js
 let myFunc() = () => {

@@ -79,7 +79,7 @@ What are the basic data types defined by the ECMAScript standard?
 - String, 
 - null and undefined, 
 - objects.
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-22,2,230-->
 
 How does JavaScript store numbers?::JavaScript uses 64 bits to store numbers.
 <!--SR:!2024-09-18,1,230-->
@@ -92,7 +92,7 @@ What are some special numbers in JavaScript?
 <!--SR:!2024-09-20,3,250-->
 
 What is a variable in JavaScript?::A storage location identified by a name (identifier) used to hold data values.
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-22,2,230-->
 
 What is an identifier in JavaScript?::The name given to a variable or other value in JavaScript, which must start with a letter, underscore (`{js}_`), or dollar sign (`{js}$`), with subsequent characters allowed to be digits (`{js}0 to 9`).
 <!--SR:!2024-09-18,1,230-->

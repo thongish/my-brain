@@ -163,13 +163,13 @@ Must run the chmod command to make the file executable
 # Flash cards
 
 What is a shell?::A program that receives commands and sends them to the operating system for processing.
-<!--SR:!2024-09-20,1,205-->
+<!--SR:!2024-09-21,1,185-->
 
 What is the fundamental capability of shells?
 ?
 The ability to launch command-line programs already installed on the system.
 - Also offers built-ins and scripting control structures such as conditional loops
-<!--SR:!2024-09-20,1,205-->
+<!--SR:!2024-09-21,1,185-->
 
 What are some common Linux shells??
 - sh, 
@@ -192,14 +192,14 @@ What is the purpose of flags?
 To change how the invoked program behaves.
 - ex. `{bash}ls -lt`
 	- The `{bash}-lt` here outputs a lengthy listing of files arranged by creation time
-<!--SR:!2024-09-20,1,205-->
+<!--SR:!2024-09-23,3,225-->
 
-What are wildcards used for?
+What are wildcards (`*`) used for?
 ?
-To match file names in the current directory.
+To match file and directory name patterns
 - ex. `{bash}ls -l *.sh`
 	- Listing files named `anything.sh`
-<!--SR:!2024-09-20,1,205-->
+<!--SR:!2024-09-22,2,205-->
 
 What is the cat command used for?::`{bash}cat /etc/passwd` (displays the contents of a file).
 <!--SR:!2024-09-21,2,225-->
@@ -224,7 +224,7 @@ How do you delete a directory?
 ?
 `{bash}rmdir <directory name>` (can **only** remove an empty directory).
 Using `{bash}rm <directory/file name>` is more practical
-<!--SR:!2024-09-20,1,205-->
+<!--SR:!2024-09-22,2,205-->
 
 What command can be used to recursively remove directories and files?::`{bash}rm -rf <directory name>`
 <!--SR:!2024-09-22,3,245-->
@@ -232,8 +232,8 @@ What command can be used to recursively remove directories and files?::`{bash}rm
 What is the purpose of `{bash}touch`?::To create an empty file or update the modification date of a file.
 <!--SR:!2024-09-21,2,225-->
 
-What does `ls` do?::Lists all files and directories in the current directory.
-<!--SR:!2024-09-20,1,205-->
+What does `ls` do?::Lists all files and directories in the current directory or specified directory
+<!--SR:!2024-09-22,2,205-->
 
 How can you see hidden files with `{bash}ls`?::`{bash}ls -a`
 <!--SR:!2024-09-22,3,245-->
@@ -251,7 +251,7 @@ How do you remove a file?::`{bash}rm <file>`
 <!--SR:!2024-09-22,3,245-->
 
 What do the `{bash}-r` and `{bash}-f` flags in `{bash}rm` do?::`{bash}-r `removes directories recursively, and `{bash}-f` forces removal.
-<!--SR:!2024-09-20,1,205-->
+<!--SR:!2024-09-22,2,205-->
 
 What is `{bash}locate` used for?::To find the path of a file on the system.
 <!--SR:!2024-09-21,2,225-->
@@ -275,7 +275,7 @@ What does `{bash}df` do?
 ?
 Disk-free
 - Displays filesystem information like disk usage and available space.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-21,1,190-->
 
 How do you make `{bash}df` output human-readable?::`{bash}df -h`
 <!--SR:!2024-09-22,3,245-->
@@ -293,7 +293,7 @@ What does `{bash}uname` do?::Displays system information about the operating sys
 <!--SR:!2024-09-21,2,225-->
 
 How do you view detailed system information with `{bash}uname`?::`{bash}uname -a`
-<!--SR:!2024-09-20,1,205-->
+<!--SR:!2024-09-22,2,205-->
 
 What does `{bash}chmod` do?::Changes file permissions for read, write, and execute.
 <!--SR:!2024-09-22,3,250-->
@@ -326,7 +326,7 @@ How do you change the owner and group of a file?::`{bash}chown <user>:<group> <f
 <!--SR:!2024-09-21,2,225-->
 
 What does `{bash}chgrp` do?::Changes the group ownership of a file or directory.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-22,2,210-->
 
 How can you search man pages by keyword?::`{bash}man -k <keyword>`
-<!--SR:!2024-09-20,2,245-->
+<!--SR:!2024-09-25,5,245-->

@@ -4,62 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "594bc217d77e0656",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "766444b610cfba3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 Tasks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1566bfbb0216a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2515 Week 3 Lecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9bc5d662a05d4e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Unit Testing and pytest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5370afb6653f604d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes Table of Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "737ad00dc2c0482c",
         "type": "tabs",
         "children": [
@@ -69,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Assignment Due Dates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfe2e42a0b91ff91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Week 3 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14be1c17f7b281f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Assignment 1/Linux Assignment 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sorted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -153,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes Table of Contents.md",
+                "file": "Linux Assignment 1/Linux Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes Table of Contents.md",
+                "file": "Linux Assignment 1/Linux Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes Table of Contents.md"
+                "file": "Linux Assignment 1/Linux Assignment 1.md"
               }
             }
           },
@@ -223,35 +193,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5370afb6653f604d",
+  "active": "1128cdc66ccdb94a",
   "lastOpenFiles": [
     "Week 3 Tasks.md",
+    "Week 4 Tasks.md",
+    "Linux Assignment 1/Linux Assignment 1.md",
+    "Notes/OSI Model.md",
+    "Notes/2520 Week 3 Lecture.md",
+    "Notes/2515 Week 3 Lecture.md",
+    "Linux Assignment 1/Assets",
+    "Linux Assignment 1",
+    "Assignment Due Dates.md",
     "Notes Table of Contents.md",
+    "Notes/2620 Week 3.md",
+    "Notes/2620 Week 3 Lecture.md",
+    "Notes/Common Network Infrastructure Devices.md",
+    "Notes/2620 Week 2 Lecture.md",
+    "Notes/Unit Testing and pytest.md",
+    "Questions.md",
+    "Notes/How Programming Languages Work.md",
+    "Notes/2520 Week 1.md",
+    "Notes/1350 Week 1.md",
     "Notes/2831 Week 2.md",
     "Notes/2831 Week 2 Glossary.md",
     "Notes/Business Chapter 7.md",
     "Notes/Stats Unit 2.md",
     "Notes/Stats Unit 1.md",
     "Notes/Intro to cloud-init.md",
-    "Notes/2515 Week 3 Lecture.md",
     "Notes/The Linux Filesystem.md",
     "Notes/2420 Week 2.md",
-    "Notes/Unit Testing and pytest.md",
-    "Notes/Stats Unit 3.md",
-    "Tasks Master List.md",
-    "README.md",
-    "Questions.md",
-    "Weekly Tasks Archive/Week 2 Tasks.md",
     "Images/Pasted image 20240918140651.png",
-    "Notes/2520 Week 2.md",
-    "Notes/WEB Week 2 Lecture.md",
-    "Notes/WEB Week 2 Lecture Notes.md",
-    "Notes/2515 Week 2.md",
-    "Notes/Object Oriented Programming.md",
-    "Notes/2515 Week 3.md",
-    "Notes/1350 Week 2.md",
-    "Notes/2831 Week 2 Lecture.md",
-    "Notes/1350 Week 3.md",
     "Images/Pasted image 20240916194448.png",
     "Images/Pasted image 20240916202703.png",
     "Images/Pasted image 20240916202222.png",
@@ -269,7 +240,6 @@
     "Templates",
     "New folder",
     "Linux Notes/Attachment",
-    "Linux Notes",
-    "Notes"
+    "Linux Notes"
   ]
 }

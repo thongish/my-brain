@@ -15,7 +15,7 @@
 	- modern python/PHP/node.js/etc. actually do have compilers called JIT compiler
 # **Pure Function** 
 
-- function where given a set of inputs the function returns the same output every time
+- Function where given a set of inputs the function returns the same output every time
 	- if interpreter sees any pure functions, that piece of code is sent to the JIT compiler (cached) aka compiled in advance stored in a .pyc file
 
 # **Languages a browser can understand:**
@@ -65,7 +65,7 @@ What does a compiler do?
 ?
 Translates source code into machine/binary language
 - Necessary to make a program executable
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-22,2,230-->
 
 Compiler or interpreter, which is faster?
 ?

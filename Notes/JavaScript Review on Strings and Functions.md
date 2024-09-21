@@ -119,10 +119,10 @@ What is a hierarchical function call in programming?::When you call a function o
 <!--SR:!2024-09-18,1,230-->
 
 How should functions generally be designed?::Functions should generally do just one thing; if a function does more than one thing, it should be decomposed into two or more functions.
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-22,2,230-->
 
 What is the convention for a function or method returning -1?::It commonly indicates that a search term was not found.
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-21,1,210-->
 
 What does the `{js}Number(value)` function do in JavaScript?::It converts the value to a number.
 <!--SR:!2024-09-21,4,270-->
@@ -140,16 +140,16 @@ What does the `{js}parseFloat(string)` function do in JavaScript?::It parses a s
 <!--SR:!2024-09-21,4,270-->
 
 What does the `{js}parseInt(string)` function do in JavaScript?::It parses a string and returns an integer.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 What is a string in JavaScript?::A sequence of text characters that can be stored in a variable.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 What is a string literal in JavaScript?::The value of a string, e.g., `{js}"This is a string literal"`.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
-How can you fix a string containing single quotes in JavaScript?::Use a backslash to escape the single quote, e.g., `{js}'My mom\'s car is faster than my car'`.
-<!--SR:!2024-09-20,3,250-->
+How can you fix a string containing a single quote in JavaScript?::Use a backslash to escape the single quote, e.g., `{js}'My mom\'s car is faster than my car'`.
+<!--SR:!2024-09-28,8,250-->
 
 Do string methods like `{js}string.toUpperCase()` change the original string?::No, they do not change the original string.
 <!--SR:!2024-09-20,3,250-->
@@ -158,16 +158,16 @@ How are strings compared in JavaScript?::Strings are compared lexicographically 
 <!--SR:!2024-09-18,1,230-->
 
 What is Unicode in JavaScript?::A character set that represents every possible character with a unique integer known as a code point.
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-21,1,210-->
 
 How can you convert a text character to its Unicode code point in JavaScript?::Use the function `{js}string.codePointAt()`.
 <!--SR:!2024-09-20,3,250-->
 
 What is the scope of global variables in JavaScript?::Global variables are defined outside of a function and extend from their assignment statement to the end of the file.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 What is the scope of local variables in JavaScript?::Local variables are defined inside a function or block and are limited to inside that function or block.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->
 
 What is the `{js}readline-sync` Node module used for?::It allows getting input from the user in the terminal.
 <!--SR:!2024-09-20,3,250-->
@@ -176,4 +176,4 @@ Why should you clean input data when using `{js}readline-sync`?::To ensure the d
 <!--SR:!2024-09-18,1,230-->
 
 How do you convert user input from `{js}readline-sync` to numbers in JavaScript?::Use `{js}parseInt()` or `{js}parseFloat()` to convert the string inputs to numbers.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-28,8,250-->

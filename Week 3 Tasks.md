@@ -7,7 +7,7 @@ filename includes {{query.file.filename}}
 
 # Dev Web App
 - [ ] Go back to week 2 notes and write flash cards
-- [ ] Lab 3 📅 2024-09-24 🆔 Assignment
+- [x] Lab 3 🆔 Assignment 📅 2024-09-24 ✅ 2024-09-19
 - [ ] Watch video in week 3
 # OOP
 - [ ] Go back to week 2 notes and write flash cards
@@ -29,8 +29,12 @@ filename includes {{query.file.filename}}
 # Networking
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-18
 - [ ] Study for quiz next week 📅 2024-09-26 
+- [ ] Readings 📅 2024-09-27 
+	- [ ] Ipv4 video
+	- [ ] ipv4 reading
 # Linux
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-19
+- [ ] Assignment 1 📅 2024-09-29 🆔 Assignment
 - [ ] Readings 📅 2024-09-27 
 	- [ ] Chapter 4
 	- [ ] Module 8 
