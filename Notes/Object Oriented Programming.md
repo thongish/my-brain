@@ -84,8 +84,8 @@ class Student:
 		if not name or type(name) is not str:  
 			raise AttributeError("Name cannot be empty!")  
 		self.name = name  
-	self.student_number = student_number  
-	self.program_name = "CIT"  
+		self.student_number = student_number  
+		self.program_name = "CIT"  
 	
 john = Student("", "A01234567") # Will raise an Exception!  
 john = Student(42, "A01234567") # Will raise an Exception!
@@ -196,3 +196,39 @@ john.check_program("CIT") # will also return True
 - Understand what inheritance, but also understand when NOT to use it (i.e. most of the time by yourself, unless you are using a library / package)  
 - In the context of this course, using class variables and class / static methods and variables is a bad idea and  almost never happens, except when working with SQLAlchemy. If you are using them, make sure you know what  you are doing.  
 - There is very little to learn or know about Object Oriented Programming. It is mostly about how you "view the  world" in your program.
+
+
+
+# Flash cards
+
+What is a **class**?
+?
+- Something that defines a general category (i.e. book, bank account)
+- Blueprint (or template) for creating an object
+- A custom data type
+---
+Example:
+- A book is a **class** (the abstract concept of something you can read)
+- "Harry Potter" is an instance (or object) of the **book class**
+
+What is an **object** or **instance** in the context of Python classes?::A "thing" created out of a class
+
+What is an **attribute** in the context of Python classes?::Values for a specific object
+
+What is a **state** in the context of Python classes?::The current values of the attributes in an object
+
+What is **modelization** in the context of Python classes?::Creating a class based on real life objects (deciding which attributes/behaviours it has)
+
+Making sure a class has a "clean" public interface that hides complex implementation details is called,::Abstraction
+
+Which of the following respects the PEP8 naming convention for classes?
+- my_nice_class
+- MyNiceClass
+- myNiceClass
+- NICE_CLASS
+?
+MyNiceClass
+
+What is **encapsulation**?::Ensuring the state of an object can only be changed by the object methods itself rather than changing it outside of the class
+
+What is the implicit parameter that all functions within a class receive?::`{python}self`

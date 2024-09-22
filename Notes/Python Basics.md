@@ -588,3 +588,4 @@ What are the outputs of the 3 print statements?
 - Every time the function is called, the list gets reused instead of creating a new list
 <!--SR:!2024-09-21,3,250--> 
 
+What is the difference between `{python}sorted()` and `{python}.sorted()`?::The difference is that `{python}sorted()`will return a new sorted list, leaving the original list unchanged. While `{python}.sorted()` will sort the list in-place, changing the original list and returning `{python}None`

@@ -10,12 +10,12 @@ filename includes {{query.file.filename}}
 # OOP
 - [ ]
 # Stats
-- [ ]
+- [ ] Go back to week 3 notes and write flash cards
 # Business Systems
 - [ ]
 # Comms
 - [ ]
 # Networking
-- [ ]
+- [ ] Go back to week 3 notes and write flash cards
 # Linux
-- [ ]
+- [ ] Go back to week 3 notes and write flash cards

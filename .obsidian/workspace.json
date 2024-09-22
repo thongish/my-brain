@@ -13,50 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment Due Dates.md",
+                "file": "Notes/Stats Unit 3.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "60ecb9d9eb3a2621",
+        "type": "tabs",
+        "children": [
           {
             "id": "bfe2e42a0b91ff91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 Tasks.md",
+                "file": "Week 4 Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14be1c17f7b281f5",
+            "id": "b39dd483b4e500e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a7094346fba3f095",
+            "id": "a96e03919fec572d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Stats Unit 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Stats Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Stats Unit 3.md"
               }
             }
           },
@@ -179,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,57 +194,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7094346fba3f095",
+  "active": "bc58d4ed0213e2bb",
   "lastOpenFiles": [
-    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
-    "Week 3 Tasks.md",
-    "README.md",
-    "Notes/Stats Unit 2.md",
-    "Week 4 Tasks.md",
-    "Notes/OSI Model.md",
-    "Notes/2520 Week 3 Lecture.md",
-    "Notes/2515 Week 3 Lecture.md",
-    "Linux Assignment 1/Assets",
-    "Linux Assignment 1",
-    "Assignment Due Dates.md",
     "Notes Table of Contents.md",
+    "Notes/2420 Week 2.md",
     "Notes/2620 Week 3.md",
     "Notes/2620 Week 3 Lecture.md",
-    "Notes/Common Network Infrastructure Devices.md",
-    "Notes/2620 Week 2 Lecture.md",
-    "Notes/Unit Testing and pytest.md",
-    "Questions.md",
-    "Notes/How Programming Languages Work.md",
-    "Notes/2520 Week 1.md",
-    "Notes/1350 Week 1.md",
-    "Notes/2831 Week 2.md",
-    "Notes/2831 Week 2 Glossary.md",
-    "Notes/Business Chapter 7.md",
-    "Notes/Stats Unit 1.md",
-    "Notes/Intro to cloud-init.md",
-    "Notes/The Linux Filesystem.md",
-    "Notes/2420 Week 2.md",
+    "Week 4 Tasks.md",
+    "Notes/2515 Week 3.md",
+    "Notes/2515 Week 3 Lecture.md",
+    "Notes/Python Basics.md",
+    "Notes/Stats Unit 3.md",
+    "Week 3 Tasks.md",
+    "README.md",
+    "Tasks Master List.md",
+    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
+    "Images/Pasted image 20240921200545.png",
+    "Images/Pasted image 20240921204139.png",
+    "Images/Pasted image 20240921204042.png",
+    "Images/Pasted image 20240921204025.png",
+    "Images/Pasted image 20240921201726.png",
+    "Images/Pasted image 20240921201330.png",
+    "Images/Pasted image 20240921201328.png",
+    "Images/Pasted image 20240921201114.png",
+    "Images/Pasted image 20240921200811.png",
+    "Excalidraw/Drawing 2024-09-21 20.04.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-21 20.02.55.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-09-21 20.02.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-21 20.02.42.excalidraw.md",
+    "Notes/1350 Week 3.md",
+    "Notes/Ethernet Fundamentals.md",
+    "Notes/2620 Week 2.md",
+    "Notes/Object Oriented Programming.md",
+    "Notes/2515 Week 2.md",
+    "Notes/WEB Week 2 Lecture Notes.md",
+    "Notes/2520 Week 2.md",
+    "Notes/WEB Week 2 Lecture.md",
+    "Assignment Due Dates.md",
+    "Linux Assignment 1/Assets",
+    "Linux Assignment 1",
     "Images/Pasted image 20240918140651.png",
-    "Images/Pasted image 20240916194448.png",
-    "Images/Pasted image 20240916202703.png",
-    "Images/Pasted image 20240916202222.png",
-    "Images/Pasted image 20240915113704.png",
-    "Images/Pasted image 20240915113744.png",
     "Notes/Root Notes",
     "Untitled.canvas",
-    "Images/Pasted image 20240911161500.png",
-    "Images/Pasted image 20240911163445.png",
-    "Images/Pasted image 20240911163340.png",
-    "Images/Pasted image 20240911104741.png",
     "Images",
     "COMMS shit",
     "Weekly Tasks Archive",
     "Templates",
     "New folder",
-    "Linux Notes/Attachment",
-    "Linux Notes"
+    "Linux Notes/Attachment"
   ]
 }

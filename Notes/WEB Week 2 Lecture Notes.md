@@ -175,3 +175,25 @@ fs.writeFile("myfile.txt", "hello world", (err) => {
 		console.log("Your file was saved correctly");
 });
 ```
+
+
+# Flash cards
+
+```js
+function add (num1, num2) {
+	return num1 + num2;
+}
+//
+function addTwo(num1, addReference) {
+	return addReference(num1, 2);
+}
+//
+addTwo(7, add);
+```
+What is `{js}addTwo(7, add);` doing?
+?
+It is calling the function `{js}addTwo()` and passing in a number and the function `{js}add()`
+- What's happening is it takes the number `{js}7` and uses the `{js}add()` as a callback function to add `{js}2` to it
+
+What is a **higher order function**?::A function that takes a function as an argument 
+

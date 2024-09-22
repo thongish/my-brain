@@ -22,7 +22,8 @@ The three measures of center we will use:
 ### Mean
 
 - The arithmetic *mean* of a numerical data set is the familiar "average" 
-# Add picture here
+
+![[Pasted image 20240921200545.png]]
 
 ### Median
 
@@ -35,6 +36,8 @@ The three measures of center we will use:
 	- 12, 23, 27, 30, 70, 80, 90, 91
 		- 8 data values, the two middle numbers are 30 and 70
 			- Mean of those 2 numbers is 50
+
+![[Pasted image 20240921200811.png]]
 
 ### Mode
 
@@ -72,7 +75,7 @@ Four ways that we will measure the *spread* and *variability* of a data set:
 
 - The standard deviation of a data set is calculated using *all* of the data points
 
-# Add picture here
+![[Pasted image 20240921201114.png]]
 
 - Use the formula for *s* when you only know X for a random sample of the entire population
 - Use the formula for o when you know the X for the entire population (which is rare)
@@ -80,7 +83,28 @@ Four ways that we will measure the *spread* and *variability* of a data set:
 
 ### Variance 
 
+- The **variance** of a data set is directly related to standard deviation;
+	- The **variance** is the **square** of the standard deviation
 
+![[Pasted image 20240921201330.png]]
 ### Skewness
 
 - A distribution of data is *skewed* if it is significantly asymmetrical
+
+![[Pasted image 20240921201726.png]]
+
+- 3 * (sample mean - sample median) / sample standard deviation
+- if skew < -1.0, then the data is skewed left
+- if skew > 1.0, then the data is skewed right
+- if skew is between -1.0 and 1.0, then the data is not significantly skewed
+
+## Proportion
+
+![[Pasted image 20240921204139.png]]
+## Frequency tables
+
+![[Pasted image 20240921204025.png]]
+
+## Two-way tables
+
+![[Pasted image 20240921204042.png]]
