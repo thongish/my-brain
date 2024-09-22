@@ -18,13 +18,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "60ecb9d9eb3a2621",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "1c6a9adc02b280b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Assignment 1/Linux Assignment 1 Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "bfe2e42a0b91ff91",
             "type": "leaf",
@@ -55,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes Table of Contents.md",
+                "file": "Notes/The Linux Filesystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb4ede2f20150aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -91,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorted",
+                "query": "unix-lik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes Table of Contents.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes Table of Contents.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes Table of Contents.md"
+                "file": "README.md"
               }
             }
           },
@@ -185,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,17 +218,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b39dd483b4e500e8",
+  "active": "bb4ede2f20150aaf",
   "lastOpenFiles": [
+    "Images/token_string.png",
+    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
+    "Questions.md",
+    "Notes/The Linux Filesystem.md",
+    "Week 3 Tasks.md",
+    "Notes Table of Contents.md",
+    "Notes/Stats Unit 3.md",
     "Notes/2620 Week 2.md",
     "Notes/Ethernet Fundamentals.md",
-    "Notes Table of Contents.md",
     "Notes/2620 Week 1.md",
     "Notes/Network Topologies.md",
     "Notes/Common Network Infrastructure Devices.md",
     "Notes/OSI Model.md",
-    "Notes/Stats Unit 3.md",
-    "Week 3 Tasks.md",
     "Week 4 Tasks.md",
     "Notes/2420 Week 2.md",
     "Notes/2620 Week 3.md",
@@ -218,7 +242,6 @@
     "Notes/Python Basics.md",
     "README.md",
     "Tasks Master List.md",
-    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
     "Images/Pasted image 20240921200545.png",
     "Images/Pasted image 20240921204139.png",
     "Images/Pasted image 20240921204042.png",
@@ -233,9 +256,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2024-09-21 20.02.29.excalidraw.md",
     "Excalidraw/Drawing 2024-09-21 20.02.42.excalidraw.md",
-    "Notes/1350 Week 3.md",
-    "Notes/Object Oriented Programming.md",
-    "Notes/2515 Week 2.md",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",
     "Images/Pasted image 20240918140651.png",
