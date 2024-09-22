@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 Tasks.md",
+                "file": "Week 3 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Stats Unit 3.md",
+                "file": "Notes Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Stats Unit 3.md",
+                "file": "Notes Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Stats Unit 3.md"
+                "file": "Notes Table of Contents.md"
               }
             }
           },
@@ -198,18 +198,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc58d4ed0213e2bb",
+  "active": "b39dd483b4e500e8",
   "lastOpenFiles": [
+    "Notes/2620 Week 2.md",
+    "Notes/Ethernet Fundamentals.md",
     "Notes Table of Contents.md",
+    "Notes/2620 Week 1.md",
+    "Notes/Network Topologies.md",
+    "Notes/Common Network Infrastructure Devices.md",
+    "Notes/OSI Model.md",
+    "Notes/Stats Unit 3.md",
+    "Week 3 Tasks.md",
+    "Week 4 Tasks.md",
     "Notes/2420 Week 2.md",
     "Notes/2620 Week 3.md",
     "Notes/2620 Week 3 Lecture.md",
-    "Week 4 Tasks.md",
     "Notes/2515 Week 3.md",
     "Notes/2515 Week 3 Lecture.md",
     "Notes/Python Basics.md",
-    "Notes/Stats Unit 3.md",
-    "Week 3 Tasks.md",
     "README.md",
     "Tasks Master List.md",
     "Linux Assignment 1/Linux Assignment 1 Instructions.md",
@@ -228,14 +234,8 @@
     "Excalidraw/Drawing 2024-09-21 20.02.29.excalidraw.md",
     "Excalidraw/Drawing 2024-09-21 20.02.42.excalidraw.md",
     "Notes/1350 Week 3.md",
-    "Notes/Ethernet Fundamentals.md",
-    "Notes/2620 Week 2.md",
     "Notes/Object Oriented Programming.md",
     "Notes/2515 Week 2.md",
-    "Notes/WEB Week 2 Lecture Notes.md",
-    "Notes/2520 Week 2.md",
-    "Notes/WEB Week 2 Lecture.md",
-    "Assignment Due Dates.md",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",
     "Images/Pasted image 20240918140651.png",
