@@ -12,8 +12,8 @@ filename includes {{query.file.filename}}
 # OOP
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-21
 	- [x] Check if sorted() .sort() in my flash cards ✅ 2024-09-21
-- [ ] Study for evaluation next week 📅 2024-09-24 
-- [ ] Write cheat sheet 📅 2024-09-21 
+- [x] Study for evaluation next week 📅 2024-09-24 ✅ 2024-09-24
+- [x] Write cheat sheet 📅 2024-09-21 ✅ 2024-09-23
 	- Has quiz and written section
 # Stats
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-18
@@ -22,6 +22,7 @@ filename includes {{query.file.filename}}
 # Business Systems
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-19
 - [ ] Assignment 3 📅 2024-09-26 🆔 Assignment
+- [ ] Watch the dogshit video 📅 2024-09-26 
 # Comms
 - [ ] Finish my portion of assignment 1 📅 2024-09-19 🆔 Assignment
 	- [ ] Glossary
@@ -34,7 +35,7 @@ filename includes {{query.file.filename}}
 	- [ ] ipv4 reading
 # Linux
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-19
-- [ ] Assignment 1 📅 2024-09-29 🆔 Assignment
+- [x] Assignment 1 🆔 Assignment 📅 2024-09-29 ✅ 2024-09-23
 - [ ] Readings 📅 2024-09-27 
 	- [ ] Chapter 4
 	- [ ] Module 8 

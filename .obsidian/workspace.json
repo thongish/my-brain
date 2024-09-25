@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc58d4ed0213e2bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Stats Unit 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c6a9adc02b280b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Assignment 1/Linux Assignment 1 Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfe2e42a0b91ff91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b39dd483b4e500e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes Table of Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a96e03919fec572d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/The Linux Filesystem.md",
+                "file": "Week 4 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +25,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux Assignment 1/Linux Assignment 1 Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34a75fa74a9963ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2520 Week 4 Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "853a1c1c4615fabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2f5eadf50fdd6a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "648a3413dac47c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 3 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "566852f14600927b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2520 Week 4 Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unix-lik",
+                "query": "sorted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Week 4 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Week 4 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Week 4 Tasks.md"
               }
             }
           },
@@ -214,51 +219,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bb4ede2f20150aaf",
+  "active": "bfe2e42a0b91ff91",
   "lastOpenFiles": [
-    "Images/token_string.png",
-    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
-    "Questions.md",
-    "Notes/The Linux Filesystem.md",
     "Week 3 Tasks.md",
+    "Notes/2520 Week 4 Lecture.md",
+    "Questions.md",
+    "Notes/2520 Week 4.md",
+    "2831 assignment 3.md",
     "Notes Table of Contents.md",
+    "Notes/2520 Week 3.md",
+    "Notes/2520 Week 3 Lecture.md",
     "Notes/Stats Unit 3.md",
-    "Notes/2620 Week 2.md",
-    "Notes/Ethernet Fundamentals.md",
-    "Notes/2620 Week 1.md",
-    "Notes/Network Topologies.md",
-    "Notes/Common Network Infrastructure Devices.md",
-    "Notes/OSI Model.md",
+    "Images/Pasted image 20240924235324.png",
+    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
     "Week 4 Tasks.md",
-    "Notes/2420 Week 2.md",
-    "Notes/2620 Week 3.md",
-    "Notes/2620 Week 3 Lecture.md",
-    "Notes/2515 Week 3.md",
-    "Notes/2515 Week 3 Lecture.md",
+    "Images/Pasted image 20240924234721.png",
+    "Images/Pasted image 20240924235236.png",
+    "Images/Pasted image 20240924234955.png",
+    "Images/Pasted image 20240924234933.png",
+    "Images/Pasted image 20240924234926.png",
+    "Images/Pasted image 20240924234909.png",
+    "Images/Pasted image 20240924234740.png",
+    "Notes/1350 Week 3.md",
+    "Notes/Secure Shell (SSH) Protocol.md",
     "Notes/Python Basics.md",
-    "README.md",
+    "Notes/Object Oriented Programming.md",
+    "Notes/2515 Week 2.md",
+    "Notes/2515 Week 1.md",
+    "Notes/Unit Testing and pytest.md",
+    "Notes/Modules and Packages.md",
+    "Notes/Virtual Environments.md",
     "Tasks Master List.md",
+    "Notes/Intro to cloud-init.md",
+    "linux assignment.md",
+    "Notes/The Linux Filesystem.md",
+    "README.md",
+    "Images/token_string.png",
+    "Notes/2620 Week 2.md",
     "Images/Pasted image 20240921200545.png",
-    "Images/Pasted image 20240921204139.png",
-    "Images/Pasted image 20240921204042.png",
-    "Images/Pasted image 20240921204025.png",
-    "Images/Pasted image 20240921201726.png",
-    "Images/Pasted image 20240921201330.png",
-    "Images/Pasted image 20240921201328.png",
-    "Images/Pasted image 20240921201114.png",
-    "Images/Pasted image 20240921200811.png",
-    "Excalidraw/Drawing 2024-09-21 20.04.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-21 20.02.55.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-09-21 20.02.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-21 20.02.42.excalidraw.md",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",
-    "Images/Pasted image 20240918140651.png",
     "Notes/Root Notes",
     "Untitled.canvas",
     "Images",
