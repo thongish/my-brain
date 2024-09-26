@@ -25,7 +25,7 @@
 [[1350 Week 1]] Definitions, sampling, variables, distributions
 [[1350 Week 2]] Graphical summaries of numerical data
 [[1350 Week 3]] Numerical summaries of data
-[[1350 Week 4]]
+[[1350 Week 4]] Probability and counting
 [[1350 Week 5]]
 [[1350 Week 6]]
 [[1350 Week 7]]
@@ -57,7 +57,7 @@
 # Networking
 [[2620 Week 1]] OSI Model, Common Network Infrastructure Devices, Network Topologies
 [[2620 Week 2]] Ethernet Fundamentals
-[[2620 Week 3]]
+[[2620 Week 3]] IPv4 Addressing
 [[2620 Week 4]]
 [[2620 Week 5]]
 [[2620 Week 6]]
@@ -68,7 +68,7 @@
 # Linux
 [[2420 Week 1]] What is SSH?, Chapter 2 Shell, 
 [[2420 Week 2]] Chapter 3 Linux Filesystem, cloud-init
-[[2420 Week 3]]
+[[2420 Week 3]] Processes and Process Control, Searching
 [[2420 Week 4]]
 [[2420 Week 5]]
 [[2420 Week 6]]

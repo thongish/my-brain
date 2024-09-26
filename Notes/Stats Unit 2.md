@@ -102,60 +102,84 @@
 What is a **class**? A group of values of which X is placed in
 
 What is the ***frequency*** of a class?::The number of times a measurement of X falls into a give class
+<!--SR:!2024-09-28,3,250-->
 
 What is a **frequency distribution**?::How often different values or ranges of values occur in a dataset
+<!--SR:!2024-09-26,1,230-->
 
 What is **relative frequency**?::Frequency / total number of values of X.
+<!--SR:!2024-09-28,3,250-->
 
-What is **precision**?::The interval of values in the data set.
+What is **precision**?::The interval/increment of values in the data set.
+<!--SR:!2024-09-28,3,250-->
 
 What is a **modal class**?::The class with the highest frequency.
+<!--SR:!2024-09-28,3,250-->
 
 What is the **upper class limit**?::The highest value in the range of a class.
+<!--SR:!2024-09-28,3,250-->
 
 What is the **lower class limit**?::The lowest value in the range of a class.
+<!--SR:!2024-09-28,3,250-->
 
 What is the **class mark**?::The average of the lower and upper class limits of a class.
+<!--SR:!2024-09-26,1,230-->
 
 What is the **lower class boundary**?::The average of the highest value of the previous class and the lowest value of the current class.
+<!--SR:!2024-09-28,3,250-->
 
 What is the **upper class boundary**?::The average of the highest value of the current class and the lowest value of the next class.
+<!--SR:!2024-09-28,3,250-->
 
-What is **class width**?::The upper boundary minus the lower boundary.
+What is **class width**?::The upper class boundary minus the lower class boundary.
+<!--SR:!2024-09-28,3,250-->
 
 How do you determine the number of classes?::The number of classes is approximately n^(1/2), where n = sample size.
+<!--SR:!2024-09-26,1,230-->
 
 What is a **histogram**?::A visual representation of the corresponding frequency distribution.
+<!--SR:!2024-09-26,1,230-->
 
 What does the height of a histogram rectangle represent?::The frequency or relative frequency of that class.
+<!--SR:!2024-09-28,3,250-->
 
 What does it mean if Bill scored in the 75th percentile?::He is doing better than 75% of people.
+<!--SR:!2024-09-28,3,250-->
 
 What are **quartiles**?::Percentiles in multiples of 25.
+<!--SR:!2024-09-26,1,230-->
 
 What is the inter-quartile range (IQR)?
 ?
 The difference between Q3 and Q1.
 - Q$_3$ - Q$_1$
+<!--SR:!2024-09-26,1,230-->
 
 What is the **five-number summary**?::Q0 (min), Q1, Q2, Q3, Q4 (max).
+<!--SR:!2024-09-28,3,250-->
 
 What is a **boxplot**?::A simple way to visualize the five-number summary and the inter-quartile range.
+<!--SR:!2024-09-26,1,230-->
 
 What are **outliers**?::Extremely small or large values of X.
+<!--SR:!2024-09-26,1,230-->
 
 How do you calculate **outliers**?
 ?
 - lower limit = Q$_1$ - 1.5 * *IQR*
 - upper limit = Q$_3$ + 1.5 * *IQR*
 - any value below the lower limit or higher than the upper limit is an outlier
+<!--SR:!2024-09-26,1,230-->
 
 What is a pie chart?::A chart that represents parts of a whole, but can make comparing categories harder.
+<!--SR:!2024-09-26,1,230-->
 
 What is a bar chart?::The best way to present one categorical variable, with values on the horizontal axis and frequencies on the vertical axis.
+<!--SR:!2024-09-28,3,250-->
 
 Given data values 1, 3, 5, 7, 8, 10, 12, 16
 What is the 50th percentile?
 ?
 7.5
 ![[Pasted image 20240918140651.png]]
+<!--SR:!2024-09-26,1,230-->
