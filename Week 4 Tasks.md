@@ -16,6 +16,8 @@ filename includes {{query.file.filename}}
 - [ ] Unit 4 practice📅 2024-10-02 
 # Business Systems
 - [ ] Go back to week 3 notes and write flash cards
+- [ ] Team project 📅 2024-10-13 🆔 Assignment
+- [ ] Assignment 4 (quiz) 
 # Comms
 - [ ]
 # Networking

@@ -37,5 +37,5 @@ filename includes {{query.file.filename}}
 - [x] Go back to week 2 notes and write flash cards ✅ 2024-09-19
 - [x] Assignment 1 🆔 Assignment 📅 2024-09-29 ✅ 2024-09-23
 - [ ] Readings 📅 2024-09-27 
-	- [ ] Chapter 4
+	- [x] Chapter 4 ✅ 2024-09-26
 	- [ ] Module 8 

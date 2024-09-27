@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Assignment 1/Linux Assignment 1 Instructions.md",
+                "file": "Week 3 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stats Unit 4.md",
+                "file": "Notes/Processes and Process Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e12eac531d38bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2831 assignment 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processes and Process Control.md",
+                "file": "Notes/The Shell and its Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "full mesh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,12 +138,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Processes and Process Control.md",
+                "file": "Notes/Processes and Process Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Processes and Process Control.md",
+                "file": "Notes/Processes and Process Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Processes and Process Control.md"
+                "file": "Notes/Processes and Process Control.md"
               }
             }
           },
@@ -217,43 +229,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f1b1b0ecedeb81ae",
+  "active": "b2bb7d5388a6c2b9",
   "lastOpenFiles": [
-    "Week 4 Tasks.md",
-    "Processes and Process Control.md",
-    "Pasted image 20240925220044.png",
-    "Untitled 1.md",
-    "2420 Week 3.md",
-    "Notes Table of Contents.md",
-    "Notes/2420 Week 2.md",
-    "Week 3 Tasks.md",
+    "Notes/Linux Essentials Searching.md",
+    "Pasted image 20240926230345.png",
+    "Pasted image 20240926225818.png",
+    "Pasted image 20240926225521.png",
+    "Pasted image 20240926224359.png",
     "2831 assignment 3.md",
-    "Notes/Stats Unit 3.md",
-    "1350 Week 4.md",
-    "Notes/Stats Unit 4.md",
-    "Notes/IPv4 Addressing.md",
-    "Untitled.md",
-    "Notes/2620 Week 3.md",
-    "Assignment Due Dates.md",
-    "Notes/2520 Week 4 Lecture.md",
-    "Notes/Network Topologies.md",
+    "Notes/The Shell and its Commands.md",
+    "Notes/2420 Week 1.md",
+    "Notes Table of Contents.md",
     "Questions.md",
-    "Notes/2520 Week 4.md",
-    "Notes/2520 Week 3.md",
-    "Notes/2520 Week 3 Lecture.md",
-    "Images/Pasted image 20240924235324.png",
+    "Pasted image 20240926213513.png",
+    "Pasted image 20240926205935.png",
+    "Pasted image 20240926205540.png",
+    "Notes/2831 Week 2 Glossary.md",
+    "Notes/2420 Week 3.md",
+    "Notes/Processes and Process Control.md",
+    "Notes/1350 Week 4.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Images/Pasted image 20240925220044.png",
+    "Notes/Stats Unit 4.md",
+    "Week 3 Tasks.md",
+    "Week 4 Tasks.md",
+    "Notes/Network Topologies.md",
+    "Notes/2831 Week 2.md",
+    "Assignment Due Dates.md",
     "Linux Assignment 1/Linux Assignment 1 Instructions.md",
+    "Notes/2420 Week 2.md",
+    "Notes/Stats Unit 3.md",
+    "Notes/IPv4 Addressing.md",
+    "Notes/2620 Week 3.md",
+    "Notes/2520 Week 4 Lecture.md",
+    "Notes/2520 Week 4.md",
+    "Images/Pasted image 20240924235324.png",
     "Images/Pasted image 20240924234721.png",
-    "Images/Pasted image 20240924235236.png",
-    "Images/Pasted image 20240924234955.png",
-    "Images/Pasted image 20240924234933.png",
-    "Images/Pasted image 20240924234926.png",
-    "Images/Pasted image 20240924234909.png",
-    "Images/Pasted image 20240924234740.png",
-    "Notes/1350 Week 3.md",
-    "Notes/Secure Shell (SSH) Protocol.md",
-    "Notes/Python Basics.md",
-    "Images/token_string.png",
     "Excalidraw",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",
