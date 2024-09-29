@@ -2,7 +2,10 @@
 This is my Obsidian vault for term 2
 
 <details>
-```
-sudo - grants the user temporary root privilege for the current command
-```
+- testing list
+- item two
+- item three
 </details>
+- testing list
+- item 2 
+- item 3
