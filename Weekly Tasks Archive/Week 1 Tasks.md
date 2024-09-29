@@ -38,7 +38,7 @@ filename includes {{query.file.filename}}
 - [x] Watch week 1 & 2 videos 📅 2024-09-11 ✅ 2024-09-11
 - [x] Parallel list/Oxford comma quiz 📅 2025-09-06 ✅ 2024-09-07
 - [x] Technical definition quiz 📅 2024-09-13 ✅ 2024-09-10
-- [ ] Assignment 1 📅 2024-09-27 🆔 Assignment
+- [x] Assignment 1 🆔 Assignment 📅 2024-09-27 ✅ 2024-09-28
 # Networking
 - [x] [Week 1 readings](https://hackmd.io/@yveshema/networking-overview#Reading-List) ✅ 2024-09-12
 	- [x] [OSI Model](https://learning.oreilly.com/videos/networking-fundamentals/9780134645711/9780134645711-NETP_1_1_0_0/) ✅ 2024-09-12

@@ -418,23 +418,23 @@ Is this a valid line of code?
 ?
 Yes, you can concatenate a number type with a string type
 - this is called Type coercion
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-07,9,250-->
 
 `{js}"This is a string".charAt(3)`
 What does this line of code return?
 ?
 `{js}"s"`
 - `{js}string.charAt()` accesses characters in a string at the specified index
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-10,12,270-->
 
 `{js}"5" == 5;` is true. Why?::Double equals comparisons performs Type coercion
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-11,13,270-->
 
 true or false?
 `{js}"5" === 5;`
 ?
 false
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-10,12,270-->
 
 `{js}"Hello world".substring(0, 5);`
 What is the output of this line?
@@ -443,7 +443,7 @@ What is the output of this line?
 - The substring method extracts a portion of a string between two indices
 	- First index is inclusive
 	- Second index is exclusive
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-07,9,250-->
 
 `{js}"Hello".length`
 `{js}"Hello".length()`
@@ -451,19 +451,19 @@ Which one is correct?
 ?
 `{js}"Hello".length`
 - `{js}.length` is a property, not a function
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-11,13,270-->
 
 Why would you want to use `{js}null`?:: To indicate a deliberate non-value
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-06,8,250-->
 
 Why would you want to use `{js}undefined`:: To indicate a value is not currently present
-<!--SR:!2024-09-21,1,210-->
+<!--SR:!2024-09-30,2,210-->
 
 `{js}const someVar;`
 This line hasn't given the variable `{js}someVar` a value, what is the default value that is given to this variable?
 ?
 `{js}undefined`
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-11,13,270-->
 
 `{js}false`,
 `{js}null`,
@@ -475,13 +475,13 @@ are known as what values?
 ?
 "falsy" values
 -  A value that is considered false when encountered in a Boolean context
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-11,13,270-->
 
 Why is this line of code dangerous?
 `{js}someVar = 10;`
 ?
 Because without the use of `{js}var` ,  `{js}let`,  or `{js}const`, the variable will be created in the global scope, not the scope you defined it in
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-30,2,230-->
 
 ```js
 let someVar = 10;
@@ -493,7 +493,7 @@ What is the value of `{js}someVar`?
 ?
 `{js}10`
 - `{js}someVar++` and `{js}someVar--` are short-hand for adding or subtracting by 1
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-10,12,270-->
 
 ```js
 let myArray = [1, 2, 3, 4];
@@ -504,7 +504,7 @@ What is the value of `{js}myArray`?
 ?
 `{js}[0, 1, 2, 3, 4]`
 - `{js}array.unshift()` Adds to to an array as the first element
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-07,9,250-->
 
 ```js
 let myArray = [1, 2, 3, 4];
@@ -515,7 +515,7 @@ What is the value of `{js}someVar`?
 ?
 `{js}1`
 - `{js}array.shift()` removes the first element and returns it
-<!--SR:!2024-09-22,2,230-->
+<!--SR:!2024-10-04,6,230-->
 
 
 ```js
@@ -527,7 +527,7 @@ What is the value of `{js}someVar`?
 ?
 `{js}4`
 - `{js}array.pop()` removes the last element and returns it
-<!--SR:!2024-09-28,8,250-->
+<!--SR:!2024-10-17,19,250-->
 
 ```js
 let myArray0 = [32,false,"js",12,56,90];
@@ -539,7 +539,7 @@ What is the output of this code snippet?
 `{js}"32-false-js-12-56-90"`
 - `{js}array.join()` method returns a new string by concatenating all elements in an array, separated by commas or a specified separator string
 	- in this case, the separator string is `{js}"-"`
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-11,13,270-->
 
 ```js
 let myArray0 = [32,false,"js",12,56,90];
@@ -552,7 +552,7 @@ What is the output of this code snippet?
 - `{js}array.slice()` method extracts a portion of an array between two indices
 	- First index is inclusive
 	- Second index is exclusive
-<!--SR:!2024-09-28,8,250-->
+<!--SR:!2024-10-18,20,250-->
 
 ```js
 let myObj = {
@@ -563,7 +563,7 @@ let myObj = {
 Is this a valid JavaScript object?
 ?
 No, the keys in a JavaScript object MUST be unique
-<!--SR:!2024-09-28,8,250-->
+<!--SR:!2024-10-18,20,250-->
 
 ```js
 let myObj = {
@@ -577,7 +577,7 @@ myObj.key1;
 Which of the two accessing methods is correct in this code snippet?
 ?
 Both are valid ways to access the value of `{js}key1`
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-06,8,250-->
 
 ```js
 let myObj = {
@@ -589,7 +589,7 @@ How would you add a new key-value pair to this object?
 ?
 `{js}myObj.key3 = "value3"`
 - Despite being able to access key values with subscript syntax `{js}myObj[key2]`, you can't change or add new keys with it
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-09-30,2,230-->
 
 ```js
 for (let i = 0; i < 5; i++){
@@ -599,7 +599,7 @@ for (let i = 0; i < 5; i++){
 How many times will this for loop run?
 ?
 5
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-11,13,270-->
 
 ```js
 let description = "";
@@ -613,7 +613,7 @@ What is the value of `{js}description`?
 ?
 `{js}'Adam Siyala 20'`
 - the for/in loop allows for looping over an object
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-07,9,250-->
 
 ```js
 let myPets = "";
@@ -627,7 +627,7 @@ What is the value of `{js}myPets`?
 ?
 `{js}'cat dog hamster bunny'`
 - the for/of loop allows for looping over strings, arrays, and more
-<!--SR:!2024-09-28,8,250-->
+<!--SR:!2024-10-17,19,250-->
 
 ```js
 let house = {
@@ -642,7 +642,7 @@ if (house.size == "big" && house.color == "blue") {
 Does `{js}console.log("Big blue house")` run here?
 ?
 No, the `{js}&&` is a logical `{js}and` operator
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-07,9,250-->
 
 ```js
 let house = {
@@ -657,7 +657,7 @@ if (house.size == "big" || house.color == "blue") {
 Does `{js}console.log("Big blue house")` run here?
 ?
 Yes, the `{js}||` is a logical `{js}or` operator
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-07,9,250-->
 
 ```js
 let grade = 'B';
@@ -680,7 +680,7 @@ What will be printed in the terminal?
 ?
 `{js}"OK job"`
 - Remember to use `{js}break` after each case, or the cases after the correct one will be executed too
-<!--SR:!2024-09-28,8,250-->
+<!--SR:!2024-10-17,19,250-->
 
 How do you declare a JavaScript function?
 ?
@@ -690,7 +690,7 @@ function myFunction() {
 	//do something
 }
 ```
-<!--SR:!2024-09-18,1,230-->
+<!--SR:!2024-09-30,2,230-->
 
 ```js
 function myFunc() {
@@ -700,7 +700,7 @@ function myFunc() {
 What kind of function syntax is this?
 ?
 Function declaration syntax
-<!--SR:!2024-09-28,8,250-->
+<!--SR:!2024-10-18,20,250-->
 
 ```js
 let myFunc() = function() {
@@ -710,7 +710,7 @@ let myFunc() = function() {
 What kind of function syntax is this?
 ?
 Function expression syntax
-<!--SR:!2024-09-22,2,230-->
+<!--SR:!2024-10-04,6,230-->
 
 ```js
 let myFunc() = () => {
@@ -720,7 +720,7 @@ let myFunc() = () => {
 What kind of function syntax is this?
 ?
 Arrow function syntax
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-10-11,13,270-->
 
 ```js
 myFunc();
@@ -731,7 +731,7 @@ function myFunc() {
 Will this piece of code run?
 ?
 Yes, because function declaration syntax allows for hoisting, which means you can call the function BEFORE you define it
-<!--SR:!2024-09-21,4,270-->
+<!--SR:!2024-09-30,2,250-->
 
 
 

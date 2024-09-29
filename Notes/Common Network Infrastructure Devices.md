@@ -65,49 +65,49 @@
 # Flash cards
 
 What is a **router**?::A Layer 3 device that can make forwarding decisions based on logical addresses (i.e. IP addresses).
-<!--SR:!2024-09-21,2,230-->
+<!--SR:!2024-10-02,5,230-->
 
 What is a **Wide Area Network** (WAN)?::A network connection that interconnects geographically separate networks.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-28,1,190-->
 
 What is a **Virtual Private Network** (VPN)?::Allows a secure connection to be set up over an untrusted network, creating a virtual tunnel that connects devices over the internet.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-28,1,190-->
 
 What is a **Wireless Access Point** (WAP)?::A device that communicates with wireless devices (i.e. smartphones, laptops, printers) and interconnects them with a wired network.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-29,2,210-->
 
 What is a **switch**?::A Layer 2 device that makes forwarding decisions based on physical addresses (i.e. MAC addresses) and builds a MAC address table.
-<!--SR:!2024-09-21,2,230-->
+<!--SR:!2024-10-02,5,230-->
 
 What is a **Network Interface Card** (NIC)?::A card inside a networked device that allows the device to communicate on a network, with a MAC address burned into the card.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-29,2,210-->
 
 What is a **Media Access Control** (MAC) address?::A 48-bit address burned into a NIC, typically written in hexadecimal notation.
-<!--SR:!2024-09-21,2,230-->
+<!--SR:!2024-10-02,5,230-->
 
 What is an **Intrusion Prevention System** (IPS)?::A sensor that sits in-line with network traffic, can recognize the signature of well-known attacks, and stop them.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-29,2,210-->
 
 What is an **Intrusion Detection System** (IDS)?::A sensor that receives a copy of network traffic, can recognize the signature of well-known attacks, and stop them, but is not as secure as the IPS.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-29,2,210-->
 
 What is a **firewall**?::A network device that uses a set of rules to determine what traffic to permit or deny between portions (i.e. zones) of a network.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-28,1,190-->
 
 What is a **Demilitarized Zone** (DMZ)?::A portion of a network that should be accessible by external devices (i.e. devices on the internet) and hosts public-facing services like web, email, and FTP servers.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-29,2,210-->
 
 What is a **firewall router**?::A router configured to perform both firewall functions and routing functions.
-<!--SR:!2024-09-22,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 What is a **multilayer switch**?
 ?
 - An Ethernet switch that can make forwarding decisions based on Layer 3 (i.e. IP addresses) and Layer 2 (i.e. MAC addresses) information. 
 - Regular switches can only make forwarding decisions based on physical addresses like MAC addresses
-<!--SR:!2024-09-21,2,230-->
+<!--SR:!2024-09-28,1,210-->
 
 What is a **cache engine**?::A component or system that locally stores content retrieved from a remote network (typically the internet) and sends it to local devices, saving bandwidth.
-<!--SR:!2024-09-20,1,210-->
+<!--SR:!2024-09-28,1,190-->
 
 What is a **Network-Attached Storage** (NAS) device?::A network appliance that makes storage resources (i.e. large, redundant hard drives) available to network clients.****
-<!--SR:!2024-09-21,2,230-->
+<!--SR:!2024-10-02,5,230-->

@@ -2,7 +2,7 @@
 # Dev Web App 2520
 [[2520 Week 1]] How programming languages work, JavaScript review/refresher/fundamentals
 [[2520 Week 2]] Callbacks
-[[2520 Week 3]]
+[[2520 Week 3]] Armaan's solution to lab 2
 [[2520 Week 4]] Promises
 [[2520 Week 5]]
 [[2520 Week 6]]

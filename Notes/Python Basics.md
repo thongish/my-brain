@@ -410,10 +410,10 @@ print(append_to_list(3))  # Output: [3]
 # Flash Cards
 
 What is a strongly typed language?::Variables have a type and the type matters when performing operations on the variable
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 What is a dynamically typed language::means the type of variable is determined only during runtime
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 ```python
 something = "This is something"
@@ -429,28 +429,28 @@ What is the output of this code snippet?
 ?
 `{python}"This is something"`
 - Variables defined within a function are only known within that function
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 Python variables should follow what naming convention?
 ?
 snakecase
 ex. 
 - `{python}my_great_variable`
-<!--SR:!2024-09-22,4,270-->
+<!--SR:!2024-10-09,12,270-->
 
 How do you indicate a variable is a constant in Python?
 ?
 Variable should be in uppercase
 ex. 
 - `{python}NUMBER_OF_ATTEMPTS = 2`
-<!--SR:!2024-09-22,4,270-->
+<!--SR:!2024-10-09,12,270-->
 
 What type of division is this?
 `{python}14 // 3 == 4`
 ?
 Floor division or Integer division
 - Divides and rounds to the nearest whole number
-<!--SR:!2024-09-22,4,270-->
+<!--SR:!2024-10-09,12,270-->
 
 ```python
 rich = True
@@ -472,16 +472,16 @@ and `{python}very_unattractive`?
 `{python}not_attractive_2` = `{python}False`
 `{python}very_unattractive` = `{python}False`
 **Remember that "`{python}not (A and B)`" is "`{python}not A or not B`", and is not the same as "`{python}not A and not B`"**
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 What is the key difference between a `{python}list` and a `{python}tuple`?::A `{python}list` is mutable (can be changed), while a `{python}tuple` is immutable (can't be changed after creation)
-<!--SR:!2024-09-22,4,270-->
+<!--SR:!2024-10-09,12,270-->
 
 True or False?
 Sets can contain duplicate elements
 ?
 False
-<!--SR:!2024-09-22,4,270-->
+<!--SR:!2024-10-09,12,270-->
 
 What methods are used to insert elements to a:
 `{python}list`,
@@ -493,7 +493,7 @@ What methods are used to insert elements to a:
 `{python}tuple`= no method; immutable
 `{python}set`= `{python}.add()`
 `{python}dict`= `{python}.update()`
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 You should avoid iterating with?
 ?
@@ -504,21 +504,21 @@ my_list = [1, 2, 3, 4]
 for idx in range(len(my_list)):  
 	print("Value:", my_list[idx])
 ```
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 True or False? 
 You can define a set in Python like so:
 `{python}my_set = {1, 2, 1, 1, 3}`
 ?
 True
-<!--SR:!2024-09-22,4,270-->
+<!--SR:!2024-10-09,12,270-->
 
 True or False?
 Dictionaries can be sorted
 ?
 False
 - Dictionaries are not ordered, therefore they can't be sorted
-<!--SR:!2024-09-19,1,230-->
+<!--SR:!2024-09-29,2,230-->
 
 What method should you use to iterate through both key and value of a Python dictionary?
 ?
@@ -527,7 +527,7 @@ What method should you use to iterate through both key and value of a Python dic
 for key, value in my_dict.items():
 	print("Key:" + key + " - Value:" + value)
 ```
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 What method should you use to iterate though the keys of a Python dictionary?
 ?
@@ -536,10 +536,10 @@ What method should you use to iterate though the keys of a Python dictionary?
 for key in my_dict.keys():  
 	print("Key:" + key + " - Value:" + my_dict[key])
 ```
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 Are strings mutable (can be changed) or immutable (can't be changed)?::Immutable
-<!--SR:!2024-09-22,4,270-->
+<!--SR:!2024-10-09,12,270-->
 
 ```python
 x = " ".join(["Mellaad", "is", "strong", "!"])
@@ -548,7 +548,7 @@ print(x)
 What is printed to the terminal?
 ?
 `{python}"Mellaad is strong !"`
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 ```python
 phone_num = "604-666-7777"
@@ -557,7 +557,7 @@ print(phone_num.split("-"))
 What is printed here?
 ?
 `{python}['604', '666', '7777]`
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 ```python
 def register_student(student_id, name, international=False, scholarship=False):  
@@ -567,7 +567,7 @@ def register_student(student_id, name, international=False, scholarship=False):
 What type of arguments are `{python}international` and `{python}scholarship`, and when calling this function, do you have to pass in arguments for them?
 ?
 They are **keyword** arguments and no you don't have to pass in arguments when calling the function because they already have default values
-<!--SR:!2024-09-21,3,250-->
+<!--SR:!2024-10-05,8,250-->
 
 ```python
 def append_to_list(value, my_list=[]):
@@ -586,6 +586,7 @@ What are the outputs of the 3 print statements?
 [1, 2, 3]
 ```
 - Every time the function is called, the list gets reused instead of creating a new list
-<!--SR:!2024-09-21,3,250--> 
+<!--SR:!2024-10-05,8,250--> 
 
 What is the difference between `{python}sorted()` and `{python}.sorted()`?::The difference is that `{python}sorted()`will return a new sorted list, leaving the original list unchanged. While `{python}.sorted()` will sort the list in-place, changing the original list and returning `{python}None`
+<!--SR:!2024-09-30,3,254-->
