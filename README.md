@@ -2,6 +2,7 @@
 This is my Obsidian vault for term 2
 
 <details>
-testing collapse
-`testing inline` code
+```
+sudo - grants the user temporary root privilege for the current command
+```
 </details>
