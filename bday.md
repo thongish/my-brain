@@ -1,2 +1,3 @@
-- [ ] oct 1 📅 2024-10-01 
-nov 18
+oct 1 tilda
+nov 18 lil
+

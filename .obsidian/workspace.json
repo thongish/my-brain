@@ -20,36 +20,24 @@
             }
           },
           {
-            "id": "80e066c0dd04d36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4 Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2bb7d5388a6c2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Processes and Process Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f1b1b0ecedeb81ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb5dad84d1387e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stats Unit 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,27 +54,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "969ebecaeb6492de",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bb4ede2f20150aaf",
+            "id": "9159bf23837c8fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IPv4 Addressing.md",
+                "file": "Week 5 Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duplex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Stats Unit 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Stats Unit 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Stats Unit 4.md"
               }
             }
           },
@@ -223,13 +205,32 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f1b1b0ecedeb81ae",
+  "active": "fb5dad84d1387e36",
   "lastOpenFiles": [
-    "Notes/IPv4 Addressing.md",
-    "README.md",
-    "Notes/Processes and Process Control.md",
+    "Week 5 Tasks.md",
     "Week 4 Tasks.md",
+    "Notes/Stats Unit 4.md",
+    "Pasted image 20241001194836.png",
+    "Pasted image 20241001193855.png",
+    "Pasted image 20241001193747.png",
+    "Pasted image 20241001193713.png",
+    "Pasted image 20241001191730.png",
+    "Pasted image 20241001191717.png",
+    "Pasted image 20241001191542.png",
+    "Pasted image 20241001191358.png",
+    "Pasted image 20241001180356.png",
+    "Pasted image 20241001180348.png",
+    "Notes/IPv4 Addressing.md",
+    "Notes/2520 Week 4 Lecture.md",
+    "Notes/Processes and Process Control.md",
+    "README.md",
+    "Notes/Linux Essentials Searching.md",
+    "Notes/2420 Week 3.md",
     "Notes Table of Contents.md",
+    "Notes/2520 Week 4.md",
+    "Nodejs Promises.md",
+    "bday.md",
+    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
     "Notes/2620 Week 4.md",
     "Notes/2620 Week 3.md",
     "Notes/2620 Week 3 Lecture.md",
@@ -240,27 +241,7 @@
     "Notes/2520 Week 3.md",
     "Notes/2520 Week 3 Lecture.md",
     "Notes/2420 Week 4 Lecture.md",
-    "bday.md",
     "Tasks Master List.md",
-    "Questions.md",
-    "Notes/2420 Week 4.md",
-    "Notes/2620 Week 4 Lecture.md",
-    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
-    "Images/Pasted image 20240926205540.png",
-    "Notes/Linux Essentials Searching.md",
-    "Notes/Ethernet Fundamentals.md",
-    "Notes/2620 Week 2 Lecture.md",
-    "Notes/OSI Model.md",
-    "Notes/2620 Week 2.md",
-    "Images/Pasted image 20240926230345.png",
-    "Images/Pasted image 20240926225818.png",
-    "Images/Pasted image 20240926225521.png",
-    "Images/Pasted image 20240926224359.png",
-    "Images/Pasted image 20240926213513.png",
-    "Images/Pasted image 20240926205935.png",
-    "Images/Pasted image 20240925220044.png",
-    "Images/Pasted image 20240924235324.png",
-    "Images/Pasted image 20240924234721.png",
     "Excalidraw",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",

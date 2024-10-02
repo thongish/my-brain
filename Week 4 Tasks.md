@@ -6,14 +6,14 @@ filename includes {{query.file.filename}}
 ```
 
 # Dev Web App
-- [ ] Promise lab 📅 2024-10-01 🆔 Assignment
-- [ ] Promise notes
+- [x] Promise lab 🆔 Assignment 📅 2024-10-01 ✅ 2024-10-01
+- [x] Promise notes ✅ 2024-10-01
 # OOP
 - [ ] Week 4 self-study 📅 2024-10-01 
 # Stats
 - [x] Go back to week 3 notes and write flash cards ✅ 2024-09-24
 - [x] Redo week 3 practice 📅 2024-09-24 ✅ 2024-09-24
-- [ ] Unit 4 notes 📅 2024-10-02 
+- [x] Unit 4 notes 📅 2024-10-02 ✅ 2024-10-01
 - [ ] Unit 4 practice📅 2024-10-02 
 # Business Systems
 - [ ] Go back to week 3 notes and write flash cards
@@ -27,5 +27,5 @@ filename includes {{query.file.filename}}
 - [ ] IPv4 subnets reading 📅 2024-10-04 
 # Linux
 - [ ] Go back to week 3 notes and write flash cards
-- [ ] Final draft of Assignment 1 📅 2024-09-29 🆔 Assignment
+- [x] Final draft of Assignment 1 🆔 Assignment 📅 2024-09-29 ✅ 2024-09-29
 - [ ] Read chapter 7 in the textbook 📅 2024-10-04 
