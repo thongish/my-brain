@@ -14,7 +14,7 @@ filename includes {{query.file.filename}}
 - [x] Go back to week 3 notes and write flash cards ✅ 2024-09-24
 - [x] Redo week 3 practice 📅 2024-09-24 ✅ 2024-09-24
 - [x] Unit 4 notes 📅 2024-10-02 ✅ 2024-10-01
-- [ ] Unit 4 practice📅 2024-10-02 
+- [x] Unit 4 practice 📅 2024-10-02 ✅ 2024-10-02
 # Business Systems
 - [ ] Go back to week 3 notes and write flash cards
 - [ ] Team project 📅 2024-10-13 🆔 Assignment

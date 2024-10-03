@@ -104,17 +104,22 @@
 # Flash cards
 
 How long many **bits** does an IPv4 address have?::32 bits long
+<!--SR:!2024-10-03,1,230-->
 
 IPv4 addresses are broken up into 8-bit segments, what are those segments called?::Octets
+<!--SR:!2024-10-05,3,250-->
 
 What is **classless addressing** in IPv4?
 ?
 A method in networking that allows network addresses to be subdivided into smaller blocks called subnets
 - Also known as Classless Inter-domain Routing (CIDR)
+<!--SR:!2024-10-03,1,230-->
 
 What does the format of a **CIDR-based** network address look like?::w.x.y.z/a where a is the prefix length or number of bits used for the network ID
+<!--SR:!2024-10-05,3,250-->
 
-What are reserved IP addresses?::IP addresses set aside by ICANN for specific uses 
+What are reserved IP addresses?::IP addresses set aside by ICANN for specific uses
+<!--SR:!2024-10-05,3,250-->
 
 What is a **Loopback IP** address?
 ?
@@ -126,6 +131,7 @@ What is required for a device to have direct internet access?::A public IP addre
 Who is responsible for the allocation of public IP addresses?::ICANN
 
 Can private IP addresses be used to access the internet directly?::No, private IP addresses are not routable on the internet
+<!--SR:!2024-10-05,3,250-->
 
 What protocol translates private IP addresses to a public IP address for internet access?::Network Address Translation (NAT)
 
@@ -135,6 +141,7 @@ Automatic Private Internet Protocol
 - APIPA addresses are assigned to a device when it can't obtain an IP address from a DHCP server
 
 Is a public IP address needed for internal communication within a network?::No, private IP addresses are used for internal communication
+<!--SR:!2024-10-05,3,250-->
 
 What is the main purpose of private IP addresses?::To allow communication within a local network without direct access to the internet
 
@@ -146,6 +153,7 @@ The process of breaking a larger network into smaller more manageable networks
 What is the **network ID** in a subnet?::The first IP address in a subnet, used to identify the network to routers, and not assignable to any device
 
 What is the **broadcast address** in a subnet?::The last IP address in a subnet, used to send messages to all devices on a network
+<!--SR:!2024-10-03,1,230-->
 
 What is a **default route** and why is it used?
 ?
@@ -156,6 +164,7 @@ What is the **default route** sometimes called?
 ?
 Gateway of last resort
 - Named this because if the computer doesn't know where to go, they go to this default route
+<!--SR:!2024-10-05,3,250-->
 
 What is the **default gateway** in a network?::The IP address of the router that devices use to send packets to destinations outside their local network
 

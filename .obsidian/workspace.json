@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e70c59bdd2bf936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats Unit 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Stats Unit 4.md",
+                "file": "Stats Unit 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Stats Unit 4.md",
+                "file": "Stats Unit 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Stats Unit 4.md"
+                "file": "Stats Unit 5.md"
               }
             }
           },
@@ -205,10 +217,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fb5dad84d1387e36",
+  "active": "7e70c59bdd2bf936",
   "lastOpenFiles": [
     "Week 5 Tasks.md",
     "Week 4 Tasks.md",
+    "Stats Unit 5.md",
+    "1350 Week 5.md",
+    "Notes Table of Contents.md",
+    "Notes/1350 Week 4.md",
+    "Notes/2831 assignment 3.md",
     "Notes/Stats Unit 4.md",
     "Pasted image 20241001194836.png",
     "Pasted image 20241001193855.png",
@@ -226,7 +243,6 @@
     "README.md",
     "Notes/Linux Essentials Searching.md",
     "Notes/2420 Week 3.md",
-    "Notes Table of Contents.md",
     "Notes/2520 Week 4.md",
     "Nodejs Promises.md",
     "bday.md",
@@ -236,12 +252,9 @@
     "Notes/2620 Week 3 Lecture.md",
     "Weekly Tasks Archive/Week 3 Tasks.md",
     "Assignment Due Dates.md",
-    "Notes/2831 assignment 3.md",
     "Notes/Network Topologies.md",
     "Notes/2520 Week 3.md",
     "Notes/2520 Week 3 Lecture.md",
-    "Notes/2420 Week 4 Lecture.md",
-    "Tasks Master List.md",
     "Excalidraw",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",

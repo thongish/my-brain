@@ -156,19 +156,19 @@ What is the definition of a **population**?::The *complete* set of individuals (
 <!--SR:!2024-10-03,6,230-->
 
 What is a **sample**?::A subset of individuals selected from the population
-<!--SR:!2024-09-29,2,210-->
+<!--SR:!2024-10-03,1,190-->
 
 What is a **sampling frame**??::The *physical* list of all the individuals in a population that we can sample
 <!--SR:!2024-10-03,6,230-->
 
 What is a **variable**?::Any *number of characteristics* that we could measure for each individual in the population
-<!--SR:!2024-09-29,1,170-->
+<!--SR:!2024-10-04,2,170-->
 
 What is a **data set**?::A set of measurements of certain variables for individuals in a certain sample (or the entire population)
-<!--SR:!2024-09-29,1,170-->
+<!--SR:!2024-10-03,1,150-->
 
 The **observation** or **measurement** of X is...::the value of X for one specific individual
-<!--SR:!2024-09-29,1,170-->
+<!--SR:!2024-10-04,2,170-->
 
 What are the 4 methods of **Random Sampling** (Probability Sampling)?
 ?
@@ -199,7 +199,7 @@ What are the 4 methods of **Non-Random Sampling (Non-Probability Sampling**?
 - Purposive sample
 - Snowball sample
 - Quota sample
-<!--SR:!2024-09-29,2,210-->
+<!--SR:!2024-10-06,4,210-->
 
 Which sampling method intentionally selects members based on their characteristics, knowledge, experiences, or some other criteria?::Purposive sample
 <!--SR:!2024-10-03,6,230-->
@@ -217,7 +217,7 @@ What is a **Sampling error?**::Errors that occur due to the fact that the sampli
 <!--SR:!2024-10-04,6,230-->
 
 What is a **Non-sampling error**?::Errors that occur due to human mistakes or machine malfunction
-<!--SR:!2024-09-29,1,210-->
+<!--SR:!2024-10-05,3,230-->
 
 What is an **Error of inclusion**?
 ?
@@ -235,7 +235,7 @@ How do you reduce **Sampling errors**?
 ?
 - Larger sample size
 - Ensure sample has similar proportions to the population
-<!--SR:!2024-09-29,2,210-->
+<!--SR:!2024-10-06,4,210-->
 
 How do you reduce **Non-sampling errors**?
 ?
