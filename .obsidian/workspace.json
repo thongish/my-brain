@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats Unit 5.md",
+                "file": "Week 4 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stats Unit 5.md",
+                "file": "Week 4 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stats Unit 5.md",
+                "file": "Week 4 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats Unit 5.md"
+                "file": "Week 4 Tasks.md"
               }
             }
           },
@@ -220,41 +219,42 @@
   "active": "7e70c59bdd2bf936",
   "lastOpenFiles": [
     "Week 5 Tasks.md",
-    "Week 4 Tasks.md",
-    "Stats Unit 5.md",
-    "1350 Week 5.md",
     "Notes Table of Contents.md",
+    "Notes/2515 Week 3.md",
+    "Notes/2515 Week 3 Lecture.md",
+    "Assignment Due Dates.md",
+    "Notes/User and Group Management.md",
+    "Notes/Stats Unit 5.md",
+    "Notes/Nodejs Promises.md",
+    "Images/Pasted image 20241001174526.png",
+    "Images/Pasted image 20241003191627.png",
+    "kevin-resume-draft.docx",
+    "Week 4 Tasks.md",
+    "Notes/2420 Week 4.md",
+    "Notes/2420 Week 4 Lecture.md",
+    "Notes/2420 Week 3.md",
+    "1350 Week 5.md",
     "Notes/1350 Week 4.md",
     "Notes/2831 assignment 3.md",
     "Notes/Stats Unit 4.md",
-    "Pasted image 20241001194836.png",
-    "Pasted image 20241001193855.png",
-    "Pasted image 20241001193747.png",
-    "Pasted image 20241001193713.png",
-    "Pasted image 20241001191730.png",
-    "Pasted image 20241001191717.png",
-    "Pasted image 20241001191542.png",
-    "Pasted image 20241001191358.png",
-    "Pasted image 20241001180356.png",
-    "Pasted image 20241001180348.png",
+    "Images/Pasted image 20241001194836.png",
+    "Images/Pasted image 20241001193855.png",
+    "Images/Pasted image 20241001193747.png",
+    "Images/Pasted image 20241001193713.png",
+    "Images/Pasted image 20241001191730.png",
+    "Images/Pasted image 20241001191717.png",
+    "Images/Pasted image 20241001191542.png",
+    "Images/Pasted image 20241001191358.png",
     "Notes/IPv4 Addressing.md",
     "Notes/2520 Week 4 Lecture.md",
     "Notes/Processes and Process Control.md",
     "README.md",
     "Notes/Linux Essentials Searching.md",
-    "Notes/2420 Week 3.md",
     "Notes/2520 Week 4.md",
-    "Nodejs Promises.md",
     "bday.md",
     "Linux Assignment 1/Linux Assignment 1 Instructions.md",
     "Notes/2620 Week 4.md",
     "Notes/2620 Week 3.md",
-    "Notes/2620 Week 3 Lecture.md",
-    "Weekly Tasks Archive/Week 3 Tasks.md",
-    "Assignment Due Dates.md",
-    "Notes/Network Topologies.md",
-    "Notes/2520 Week 3.md",
-    "Notes/2520 Week 3 Lecture.md",
     "Excalidraw",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",
@@ -264,7 +264,6 @@
     "COMMS shit",
     "Weekly Tasks Archive",
     "Templates",
-    "New folder",
-    "Linux Notes/Attachment"
+    "New folder"
   ]
 }

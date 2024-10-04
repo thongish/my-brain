@@ -21,11 +21,11 @@ filename includes {{query.file.filename}}
 - [ ] Get started on team project 📅 2024-09-30 
 - [x] Assignment 4 (quiz) ✅ 2024-09-28
 # Comms
-- [ ] Write resume and give it to 5 people to read and give feedback
+- [x] Write resume and give it to 5 people to read and give feedback ✅ 2024-10-03
 # Networking
 - [x] Go back to week 3 notes and write flash cards ✅ 2024-09-28
 - [ ] IPv4 subnets reading 📅 2024-10-04 
 # Linux
 - [ ] Go back to week 3 notes and write flash cards
 - [x] Final draft of Assignment 1 🆔 Assignment 📅 2024-09-29 ✅ 2024-09-29
-- [ ] Read chapter 7 in the textbook 📅 2024-10-04 
+- [x] Read chapter 7 in the textbook 📅 2024-10-04 ✅ 2024-10-03
