@@ -73,7 +73,7 @@ How do you calculate the number of links in a full mesh topology?::Use the formu
 <!--SR:!2024-10-14,12,230-->
 
 What is a partial mesh topology?::A subset of a full mesh topology, where links are added based on traffic patterns between frequently communicating sites.
-<!--SR:!2024-10-03,1,190-->
+<!--SR:!2024-10-06,2,190-->
 
 What is a ring topology?::A topology where devices are interconnected in a circular fashion, with data traveling from device to device until it reaches its destination.
 <!--SR:!2024-10-14,12,230-->
@@ -85,10 +85,10 @@ What is a star topology?::Devices connect back to a centralized device (like a r
 <!--SR:!2024-10-14,12,230-->
 
 What is a point-to-point connection?::A topology interconnecting two devices, often using Layer 2 protocols like PPP or HDLC, and can be a physical or logical connection.
-<!--SR:!2024-10-03,1,170-->
+<!--SR:!2024-10-05,1,150-->
 
 What is a point-to-multipoint connection?::A WAN connection where one location connects to multiple locations via a single physical connection, often considered a hub and spoke topology.
-<!--SR:!2024-10-03,1,170-->
+<!--SR:!2024-10-05,1,150-->
 
 What is a hybrid topology?::A network topology that contains elements of multiple types of network topologies.
 <!--SR:!2024-10-08,6,230-->

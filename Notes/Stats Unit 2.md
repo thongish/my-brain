@@ -105,7 +105,7 @@ What is the ***frequency*** of a class?::The number of times a measurement of X 
 <!--SR:!2024-10-12,10,250-->
 
 What is a **frequency distribution**?::How often different values or ranges of values occur in a dataset
-<!--SR:!2024-10-03,1,210-->
+<!--SR:!2024-10-05,1,190-->
 
 What is **relative frequency**?::Frequency / total number of values of X.
 <!--SR:!2024-10-08,6,230-->
@@ -123,7 +123,7 @@ What is the **lower class limit**?::The lowest value in the range of a class.
 <!--SR:!2024-10-12,10,250-->
 
 What is the **class mark**?::The average of the lower and upper class limits of a class.
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the **lower class boundary**?::The average of the highest value of the previous class and the lowest value of the current class.
 <!--SR:!2024-10-07,9,250-->
@@ -138,7 +138,7 @@ How do you determine the number of classes?::The number of classes is approximat
 <!--SR:!2024-10-08,6,230-->
 
 What is a **histogram**?::A visual representation of the corresponding frequency distribution.
-<!--SR:!2024-10-04,2,210-->
+<!--SR:!2024-10-05,1,190-->
 
 What does the height of a histogram rectangle represent?::The frequency or relative frequency of that class.
 <!--SR:!2024-10-07,9,250-->
@@ -147,22 +147,22 @@ What does it mean if Bill scored in the 75th percentile?::He is doing better tha
 <!--SR:!2024-10-12,10,250-->
 
 What are **quartiles**?::Percentiles in multiples of 25.
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the inter-quartile range (IQR)?
 ?
 The difference between Q3 and Q1.
 - Q$_3$ - Q$_1$
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the **five-number summary**?::Q0 (min), Q1, Q2, Q3, Q4 (max).
 <!--SR:!2024-10-12,10,250-->
 
 What is a **boxplot**?::A simple way to visualize the five-number summary and the inter-quartile range.
-<!--SR:!2024-10-03,1,210-->
+<!--SR:!2024-10-06,2,210-->
 
 What are **outliers**?::Extremely small or large values of X.
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 How do you calculate **outliers**?
 ?
@@ -172,7 +172,7 @@ How do you calculate **outliers**?
 <!--SR:!2024-10-08,6,230-->
 
 What is a pie chart?::A chart that represents parts of a whole, but can make comparing categories harder.
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is a bar chart?::The best way to present one categorical variable, with values on the horizontal axis and frequencies on the vertical axis.
 <!--SR:!2024-10-08,6,230-->
@@ -182,4 +182,4 @@ What is the 50th percentile?
 ?
 7.5
 ![[Pasted image 20240918140651.png]]
-<!--SR:!2024-10-03,1,210-->
+<!--SR:!2024-10-06,2,210-->

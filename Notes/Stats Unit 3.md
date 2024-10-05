@@ -118,7 +118,7 @@ What are the three measures of **center**?
 - Mean
 - Median
 - Mode
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What are the four measures of **spread**?
 ?
@@ -126,7 +126,7 @@ What are the four measures of **spread**?
 - Inter-quartile range
 - Standard deviation
 - Variance
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the symbol that represents the **sample mean**?::<font size=6>x̄</font>
 <!--SR:!2024-10-12,10,250-->
@@ -147,19 +147,19 @@ What is the symbol that represents **skewness**?::<font size=6>Sk</font>
 <!--SR:!2024-10-12,10,250-->
 
 What is the symbol that represents **sample proportion**??::<font size=6>p̂</font>
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the symbol that represents **population proportion**?::<font size=6>p</font>
 <!--SR:!2024-10-12,10,250-->
 
 What is a measure of **spread**?::How much does X vary around its center; how spread out is X?
-<!--SR:!2024-10-03,1,210-->
+<!--SR:!2024-10-05,1,190-->
 
 What is the measure of **center**?::What is a typical or central value of X?
-<!--SR:!2024-10-03,1,210-->
+<!--SR:!2024-10-05,1,190-->
 
 Measures of spread/center are called __ when summarizing **sample** **data**::Statistics
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 Measures of spread/center are called __ when summarizing **population** **data**::Parameters
 <!--SR:!2024-10-12,10,250-->
@@ -168,7 +168,7 @@ What is a **mean**?::The average of a data set
 <!--SR:!2024-10-12,10,250-->
 
 What is a **median**?:: The **middle** value when the values are sorted in **increasing** order
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is a **mode**?
 ?
@@ -190,30 +190,30 @@ What is **range**?::The difference between the maximum and minimum value of a da
 What is the **sample standard deviation formula**?
 ?
 ![[Pasted image 20240924234721.png]]
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the **population standard deviation formula**?
 ?
 ![[Pasted image 20240924234740.png]]
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is **standard deviation**?::The typical distance between X and the mean value of X
-<!--SR:!2024-10-03,1,210-->
+<!--SR:!2024-10-06,2,210-->
 
 What is the **sample variance formula**?
 ?
 ![[Pasted image 20240924234909.png]]
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the **population variance formula**?
 ?
 ![[Pasted image 20240924234933.png]]
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What is the **skewness formula**?
 ?
 ![[Pasted image 20240924234955.png]]
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->
 
 What are **Pearson's Median Skewness** rules?
 ?
@@ -230,7 +230,7 @@ What is the **proportion formula**?
 Look at this example of a **two-way table**
 ?
 ![[Pasted image 20240924235324.png]]
-<!--SR:!2024-10-03,1,210-->
+<!--SR:!2024-10-05,1,190-->
 
 What is **variance**?::The square of standard deviation
-<!--SR:!2024-10-04,2,230-->
+<!--SR:!2024-10-09,5,230-->

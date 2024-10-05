@@ -12,5 +12,11 @@
 		- if checksums don't match, the data is most likely corrupted
 	- minimum byte size is 64
 
+- Two versions of ethernet, one that shows the type and one that shows the length
+
 - OUI
 	- 2^24 available addresses for each OUI
+
+- 0000 0001
+	- last bit means multicast if 1 or unicast if 0
+	- second to last means globally unique address if 0 or not if 1

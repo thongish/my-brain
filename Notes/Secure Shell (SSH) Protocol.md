@@ -64,10 +64,10 @@ What is public key cryptography?::A method to encrypt or sign data with two diff
 <!--SR:!2024-10-13,10,212-->
 
 How does SSH use public key cryptography?::Both sides in an SSH connection have a public/private key pair and authenticate each other using these keys.
-<!--SR:!2024-10-04,1,152-->
+<!--SR:!2024-10-06,2,152-->
 
 What additional authentication is often required in SSH?::A username and password.
-<!--SR:!2024-10-04,8,252-->
+<!--SR:!2024-10-24,20,252-->
 
 What is SSH used for?
 ?
@@ -76,7 +76,7 @@ What is SSH used for?
 - accessing cloud services, 
 - connecting to private network services,
 - and bypassing firewall restrictions.
-<!--SR:!2024-10-04,1,172-->
+<!--SR:!2024-10-06,2,172-->
 
 What port does SSH use?::Port 22.
 <!--SR:!2024-10-07,11,270-->

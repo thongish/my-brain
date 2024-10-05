@@ -19,6 +19,11 @@ filename includes {{query.file.filename}}
 # Comms
 - [ ] cover letter 📅 2024-10-10 
 - [ ] Resume feedback 📅 2024-10-11 
+	- [ ] tilda
+	- [ ] misha
+	- [ ] zinat
+	- [ ] humaira
+	- [ ] tony/mellaad
 # Networking
 - [ ]
 # Linux

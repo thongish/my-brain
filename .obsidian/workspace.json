@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IPv4 Addressing.md",
+                "file": "Notes/The Linux Filesystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/User and Group Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stats Unit 4.md",
+                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "9159bf23837c8fa0",
+            "id": "6a3a43b8a4f0d199",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,21 +66,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e70c59bdd2bf936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4 Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 Tasks.md",
+                "file": "Notes/The Linux Filesystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 Tasks.md",
+                "file": "Notes/The Linux Filesystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4 Tasks.md"
+                "file": "Notes/The Linux Filesystem.md"
               }
             }
           },
@@ -216,27 +204,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7e70c59bdd2bf936",
+  "active": "bfe2e42a0b91ff91",
   "lastOpenFiles": [
+    "Notes/IPv4 Addressing.md",
+    "Notes/User and Group Management.md",
+    "README.md",
     "Week 5 Tasks.md",
+    "Questions.md",
+    "Notes/Stats Unit 4.md",
+    "Week 4 Tasks.md",
+    "Notes/2620 Week 4 Lecture.md",
+    "2620 Week 5 Lecture.md",
     "Notes Table of Contents.md",
+    "Notes/2620 Week 2.md",
+    "Notes/2620 Week 2 Lecture.md",
+    "Notes/Ethernet Fundamentals.md",
+    "Notes/2620 Week 4.md",
+    "2620 Week 5.md",
+    "Notes/1350 Week 5.md",
     "Notes/2515 Week 3.md",
     "Notes/2515 Week 3 Lecture.md",
     "Assignment Due Dates.md",
-    "Notes/User and Group Management.md",
     "Notes/Stats Unit 5.md",
     "Notes/Nodejs Promises.md",
     "Images/Pasted image 20241001174526.png",
     "Images/Pasted image 20241003191627.png",
     "kevin-resume-draft.docx",
-    "Week 4 Tasks.md",
     "Notes/2420 Week 4.md",
     "Notes/2420 Week 4 Lecture.md",
     "Notes/2420 Week 3.md",
-    "1350 Week 5.md",
     "Notes/1350 Week 4.md",
     "Notes/2831 assignment 3.md",
-    "Notes/Stats Unit 4.md",
     "Images/Pasted image 20241001194836.png",
     "Images/Pasted image 20241001193855.png",
     "Images/Pasted image 20241001193747.png",
@@ -245,16 +243,6 @@
     "Images/Pasted image 20241001191717.png",
     "Images/Pasted image 20241001191542.png",
     "Images/Pasted image 20241001191358.png",
-    "Notes/IPv4 Addressing.md",
-    "Notes/2520 Week 4 Lecture.md",
-    "Notes/Processes and Process Control.md",
-    "README.md",
-    "Notes/Linux Essentials Searching.md",
-    "Notes/2520 Week 4.md",
-    "bday.md",
-    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
-    "Notes/2620 Week 4.md",
-    "Notes/2620 Week 3.md",
     "Excalidraw",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",

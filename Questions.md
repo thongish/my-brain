@@ -12,5 +12,7 @@
 # Networking
 - 
 # Linux
-- Assignment 1
-	- can i assume the reader knows how to SSH into their existing arch droplet?
+- can I get week 3 reading questions and lab?
+- what is a hard link, symbolic link, inode
+- pseudo file system?
+- faux file system?

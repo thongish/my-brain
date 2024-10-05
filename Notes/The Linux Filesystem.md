@@ -225,7 +225,7 @@ What is a filesystem?
 ?
 A framework used to organize and handle the storage and retrieval of data on computers.
 - It identifies and isolates data by breaking it up into pieces and giving each piece a name
-<!--SR:!2024-10-04,1,170-->
+<!--SR:!2024-10-05,1,150-->
 
 What is ext?::Extended filesystem.
 <!--SR:!2024-10-09,6,230-->
@@ -237,13 +237,13 @@ What is ext3?::An upgraded version of ext2 with journaling capabilities.
 <!--SR:!2024-10-05,2,190-->
 
 What is journaling in ext3?::A system that logs changes, allowing recovery and repair in case of crashes.
-<!--SR:!2024-10-04,1,170-->
+<!--SR:!2024-10-05,1,150-->
 
 What are the three levels of journaling in ext3?::Journal, Writeback, and Ordered.
-<!--SR:!2024-10-04,8,250-->
+<!--SR:!2024-10-24,20,250-->
 
 What is the Journal journaling mode?::Logs both user data and metadata for maximum recovery, but is the slowest.
-<!--SR:!2024-09-28,2,210-->
+<!--SR:!2024-10-08,4,210-->
 
 What is the Writeback journaling mode?::Only logs metadata updates, prioritizing performance over data consistency.
 <!--SR:!2024-10-04,1,170-->
@@ -253,7 +253,7 @@ What is the Ordered journaling mode?
 ext3's default mode
 - Ensures changes to file data are written to disk before updating metadata.
 - Only files that were in the process of being written to the disk disappear in the event of a power outage
-<!--SR:!2024-10-04,1,170-->
+<!--SR:!2024-10-05,1,150-->
 
 What is ext4?
 ?
@@ -278,10 +278,10 @@ What is Btrfs?::A copy-on-write (COW) filesystem that logs changes after writing
 <!--SR:!2024-10-04,1,170-->
 
 What is Swap in Linux?::Temporary storage on the hard drive or SSD used when memory is low, moving inactive program data from RAM to disk.
-<!--SR:!2024-09-27,1,190-->
+<!--SR:!2024-10-06,2,190-->
 
 Can Linux work with FAT and NTFS?::Yes, Linux is compatible with FAT and NTFS filesystems from Windows.
-<!--SR:!2024-10-04,8,250-->
+<!--SR:!2024-10-24,20,250-->
 
 What is /bin?
 ?
@@ -374,10 +374,10 @@ What is a hard link?
 ?
 A reference to the inode of a file, and is a synchronized carbon copy of that file.
 - It points directly to a file and persists even if the file's name is changed
-<!--SR:!2024-10-04,1,170-->
+<!--SR:!2024-10-05,1,150-->
 
 What is a symbolic link?::A shortcut pointing directly to a file, which in turn points to the inode.
-<!--SR:!2024-09-27,1,190-->
+<!--SR:!2024-10-05,1,170-->
 
 What is an inode?
 ?
@@ -392,7 +392,7 @@ How do you mount a filesystem in Linux?::Use the `{bash}mount <to be mounted> <m
 <!--SR:!2024-10-16,13,230-->
 
 How do you unmount a filesystem?::Use the `{bash}umount <mounted device>` command.
-<!--SR:!2024-10-01,5,230-->
+<!--SR:!2024-10-15,11,230-->
 
 What is the /proc filesystem?::A pseudo-filesystem containing runtime system information.
 <!--SR:!2024-10-07,4,210-->
@@ -401,10 +401,10 @@ What is a **synthetic filesystem**?
 ?
 A filesystem that provides a tree-like interface to non-file objects, making them appear as regular files in a disk-based or long-term storage filesystem
 - Also known as a **faux** filesytem
-<!--SR:!2024-10-04,1,170-->
+<!--SR:!2024-10-05,1,150-->
 
 What does /proc/cpuinfo contain?::Detailed information about the CPU, including its specifications and capabilities.
-<!--SR:!2024-10-04,1,190-->
+<!--SR:!2024-10-06,2,190-->
 
 What does /proc/meminfo contain?::Information about the system's physical memory, including total and free memory.
 <!--SR:!2024-09-28,2,210-->
@@ -416,7 +416,7 @@ What does /proc/mounts contain?::Information about all currently mounted file sy
 <!--SR:!2024-10-05,2,210-->
 
 What does /proc/filesystems contain?:: Information about all file systems compiled into the kernel, and currently loaded kernel modules.
-<!--SR:!2024-09-27,1,190-->
+<!--SR:!2024-10-05,1,170-->
 
 What does /proc/uptime contain?::The system’s uptime since the last boot.
 <!--SR:!2024-10-07,4,210-->

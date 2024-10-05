@@ -169,7 +169,7 @@ What is the fundamental capability of shells?
 ?
 The ability to launch command-line programs already installed on the system.
 - Also offers built-ins and scripting control structures such as conditional loops
-<!--SR:!2024-10-04,1,145-->
+<!--SR:!2024-10-05,1,145-->
 
 What are some common Linux shells??
 - sh, 
@@ -212,13 +212,13 @@ Taking the output of one program and using it as an input for another program
 <!--SR:!2024-10-13,11,225-->
 
 There are variables predefined in bash, such as `{bash}$HOME`, how do you see the list of all these variables?::Use the `{bash}set` command
-<!--SR:!2024-10-04,8,250-->
+<!--SR:!2024-10-24,20,250-->
 
 What does `{bash}pwd` do?::Prints the absolute path of the current working directory.
 <!--SR:!2024-10-20,17,245-->
 
 How do you make a new directory?::`{bash}mkdir <directory name>`
-<!--SR:!2024-10-04,8,250-->
+<!--SR:!2024-10-24,20,250-->
 
 How do you delete a directory?
 ?
@@ -254,13 +254,13 @@ What do the `{bash}-r` and `{bash}-f` flags in `{bash}rm` do?::`{bash}-r `remove
 <!--SR:!2024-10-13,10,205-->
 
 What is `{bash}locate` used for?::To find the path of a file on the system.
-<!--SR:!2024-10-04,2,205-->
+<!--SR:!2024-10-08,4,205-->
 
 How can you make `{bash}locate` ignore case sensitivity?::`{bash}locate -i <file name>`
 <!--SR:!2024-10-10,8,250-->
 
 What is `{bash}echo` used for?::To print content to the terminal and write to a file.
-<!--SR:!2024-10-04,8,250-->
+<!--SR:!2024-10-24,20,250-->
 
 How can you append content to a file with `{bash}echo`?::`{bash}echo "content to be appended" >> file1.txt`
 <!--SR:!2024-10-20,17,245-->
@@ -269,7 +269,7 @@ How do you overwrite content in a file using `{bash}echo`?::`{bash}echo "this co
 <!--SR:!2024-10-07,4,225-->
 
 What does `{bash}cat` do?::Reads and displays the content of a file to the terminal.
-<!--SR:!2024-10-04,8,250-->
+<!--SR:!2024-10-24,20,250-->
 
 What does `{bash}df` do?
 ?
@@ -284,7 +284,7 @@ What does `{bash}du` do?
 ?
 Disk-usage
 - Shows the size of a directory and its subdirectories.
-<!--SR:!2024-10-04,2,205-->
+<!--SR:!2024-10-08,4,205-->
 
 How can you make `{bash}du` output human-readable?::`{bash}du -sh`
 <!--SR:!2024-10-05,3,210-->
@@ -296,7 +296,7 @@ How do you view detailed system information with `{bash}uname`?::`{bash}uname -a
 <!--SR:!2024-10-13,10,205-->
 
 What does `{bash}chmod` do?::Changes file permissions for read, write, and execute.
-<!--SR:!2024-10-04,8,250-->
+<!--SR:!2024-10-24,20,250-->
 
 What are the permission levels in `{bash}chmod`?
 ?
