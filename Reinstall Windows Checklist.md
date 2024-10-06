@@ -1,0 +1,46 @@
+things I need to reinstall 
+- [ ] Ninite it up
+- [ ] Lenovo vantage
+- [ ] VS code & extensions
+	- [x] extension folder ✅ 2024-10-05
+	- [x] Live server ✅ 2024-10-06
+	- [x] markdown all in one ✅ 2024-10-06
+	- [x] markdown preview GitHub styling ✅ 2024-10-06
+	- [ ] one dark pro
+	- [ ] PowerShell
+	- [x] Prettier ✅ 2024-10-06
+	- [ ] Pylance
+	- [x] Python ✅ 2024-10-06
+	- [x] Python debugger ✅ 2024-10-06
+	- [x] SQLite Viewer ✅ 2024-10-06
+	- [ ] Tokyo Night
+- [ ] CPU-Z
+- [ ] SumatraPDF
+- [ ] Postman
+- [x] VirtualBox 7.0 ✅ 2024-10-06
+	- [x] also the network package that comes along with it ✅ 2024-10-06
+	- [x] copy the VMs and hopefully they work ✅ 2024-10-05
+- [ ] adobe suite
+	- [ ] lightroom
+	- [ ] acrobat
+- [ ] slack
+- [ ] wezterm
+	- [x] config ✅ 2024-10-05
+- [ ] WhatsApp
+- [ ] Wireshark
+- [ ] 7-zip
+- [ ] Discord
+- [ ] Firefox
+- [ ] Chrome
+- [ ] logi options
+- [ ] MySQL
+- [x] Obsidian ✅ 2024-10-06
+- [x] Python ✅ 2024-10-06
+- [x] Node.js ✅ 2024-10-06
+- [x] Spotify ✅ 2024-10-06
+- [x] PowerShell config ✅ 2024-10-05
+- [x] sharex screenshots ✅ 2024-10-05
+- [x] school folders ✅ 2024-10-05
+- [x] ssh keys ✅ 2024-10-05
+- [x] git ✅ 2024-10-06
+- [ ] winrar
