@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "vimMode": true,
+  "vimMode": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

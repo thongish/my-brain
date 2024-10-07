@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/User and Group Management.md",
+                "file": "Notes/Processes and Process Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bff22da91787623a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4 Tasks.md",
+                "file": "Week 5 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,25 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "065c5f89cc9524be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be3fe9ecb423ecd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Processes and Process Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinstall Windows Checklist.md",
+                "file": "Week 5 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinstall Windows Checklist.md",
+                "file": "Week 5 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinstall Windows Checklist.md"
+                "file": "Week 5 Tasks.md"
               }
             }
           },
@@ -217,45 +222,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ef88419f15fb5558",
+  "active": "fb5dad84d1387e36",
   "lastOpenFiles": [
-    "Notes/The Linux Filesystem.md",
-    "Reinstall Windows Checklist.md",
-    "Notes/IPv4 Addressing.md",
-    "Notes/User and Group Management.md",
-    "README.md",
-    "Week 5 Tasks.md",
-    "Questions.md",
-    "Notes/Stats Unit 4.md",
-    "Week 4 Tasks.md",
-    "Notes/2620 Week 4 Lecture.md",
-    "2620 Week 5 Lecture.md",
+    "Notes/2620 Week 5 Lecture.md",
+    "Notes/2620 Week 5.md",
     "Notes Table of Contents.md",
+    "bday.md",
+    "Questions.md",
+    "README.md",
+    "Reinstall Windows Checklist.md",
+    "Tasks Master List.md",
+    "Week 5 Tasks.md",
+    "Weekly Tasks Archive/Week 4 Tasks.md",
+    "Pasted image 20241006125519.png",
+    "Pasted image 20241006132138.png",
+    "Pasted image 20241006131018.png",
+    "Pasted image 20241006131013.png",
+    "Notes/Processes and Process Control.md",
+    "COMMS shit/COMMS Assignment 1 ex. 1.md",
+    "Notes/JavaScript Syntax Review.md",
+    "Notes/2420 Week 3.md",
+    "Notes/User and Group Management.md",
+    "Notes/The Linux Filesystem.md",
+    "Notes/IPv4 Addressing.md",
+    "Notes/Stats Unit 4.md",
+    "Notes/2620 Week 4 Lecture.md",
     "Notes/2620 Week 2.md",
     "Notes/2620 Week 2 Lecture.md",
     "Notes/Ethernet Fundamentals.md",
     "Notes/2620 Week 4.md",
-    "2620 Week 5.md",
     "Notes/1350 Week 5.md",
     "Notes/2515 Week 3.md",
     "Notes/2515 Week 3 Lecture.md",
-    "Assignment Due Dates.md",
-    "Notes/Stats Unit 5.md",
-    "Notes/Nodejs Promises.md",
     "Images/Pasted image 20241001174526.png",
     "Images/Pasted image 20241003191627.png",
     "kevin-resume-draft.docx",
-    "Notes/2420 Week 4.md",
-    "Notes/2420 Week 4 Lecture.md",
-    "Notes/2420 Week 3.md",
     "Images/Pasted image 20241001194836.png",
     "Images/Pasted image 20241001193855.png",
     "Images/Pasted image 20241001193747.png",
     "Images/Pasted image 20241001193713.png",
-    "Images/Pasted image 20241001191730.png",
-    "Images/Pasted image 20241001191717.png",
-    "Images/Pasted image 20241001191542.png",
-    "Images/Pasted image 20241001191358.png",
     "Excalidraw",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",

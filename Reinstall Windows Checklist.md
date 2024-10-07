@@ -27,10 +27,10 @@ things I need to reinstall
 - [ ] wezterm
 	- [x] config ✅ 2024-10-05
 - [ ] WhatsApp
-- [ ] Wireshark
+- [x] Wireshark ✅ 2024-10-06
 - [ ] 7-zip
-- [ ] Discord
-- [ ] Firefox
+- [x] Discord ✅ 2024-10-06
+- [x] Firefox ✅ 2024-10-06
 - [ ] Chrome
 - [ ] logi options
 - [ ] MySQL
