@@ -16,3 +16,4 @@
 - what is a hard link, symbolic link, inode
 - pseudo file system?
 - faux file system?
+- what is happening whenever I enable a service? A symlink is made?

@@ -6,14 +6,14 @@ things I need to reinstall
 	- [x] Live server ✅ 2024-10-06
 	- [x] markdown all in one ✅ 2024-10-06
 	- [x] markdown preview GitHub styling ✅ 2024-10-06
-	- [ ] one dark pro
+	- [x] one dark pro ✅ 2024-10-07
 	- [ ] PowerShell
 	- [x] Prettier ✅ 2024-10-06
-	- [ ] Pylance
+	- [x] Pylance ✅ 2024-10-07
 	- [x] Python ✅ 2024-10-06
 	- [x] Python debugger ✅ 2024-10-06
 	- [x] SQLite Viewer ✅ 2024-10-06
-	- [ ] Tokyo Night
+	- [x] Tokyo Night ✅ 2024-10-07
 - [ ] CPU-Z
 - [ ] SumatraPDF
 - [ ] Postman

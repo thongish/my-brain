@@ -69,9 +69,8 @@ Your tutorial should include instructions on installing and configuring `doctl`
 
 ## **grading rubric**
 
-|                                      |            |          |                  |          |               |
-| ------------------------------------ | ---------- | -------- | ---------------- | -------- | ------------- |
 | **Section**                          | **absent** | **poor** | **satisfactory** | **good** | **excellent** |
+| ------------------------------------ | ---------- | -------- | ---------------- | -------- | ------------- |
 | Tutorial clarity                     | 0%         | 5%       | 14%              | 20%      | 25%           |
 | Tutorial completeness                | 0%         | 5%       | 14%              | 20%      | 25%           |
 | Markdown correctness                 | 0%         | 1%       | 3%               | 4%       | 5%            |

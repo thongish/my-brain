@@ -14,8 +14,8 @@
 [[2515 Week 1]] Python Basics, Virtual Environments, Modules and Packages, Unit Testing and pytest
 [[2515 Week 2]] Object Oriented Programming
 [[2515 Week 3]] 
-[[2515 Week 4]] 
-[[2515 Week 5]] 
+[[2515 Week 4]] Object Relationships, Class Diagrams
+[[2515 Week 5]] Dunder (Magic) Methods, Advanced Testing: Fixtures and Mocks
 [[2515 Week 6]] 
 [[2515 Week 7]] 
 [[2515 Week 8]] 

@@ -10,11 +10,11 @@ filename includes {{query.file.filename}}
 - [ ] Watch armaan's videos 📅 2024-10-08 
 # OOP
 - [ ] Go back to week 4 and write flashcards
-- [ ] Do the self studies 📅 2024-10-08 
-	- [ ] object relations in python
-	- [ ] class diagrams
-	- [ ] dunder methods
-	- [ ] advanced testing: fixtures and mocks
+- [x] Do the self studies 📅 2024-10-08 ✅ 2024-10-07
+	- [x] object relations in python ✅ 2024-10-07
+	- [x] class diagrams ✅ 2024-10-07
+	- [x] dunder methods ✅ 2024-10-07
+	- [x] advanced testing: fixtures and mocks ✅ 2024-10-07
 - [ ] hangman mocks 📅 2024-10-08 
 - [ ] playing card class (dunder) 📅 2024-10-08 
 # Stats
