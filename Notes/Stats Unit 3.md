@@ -153,10 +153,10 @@ What is the symbol that represents **population proportion**?::<font size=6>p</f
 <!--SR:!2024-10-12,10,250-->
 
 What is a measure of **spread**?::How much does X vary around its center; how spread out is X?
-<!--SR:!2024-10-05,1,190-->
+<!--SR:!2024-10-09,1,170-->
 
 What is the measure of **center**?::What is a typical or central value of X?
-<!--SR:!2024-10-05,1,190-->
+<!--SR:!2024-10-09,1,170-->
 
 Measures of spread/center are called __ when summarizing **sample** **data**::Statistics
 <!--SR:!2024-10-09,5,230-->
@@ -198,7 +198,7 @@ What is the **population standard deviation formula**?
 <!--SR:!2024-10-09,5,230-->
 
 What is **standard deviation**?::The typical distance between X and the mean value of X
-<!--SR:!2024-10-06,2,210-->
+<!--SR:!2024-10-09,1,190-->
 
 What is the **sample variance formula**?
 ?
@@ -230,7 +230,7 @@ What is the **proportion formula**?
 Look at this example of a **two-way table**
 ?
 ![[Pasted image 20240924235324.png]]
-<!--SR:!2024-10-05,1,190-->
+<!--SR:!2024-10-09,1,170-->
 
 What is **variance**?::The square of standard deviation
 <!--SR:!2024-10-09,5,230-->

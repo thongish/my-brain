@@ -68,10 +68,10 @@ What is a **router**?::A Layer 3 device that can make forwarding decisions based
 <!--SR:!2024-10-14,12,230-->
 
 What is a **Wide Area Network** (WAN)?::A network connection that interconnects geographically separate networks.
-<!--SR:!2024-10-05,1,170-->
+<!--SR:!2024-10-11,2,170-->
 
 What is a **Virtual Private Network** (VPN)?::Allows a secure connection to be set up over an untrusted network, creating a virtual tunnel that connects devices over the internet.
-<!--SR:!2024-10-05,1,150-->
+<!--SR:!2024-10-10,1,130-->
 
 What is a **Wireless Access Point** (WAP)?::A device that communicates with wireless devices (i.e. smartphones, laptops, printers) and interconnects them with a wired network.
 <!--SR:!2024-10-06,4,210-->
@@ -83,10 +83,10 @@ What is a **Network Interface Card** (NIC)?::A card inside a networked device th
 <!--SR:!2024-10-06,2,190-->
 
 What is a **Media Access Control** (MAC) address?::A 48-bit address burned into a NIC, typically written in hexadecimal notation.
-<!--SR:!2024-10-05,3,210-->
+<!--SR:!2024-10-15,6,210-->
 
 What is an **Intrusion Prevention System** (IPS)?::A sensor that sits in-line with network traffic, can recognize the signature of well-known attacks, and stop them.
-<!--SR:!2024-10-06,4,210-->
+<!--SR:!2024-10-19,10,210-->
 
 What is an **Intrusion Detection System** (IDS)?::A sensor that receives a copy of network traffic, can recognize the signature of well-known attacks, and stop them, but is not as secure as the IPS.
 <!--SR:!2024-10-06,4,210-->
@@ -95,16 +95,16 @@ What is a **firewall**?::A network device that uses a set of rules to determine 
 <!--SR:!2024-10-05,1,170-->
 
 What is a **Demilitarized Zone** (DMZ)?::A portion of a network that should be accessible by external devices (i.e. devices on the internet) and hosts public-facing services like web, email, and FTP servers.
-<!--SR:!2024-10-05,1,170-->
+<!--SR:!2024-10-11,2,170-->
 
 What is a **firewall router**?::A router configured to perform both firewall functions and routing functions.
-<!--SR:!2024-10-05,8,250-->
+<!--SR:!2024-10-29,20,250-->
 
 What is a **multilayer switch**?
 ?
 - An Ethernet switch that can make forwarding decisions based on Layer 3 (i.e. IP addresses) and Layer 2 (i.e. MAC addresses) information. 
 - Regular switches can only make forwarding decisions based on physical addresses like MAC addresses
-<!--SR:!2024-10-08,4,210-->
+<!--SR:!2024-10-19,10,210-->
 
 What is a **cache engine**?::A component or system that locally stores content retrieved from a remote network (typically the internet) and sends it to local devices, saving bandwidth.
 <!--SR:!2024-10-05,1,150-->

@@ -163,13 +163,13 @@ Must run the chmod command to make the file executable
 # Flash cards
 
 What is a shell?::A program that receives commands and sends them to the operating system for processing.
-<!--SR:!2024-10-06,4,185-->
+<!--SR:!2024-10-15,6,185-->
 
 What is the fundamental capability of shells?
 ?
 The ability to launch command-line programs already installed on the system.
 - Also offers built-ins and scripting control structures such as conditional loops
-<!--SR:!2024-10-05,1,145-->
+<!--SR:!2024-10-10,1,145-->
 
 What are some common Linux shells??
 - sh, 
@@ -185,7 +185,7 @@ The "search path" in Linux refers to the list of directories that the system sea
 <!--SR:!2024-10-16,13,225-->
 
 How do you check your shell version?::`{bash}echo $SHELL`
-<!--SR:!2024-10-08,6,225-->
+<!--SR:!2024-10-23,14,225-->
 
 What is the purpose of flags?
 ?
@@ -199,7 +199,7 @@ What are wildcards (`*`) used for?
 To match file and directory name patterns
 - ex. `{bash}ls -l *.sh`
 	- Listing files named `anything.sh`
-<!--SR:!2024-10-10,8,205-->
+<!--SR:!2024-10-27,16,205-->
 
 What is the cat command used for?::`{bash}cat /etc/passwd` (displays the contents of a file).
 <!--SR:!2024-10-15,13,225-->
@@ -224,7 +224,7 @@ How do you delete a directory?
 ?
 `{bash}rmdir <directory name>` (can **only** remove an empty directory).
 Using `{bash}rm <directory/file name>` is more practical
-<!--SR:!2024-10-10,8,205-->
+<!--SR:!2024-10-27,16,205-->
 
 What command can be used to recursively remove directories and files?::`{bash}rm -rf <directory name>`
 <!--SR:!2024-10-20,17,245-->
@@ -233,10 +233,10 @@ What is the purpose of `{bash}touch`?::To create an empty file or update the mod
 <!--SR:!2024-10-15,13,225-->
 
 What does `ls` do?::Lists all files and directories in the current directory or specified directory
-<!--SR:!2024-10-10,8,205-->
+<!--SR:!2024-10-27,16,205-->
 
 How can you see hidden files with `{bash}ls`?::`{bash}ls -a`
-<!--SR:!2024-10-06,10,265-->
+<!--SR:!2024-11-05,27,265-->
 
 How do you list files with details using `{bash}ls`?::`{bash}ls -l`
 <!--SR:!2024-10-16,13,225-->
@@ -254,7 +254,7 @@ What do the `{bash}-r` and `{bash}-f` flags in `{bash}rm` do?::`{bash}-r `remove
 <!--SR:!2024-10-13,10,205-->
 
 What is `{bash}locate` used for?::To find the path of a file on the system.
-<!--SR:!2024-10-08,4,205-->
+<!--SR:!2024-10-19,10,205-->
 
 How can you make `{bash}locate` ignore case sensitivity?::`{bash}locate -i <file name>`
 <!--SR:!2024-10-10,8,250-->
@@ -266,7 +266,7 @@ How can you append content to a file with `{bash}echo`?::`{bash}echo "content to
 <!--SR:!2024-10-20,17,245-->
 
 How do you overwrite content in a file using `{bash}echo`?::`{bash}echo "this content will replace" > file1.txt`
-<!--SR:!2024-10-07,4,225-->
+<!--SR:!2024-10-19,10,225-->
 
 What does `{bash}cat` do?::Reads and displays the content of a file to the terminal.
 <!--SR:!2024-10-24,20,250-->
@@ -275,19 +275,19 @@ What does `{bash}df` do?
 ?
 Disk-free
 - Displays filesystem information like disk usage and available space.
-<!--SR:!2024-10-07,4,190-->
+<!--SR:!2024-10-19,10,190-->
 
 How do you make `{bash}df` output human-readable?::`{bash}df -h`
-<!--SR:!2024-10-07,4,225-->
+<!--SR:!2024-10-12,1,185-->
 
 What does `{bash}du` do?
 ?
 Disk-usage
 - Shows the size of a directory and its subdirectories.
-<!--SR:!2024-10-08,4,205-->
+<!--SR:!2024-10-19,10,205-->
 
 How can you make `{bash}du` output human-readable?::`{bash}du -sh`
-<!--SR:!2024-10-05,3,210-->
+<!--SR:!2024-10-15,6,210-->
 
 What does `{bash}uname` do?::Displays system information about the operating system.
 <!--SR:!2024-10-16,13,225-->
@@ -329,4 +329,4 @@ What does `{bash}chgrp` do?::Changes the group ownership of a file or directory.
 <!--SR:!2024-10-13,10,210-->
 
 How can you search man pages by keyword?::`{bash}man -k <keyword>`
-<!--SR:!2024-10-08,12,245-->
+<!--SR:!2024-10-15,6,225-->

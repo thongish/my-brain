@@ -126,7 +126,7 @@ What mnemonic device is used to remember the 7 OSI Model layers from bottom to t
 <!--SR:!2024-10-05,1,170-->
 
 What is the **Protocol Data Unit** at the Physical layer of the OSI Model?::Bits
-<!--SR:!2024-10-05,8,250-->
+<!--SR:!2024-10-29,20,250-->
 
 What is the **Protocol Data Unit** at the Data Link layer of the OSI Model?::Frames (sometimes packets)
 <!--SR:!2024-10-05,1,150-->
@@ -135,7 +135,7 @@ What is the **Protocol Data Unit** at the Network layer of the OSI Model?::Packe
 <!--SR:!2024-10-14,12,230-->
 
 What is the **Protocol Data Unit** at the Transport layer of the OSI Model?::Segments or Datagrams
-<!--SR:!2024-10-06,4,210-->
+<!--SR:!2024-10-19,10,210-->
 
 What is the main responsibility of the Physical Layer?
 ?
@@ -149,7 +149,7 @@ Responsible for:
 <!--SR:!2024-10-05,1,150-->
 
 What does **multiplexing** in the Physical Layer refer to?::It refers to the strategy of sending more than one conversation on a single medium
-<!--SR:!2024-10-06,4,210-->
+<!--SR:!2024-10-19,10,210-->
 
 What are the two sub-layers of the **Data Link** Layer?::Logical Link Control (LLC) and Media Access Control (MAC)
 <!--SR:!2024-10-14,12,230-->
@@ -162,13 +162,13 @@ What are the key functions of the **Network Layer**?
 - and connection services like:
 	- flow control 
 	- and packet reordering.
-<!--SR:!2024-10-05,1,150-->
+<!--SR:!2024-10-10,1,130-->
 
 What is packet switching?::Dividing a data stream into packets, where each packet has a header with source and destination addresses, before sending it off
-<!--SR:!2024-10-05,1,170-->
+<!--SR:!2024-10-11,2,170-->
 
 What is circuit switching?::A temporary connection set up on an as-needed basis, similar to a phone call.
-<!--SR:!2024-10-08,4,190-->
+<!--SR:!2024-10-11,2,170-->
 
 What is message switching?::Breaking a data stream into messages, which are stored and forwarded, not necessarily delivered immediately (like email).
 <!--SR:!2024-10-05,1,170-->
@@ -180,10 +180,10 @@ What is **windowing** in TCP?::The process where the TCP window size grows based
 <!--SR:!2024-10-05,1,150-->
 
 What is **buffering** in the Transport Layer?::The use of memory (a buffer or queue) by a router to store packets until bandwidth is available for transmission.
-<!--SR:!2024-10-06,4,210-->
+<!--SR:!2024-10-19,10,210-->
 
 What are the responsibilities of the **Session Layer**?::Setting up, maintaining, and tearing down a session.
 <!--SR:!2024-10-14,12,230-->
 
 What is the main responsibility of the **Presentation Layer**?::Data formatting and encryption.
-<!--SR:!2024-10-06,4,210-->
+<!--SR:!2024-10-19,10,210-->

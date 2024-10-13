@@ -26,7 +26,7 @@
 [[1350 Week 2]] Graphical summaries of numerical data
 [[1350 Week 3]] Numerical summaries of data
 [[1350 Week 4]] Probability and counting
-[[1350 Week 5]] Conditional probability
+[[1350 Week 5]] Probability Laws and Conditional probability
 [[1350 Week 6]]
 [[1350 Week 7]]
 [[1350 Week 8]]
@@ -70,7 +70,7 @@
 [[2420 Week 2]] Chapter 3 Linux Filesystem, cloud-init
 [[2420 Week 3]] Processes and Process Control, Searching
 [[2420 Week 4]] User and Group Management
-[[2420 Week 5]]
+[[2420 Week 5]] Bash scripting week 5
 [[2420 Week 6]]
 [[2420 Week 7]]
 [[2420 Week 8]]

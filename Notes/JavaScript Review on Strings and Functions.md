@@ -119,7 +119,7 @@ What is a hierarchical function call in programming?::When you call a function o
 <!--SR:!2024-09-29,1,210-->
 
 How should functions generally be designed?::Functions should generally do just one thing; if a function does more than one thing, it should be decomposed into two or more functions.
-<!--SR:!2024-10-04,6,230-->
+<!--SR:!2024-10-25,15,230-->
 
 What is the convention for a function or method returning -1?::It commonly indicates that a search term was not found.
 <!--SR:!2024-09-29,1,190-->
@@ -170,10 +170,10 @@ What is the scope of local variables in JavaScript?::Local variables are defined
 <!--SR:!2024-10-02,4,230-->
 
 What is the `{js}readline-sync` Node module used for?::It allows getting input from the user in the terminal.
-<!--SR:!2024-10-07,9,250-->
+<!--SR:!2024-11-02,23,250-->
 
 Why should you clean input data when using `{js}readline-sync`?::To ensure the data is in the correct format, such as trimming whitespace and converting to the right case.
 <!--SR:!2024-09-29,1,210-->
 
 How do you convert user input from `{js}readline-sync` to numbers in JavaScript?::Use `{js}parseInt()` or `{js}parseFloat()` to convert the string inputs to numbers.
-<!--SR:!2024-10-02,4,230-->
+<!--SR:!2024-10-21,11,230-->

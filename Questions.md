@@ -16,4 +16,15 @@
 - what is a hard link, symbolic link, inode
 - pseudo file system?
 - faux file system?
-- what is happening whenever I enable a service? A symlink is made?
+- Preferred programs
+	- Microsoft word
+	- image editor (gimp seems too heavy)
+		- image viewer? 
+	- an easier to use network tool other than nmcli
+	- screenshots
+	- power-profiles-daemon ? tlp?
+	- suspend & hibernate
+		- how to turn off monitor or suspend after x time
+	- what is a scratchpad?
+	- hyprlock?
+	- unzipping

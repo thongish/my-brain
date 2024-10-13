@@ -153,22 +153,22 @@
 # Flash Cards
 
 What is the definition of a **population**?::The *complete* set of individuals (people, objects, etc.) we want to know about
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is a **sample**?::A subset of individuals selected from the population
-<!--SR:!2024-10-06,2,190-->
+<!--SR:!2024-10-14,4,190-->
 
 What is a **sampling frame**??::The *physical* list of all the individuals in a population that we can sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is a **variable**?::Any *number of characteristics* that we could measure for each individual in the population
-<!--SR:!2024-10-05,1,150-->
+<!--SR:!2024-10-12,2,150-->
 
 What is a **data set**?::A set of measurements of certain variables for individuals in a certain sample (or the entire population)
-<!--SR:!2024-10-05,1,130-->
+<!--SR:!2024-10-11,1,130-->
 
 The **observation** or **measurement** of X is...::the value of X for one specific individual
-<!--SR:!2024-10-05,1,150-->
+<!--SR:!2024-10-12,2,150-->
 
 What are the 4 methods of **Random Sampling** (Probability Sampling)?
 ?
@@ -176,22 +176,22 @@ What are the 4 methods of **Random Sampling** (Probability Sampling)?
 - Systematic sample
 - Stratified sample
 - Cluster sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 Which sampling method randomly selects a subset of individuals from a population?::Simple random sampling
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 How do you find the step size in **systematic sampling**?::Population / sample size = step size
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 Which sampling method selects members of the population at a regular interval?::Systemic sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-15,7,210-->
 
 Which sampling method divides the population into subgroups based on shared characteristics and proportionally selects random members of each subgroup?::Stratified sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 Which sampling method divides the population into subgroups and then randomly selects whole subgroups?::Cluster sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What are the 4 methods of **Non-Random Sampling (Non-Probability Sampling**?
 ?
@@ -199,49 +199,49 @@ What are the 4 methods of **Non-Random Sampling (Non-Probability Sampling**?
 - Purposive sample
 - Snowball sample
 - Quota sample
-<!--SR:!2024-10-06,4,210-->
+<!--SR:!2024-10-18,8,210-->
 
 Which sampling method intentionally selects members based on their characteristics, knowledge, experiences, or some other criteria?::Purposive sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 Which sampling method is where selected individuals help recruit future participants to sample?::Snowball sample
-<!--SR:!2024-10-07,9,250-->
+<!--SR:!2024-11-01,22,250-->
 
 Which sampling method selects participants non-randomly and must ensure a specific number or percentage of participants is sampled?::Quota sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 Which sampling method samples participants based on easy availability or willingness to participate?::Convenience sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is a **Sampling error?**::Errors that occur due to the fact that the sampling size is almost always smaller than the population
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is a **Non-sampling error**?::Errors that occur due to human mistakes or machine malfunction
-<!--SR:!2024-10-05,3,230-->
+<!--SR:!2024-10-17,7,230-->
 
 What is an **Error of inclusion**?
 ?
 When some individuals are in the **sampling frame** but are **not part of the population**
 - These individuals may be included in the sample which is an error because they are not part of the population (the people we actually want to know about)
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is an **Error of exclusion**?
 ?
 When some individuals are **not in the sample frame** but are **part of the population**
 - These individuals will never be included in the sample
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 How do you reduce **Sampling errors**?
 ?
 - Larger sample size
 - Ensure sample has similar proportions to the population
-<!--SR:!2024-10-06,4,210-->
+<!--SR:!2024-10-18,8,210-->
 
 How do you reduce **Non-sampling errors**?
 ?
 - Hire people with necessary knowledge and provide training
 - Purchase good quality software
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What are the two types of **Random Variables**?
 ?
@@ -249,7 +249,7 @@ What are the two types of **Random Variables**?
 	- The value of X is a **label** or **word**
 - Numerical (Quantitative)
 	- The value of X is a **number**
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What are the two sub-types of a **Categorical Variable**?
 ?
@@ -257,7 +257,7 @@ What are the two sub-types of a **Categorical Variable**?
 	- i.e. days in a week, colors, fruits, etc.
 - Ordinal
 	- i.e. google rating, customer experience survey (ranking service from 1-5)
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What are the two sub-types of a **Numerical Variable**?
 ?
@@ -265,16 +265,16 @@ What are the two sub-types of a **Numerical Variable**?
 	- i.e. mass, volume, etc.
 - Interval
 	- i.e. temperature
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is the major difference between a **Nominal** and a **Ordinal** variable?::Nominal variables don't deal with rankings in their values, while ordinal variables do
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is the major difference between **Ratio** and **Interval** variables?
 ?
 Ratio variables have an absolute zero while interval variables don't
 - ex. 0 degrees Celsius does not actually mean there is 0 temperature, but 0 mass means there is no mass
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 What is a **distribution** in the context of **random variables?**
 ?
@@ -282,7 +282,7 @@ The underlying "pattern" of a random variable
 - ex. Age distribution among Canadians in 2024
 	- The number of people in younger age groups (i.e. 0-50) may be fairly similar
 	- After age 50, the number of people decreases due to natural life spans
-<!--SR:!2024-10-07,3,210-->
+<!--SR:!2024-10-17,7,210-->
 
 
 

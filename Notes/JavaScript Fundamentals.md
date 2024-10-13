@@ -92,7 +92,7 @@ What are some special numbers in JavaScript?
 <!--SR:!2024-10-06,8,250-->
 
 What is a variable in JavaScript?::A storage location identified by a name (identifier) used to hold data values.
-<!--SR:!2024-10-04,6,230-->
+<!--SR:!2024-10-25,15,230-->
 
 What is an identifier in JavaScript?::The name given to a variable or other value in JavaScript, which must start with a letter, underscore (`{js}_`), or dollar sign (`{js}$`), with subsequent characters allowed to be digits (`{js}0 to 9`).
 <!--SR:!2024-09-29,1,210-->

@@ -8,30 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1b1b0ecedeb81ae",
+            "id": "058fbae46ee656fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Testing Fixtures & Mocks.md",
+                "file": "Week 5 Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a3a43b8a4f0d199",
+            "id": "e87b6bdcc0944c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Diagrams.md",
+                "file": "Week 6 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39a09a95e1c590eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2831 Week 2 Glossary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4be3f6e0ef720d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "393d5cd5b3dec833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2831 project stuff.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"-f\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Testing Fixtures & Mocks.md",
+                "file": "Week 6 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Testing Fixtures & Mocks.md",
+                "file": "Week 6 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Testing Fixtures & Mocks.md"
+                "file": "Week 6 Tasks.md"
               }
             }
           },
           {
-            "id": "f43d6b41d29c81f5",
+            "id": "15f7d499c8384230",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -152,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -169,46 +206,47 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f1b1b0ecedeb81ae",
+  "active": "e87b6bdcc0944c44",
   "lastOpenFiles": [
-    "Class Diagrams.md",
-    "Week 5 Tasks.md",
-    "Linux Assignment 1/Linux Assignment 1 Instructions.md",
-    "OOP Cheatsheet.md",
-    "Advanced Testing Fixtures & Mocks.md",
-    "2515 Week 5.md",
-    "Dunder Magic Methods.md",
-    "Notes Table of Contents.md",
-    "2515 Week 4.md",
-    "Object Relationships in Python.md",
-    "Notes/Linux Essentials Searching.md",
-    "Untitled.md",
-    "Pasted image 20241007125821.png",
-    "Pasted image 20241007124823.png",
-    "Reinstall Windows Checklist.md",
-    "Notes/Object Oriented Programming.md",
+    "2831 project stuff.md",
     "Questions.md",
-    "Notes/Processes and Process Control.md",
-    "Notes/The Linux Filesystem.md",
-    "Notes/2620 Week 5 Lecture.md",
-    "Notes/2620 Week 5.md",
-    "bday.md",
-    "README.md",
-    "Tasks Master List.md",
-    "Weekly Tasks Archive/Week 4 Tasks.md",
-    "Pasted image 20241006125519.png",
-    "Pasted image 20241006132138.png",
-    "Pasted image 20241006131018.png",
-    "Pasted image 20241006131013.png",
-    "COMMS shit/COMMS Assignment 1 ex. 1.md",
-    "Notes/JavaScript Syntax Review.md",
-    "Notes/2420 Week 3.md",
-    "Images/Pasted image 20241001174526.png",
-    "Images/Pasted image 20241003191627.png",
-    "kevin-resume-draft.docx",
-    "Images/Pasted image 20241001194836.png",
-    "Images/Pasted image 20241001193855.png",
+    "Notes/2831 Week 2 Glossary.md",
+    "Week 6 Tasks.md",
+    "Bash Scripting Week 5.md",
+    "2620 Week 6 Lecture.md",
+    "Week 5 Tasks.md",
+    "Notes/2831 Week 1 Glossary.md",
+    "Notes/2831 Week 2.md",
+    "Notes Table of Contents.md",
+    "lab-week-6.md",
+    "Pasted image 20241011150553.png",
+    "Pasted image 20241011150551.png",
+    "Pasted image 20241008193503.png",
+    "Pasted image 20241008192449.png",
+    "Pasted image 20241008191955.png",
+    "Pasted image 20241011150218.png",
+    "Pasted image 20241011150208.png",
+    "Reinstall Windows Checklist.md",
+    "random shit.md",
+    "Pasted image 20241011144252.png",
+    "Pasted image 20241011145708.png",
+    "Pasted image 20241011145007.png",
+    "2620 Week 6.md",
+    "2420 Week 5.md",
+    "Cover Letter Notes.md",
+    "Notes/Object Relationships in Python.md",
+    "Notes/Advanced Testing Fixtures & Mocks.md",
+    "Notes/Stats Unit 5.md",
+    "Notes/Stats Unit 4.md",
+    "Excalidraw/Drawing 2024-10-08 18.47.09.excalidraw.md",
+    "Lil's notes/week-5-reading.md",
+    "Lil's notes/week-4-notes.md",
+    "Lil's notes",
+    "week-4-notes.md",
     "Excalidraw",
+    "week-5-reading.md",
+    "README.md",
+    "kevin-resume-draft.docx",
     "Linux Assignment 1/Assets",
     "Linux Assignment 1",
     "Notes/Root Notes",
@@ -216,7 +254,6 @@
     "Images",
     "COMMS shit",
     "Weekly Tasks Archive",
-    "Templates",
-    "New folder"
+    "Templates"
   ]
 }

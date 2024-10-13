@@ -434,7 +434,7 @@ true or false?
 `{js}"5" === 5;`
 ?
 false
-<!--SR:!2024-10-10,12,270-->
+<!--SR:!2024-11-11,32,270-->
 
 `{js}"Hello world".substring(0, 5);`
 What is the output of this line?
@@ -443,7 +443,7 @@ What is the output of this line?
 - The substring method extracts a portion of a string between two indices
 	- First index is inclusive
 	- Second index is exclusive
-<!--SR:!2024-10-07,9,250-->
+<!--SR:!2024-11-02,23,250-->
 
 `{js}"Hello".length`
 `{js}"Hello".length()`
@@ -454,7 +454,7 @@ Which one is correct?
 <!--SR:!2024-10-11,13,270-->
 
 Why would you want to use `{js}null`?:: To indicate a deliberate non-value
-<!--SR:!2024-10-06,8,250-->
+<!--SR:!2024-10-31,21,250-->
 
 Why would you want to use `{js}undefined`:: To indicate a value is not currently present
 <!--SR:!2024-09-30,2,210-->
@@ -577,7 +577,7 @@ myObj.key1;
 Which of the two accessing methods is correct in this code snippet?
 ?
 Both are valid ways to access the value of `{js}key1`
-<!--SR:!2024-10-06,8,250-->
+<!--SR:!2024-10-31,21,250-->
 
 ```js
 let myObj = {
@@ -613,7 +613,7 @@ What is the value of `{js}description`?
 ?
 `{js}'Adam Siyala 20'`
 - the for/in loop allows for looping over an object
-<!--SR:!2024-10-07,9,250-->
+<!--SR:!2024-11-02,23,250-->
 
 ```js
 let myPets = "";
@@ -690,7 +690,7 @@ function myFunction() {
 	//do something
 }
 ```
-<!--SR:!2024-09-30,2,230-->
+<!--SR:!2024-10-15,5,230-->
 
 ```js
 function myFunc() {

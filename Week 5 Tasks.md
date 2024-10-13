@@ -7,7 +7,7 @@ filename includes {{query.file.filename}}
 
 # Dev Web App
 - [ ] Go back to week 4 and write flash cards
-- [ ] Watch armaan's videos 📅 2024-10-08 
+- [x] Watch armaan's videos 📅 2024-10-08 ✅ 2024-10-09
 # OOP
 - [ ] Go back to week 4 and write flashcards
 - [x] Do the self studies 📅 2024-10-08 ✅ 2024-10-07
@@ -26,15 +26,16 @@ filename includes {{query.file.filename}}
 - [ ] Team project 📅 2024-10-13 🆔  Assignment
 - [ ] Get started on team project 📅 2024-09-30 
 # Comms
-- [ ] cover letter 📅 2024-10-10 
-- [ ] Resume feedback 📅 2024-10-11 
-	- [ ] tilda
-	- [ ] misha
-	- [ ] zinat
-	- [ ] humaira
-	- [ ] tony/mellaad
+- [x] cover letter 📅 2024-10-10 ✅ 2024-10-09
+- [x] Resume feedback and hand in 📅 2024-10-11 ✅ 2024-10-09
+	- [x] tilda ✅ 2024-10-09
+	- [x] misha ✅ 2024-10-09
+	- [x] zinat ✅ 2024-10-09
+	- [x] humaira ✅ 2024-10-09
+	- [x] tony/mellaad ✅ 2024-10-09
+- [x] quiz 📅 2024-10-11 ✅ 2024-10-11
 # Networking
 - [ ]
 # Linux
 - [ ] Go back to week 4 and write flash cards
-- [ ] Bash scripting videos 📅 2024-10-11 
+- [x] Bash scripting videos 📅 2024-10-11 ✅ 2024-10-12
