@@ -164,3 +164,34 @@ do
 	# do something
 done
 ```
+
+
+# Flash cards
+
+Are file extensions required for script names?::No, they are not required.
+
+How do you make variables available in subshells?
+?
+```bash
+export variable=value
+```
+
+What does `{bash}declare` do to a variable?
+?
+Allows you to set specific attributes to a variable such as:
+```bash
+declare -r ANSWER=yes # sets $ANSWER as a read-only variable
+declare [-a|-A] MYARRAY # define an indexed or associative array
+declare -i NUM # sets $NUM as an integer
+```
+
+How do you wipe the value of a key without deleting it?::Simply reassign nothing to the variable like this: `var1=`
+
+How do you delete a variable completely?::`unset var1`
+
+What exactly is the condition in an if statement?
+?
+A command that returns 0 (true) or 1 (false)  depending on whether the condition is true not not
+
+
+

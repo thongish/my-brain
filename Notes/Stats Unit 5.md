@@ -29,3 +29,11 @@ S = sample space
 ## Multiplication rule
 
 ![[Pasted image 20241008193503.png]]
+
+
+
+# Flash cards
+
+What is a **mutually exclusive event**?::If **A and B** cannot occur simultaneously
+
+What is a **independent event**?::If the probability of **B** does not depend on whether **A** has occurred or not

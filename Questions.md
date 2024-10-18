@@ -28,3 +28,6 @@
 	- what is a scratchpad?
 	- hyprlock?
 	- unzipping
+	- what is drop_caches
+	- week 5 sudo, visudo, nvim
+	- what exactly is the condition in an if statement

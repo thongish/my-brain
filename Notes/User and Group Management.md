@@ -274,3 +274,63 @@ sudo chmod +t packtdir
 	- This command specifies that users who belong to **packtgroup** are permitted to run **updatedb** (/usr/bin/updateb)
 	- Group must be preceded with a % sign, which is the only distinction between group members and individual users
 - `{bash}sudo -l` - display the calling user's permitted commands in `/etc/sudoers`
+
+
+# Flash cards
+
+How do you add or delete a user to the system?
+?
+- `{bash}adduser`
+- `userdel`
+
+How do you add/remove a group to the system?
+?
+- `addgroup`
+- `delgroup`
+
+Where can you find user account information or properties?::/etc/passwd
+
+What is the /etc/shadow file?::Encrypted passwords / password properties
+
+What is the /etc/group file?::Group information
+
+What is the /etc/sudoers file?::Configuration for `{bash}sudo`
+
+What is the difference between `useradd` and `adduser`?
+?
+- `useradd` requires manual configuration of things like password, home directory, etc
+- `adduser` is a more user-friendly command that does all those things for you
+
+What is /etc/skel?::A directory that provides the folder scheme for new accounts
+
+What can you do with the `usermod` command?::Modify user account things such as home folder, default shell, add description to user, associate with group, etc
+
+How do you add a user to a group?
+?
+```bash
+sudo usermod -aG group thong
+# -a means append to group without removing them from other groups
+# -G specifies the group name
+```
+
+What does the `{bash}su`  command do?
+?
+- Switch to an account with superuser privileges
+- `{bash}su -` does the same thing but simulates a complete login environment for the target user
+
+How do you lock or unlock user accounts?
+?
+- `{bash}sudo passwd -l <user>` - locks account
+- `{bash}sudo passwd -u <user>` - unlocks account
+
+What does the `chage` command do?::Change the length of time a user's password is valid
+
+How many users and groups can a file belong to?::One user and one group per file
+
+What are the three additional permissions besides read, write, execute?
+?
+- setuid - allows users to execute a file using the file owner's permissions, rather than their own
+- setgid - allows users to run a file using the group's permissions, instead of their own
+	- When set on a directory, any file created inside it inherits the directory's group ownership
+	- This is helpful for shared group projects
+- sticky bit - ensures that only the file/directory's owner can delete or modify the file or directory

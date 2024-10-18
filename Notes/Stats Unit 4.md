@@ -84,3 +84,5 @@
 | -------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | With replacement (when taking from the n items)    | ![[Pasted image 20241001193855.png]]<br>Fundamental counting | ![[Pasted image 20241001194836.png]]<br>Icecream example |
 | Without replacement (when taking from the n items) | ![[Pasted image 20241001193713.png]]Permutation              | ![[Pasted image 20241001193747.png]]Combination          |
+
+# Flash cards
