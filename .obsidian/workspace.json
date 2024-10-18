@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 7 Tasks.md",
+                "file": "Notes/Bash Scripting Week 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 7 Tasks"
+              "title": "Bash Scripting Week 6"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,12 +252,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "db5575e61417a726",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -275,23 +285,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "284c73b5adad25b2",
+  "active": "d5082b513ca8e203",
   "lastOpenFiles": [
+    "Notes/Bash Scripting Week 6.md",
+    "Notes/2420 Week 6.md",
+    "Notes Table of Contents.md",
+    "Week 7 Tasks.md",
     "Week 6 Tasks.md",
     "Reinstall Windows Checklist.md",
     "README.md",
     "random shit.md",
     "bday.md",
-    "Notes Table of Contents.md",
-    "Notes/Bash Scripting Week 6.md",
     "Untitled.md",
-    "Notes/2420 Week 6.md",
     "Untitled 1.md",
     "Questions.md",
     "Notes/Linux Lecture Flash Cards.md",
     "Notes/Bash Scripting Week 5.md",
     "Notes/2420 Week 5.md",
-    "Week 7 Tasks.md",
     "Notes/User and Group Management.md",
     "Notes/2420 Week 4.md",
     "Notes/2420 Week 4 Lecture.md",

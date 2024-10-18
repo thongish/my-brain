@@ -71,7 +71,7 @@
 [[2420 Week 3]] Processes and Process Control, Searching
 [[2420 Week 4]] User and Group Management
 [[2420 Week 5]] Bash scripting week 5
-[[2420 Week 6]]
+[[2420 Week 6]] Bash scripting week 6
 [[2420 Week 7]]
 [[2420 Week 8]]
 [[2420 Week 9]]
