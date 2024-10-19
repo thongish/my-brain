@@ -13,6 +13,7 @@ filename includes {{query.file.filename}}
 # Stats
 - [ ] review unit 1-3 📅 2024-10-23 
 - [ ] review unit 4-6 📅 2024-10-23 
+- [ ] write cheatsheet 📅 2024-10-20 
 # Business Systems
 - [ ] Make cheat sheet 📅 2024-10-22 
 # Comms
