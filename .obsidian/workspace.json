@@ -282,12 +282,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "972ac5e08e4dead6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -305,8 +315,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b83ffdb5c56ffea9",
+  "active": "972ac5e08e4dead6",
   "lastOpenFiles": [
+    "readme-assets/flash.png",
+    "readme-assets/trust-me.png",
+    "readme-assets/open-vault.png",
+    "readme-assets/git-clone.png",
+    "readme-assets",
     "bday.md",
     "lab-week-7-part-1.md",
     "OOP Cheatsheet.md",
@@ -332,7 +347,6 @@
     "Notes/Linux Essentials Searching.md",
     "Notes/The Linux Filesystem.md",
     "Notes/2831 Week 2 Glossary.md",
-    "Notes/Stats Unit 4.md",
     "Images/Pasted image 20241008193503.png",
     "Pasted image 20241011150551.png",
     "Pasted image 20241011150553.png",
@@ -340,9 +354,6 @@
     "Images/Pasted image 20241008191955.png",
     "Pasted image 20241011150218.png",
     "Pasted image 20241011150208.png",
-    "Pasted image 20241011144252.png",
-    "Pasted image 20241011145708.png",
-    "Pasted image 20241011145007.png",
     "Lil's notes",
     "Excalidraw",
     "kevin-resume-draft.docx",
@@ -352,7 +363,6 @@
     "Untitled.canvas",
     "Images",
     "COMMS shit",
-    "Weekly Tasks Archive",
-    "Templates"
+    "Weekly Tasks Archive"
   ]
 }
