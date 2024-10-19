@@ -15,6 +15,9 @@ This is my Obsidian vault for term 2
 git clone https://github.com/thongish/my-brain.git
 ```
 ```
+cd .\my-brain\
+```
+```
 git switch flash-reset
 ```
 ![image of pwrshell](/readme-assets/git-clone.png)
