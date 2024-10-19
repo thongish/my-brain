@@ -61,34 +61,34 @@
 # Flash cards
 
 What is a hub and spoke topology?::Remote sites connect back to a central hub, minimizing the number of WAN links, making it cheaper to set up but can result in suboptimal paths.
-<!--SR:!2024-10-19,10,210-->
+ 
 
 What is a drawback of the hub and spoke topology?::Data may travel through the central hub even when two remote sites need to communicate directly, leading to suboptimal paths
-<!--SR:!2024-10-14,12,230-->
+ 
 
 What is a full mesh topology?::A topology where every node is connected to every other node, resulting in optimal pathing, but is very expensive and not scalable.
-<!--SR:!2024-10-29,20,250-->
+ 
 
 How do you calculate the number of links in a full mesh topology?::Use the formula (n(n-1))/2, where n is the number of sites.
-<!--SR:!2024-10-14,12,230-->
+ 
 
 What is a partial mesh topology?::A subset of a full mesh topology, where links are added based on traffic patterns between frequently communicating sites.
-<!--SR:!2024-10-13,4,190-->
+ 
 
 What is a ring topology?::A topology where devices are interconnected in a circular fashion, with data traveling from device to device until it reaches its destination.
-<!--SR:!2024-10-14,12,230-->
+ 
 
 What is a bus topology?::Devices are connected to the same coaxial cable.
-<!--SR:!2024-10-14,12,230-->
+ 
 
 What is a star topology?::Devices connect back to a centralized device (like a router or switch), where failure of one link doesn't affect others, but the central device is a single point of failure.
-<!--SR:!2024-10-14,12,230-->
+ 
 
 What is a point-to-point connection?::A topology interconnecting two devices, often using Layer 2 protocols like PPP or HDLC, and can be a physical or logical connection.
-<!--SR:!2024-10-05,1,150-->
+ 
 
 What is a point-to-multipoint connection?::A WAN connection where one location connects to multiple locations via a single physical connection, often considered a hub and spoke topology.
-<!--SR:!2024-10-11,2,150-->
+ 
 
 What is a hybrid topology?::A network topology that contains elements of multiple types of network topologies.
-<!--SR:!2024-10-23,14,230-->
+ 

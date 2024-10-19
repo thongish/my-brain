@@ -149,7 +149,7 @@ Which of these classes/functions will pytest run?
 1 and 4
 - Test function names must start with `{python}test_` 
 - Class names must start with `{python}Test`
-<!--SR:!2024-10-30,20,250-->
+ 
 
 ```python
 def add_values(a, b):
@@ -162,5 +162,5 @@ def test_add_values():
 	result = add_values(2,3)
 	assert result == 5     # This line makes sure the output is the one we expect
 ```
-<!--SR:!2024-10-15,5,230-->
+ 
 

@@ -210,22 +210,22 @@ What is a **class**?
 Example:
 - A book is a **class** (the abstract concept of something you can read)
 - "Harry Potter" is an instance (or object) of the **book class**
-<!--SR:!2024-09-30,3,250-->
+ 
 
 What is an **object** or **instance** in the context of Python classes?::A "thing" created out of a class
-<!--SR:!2024-09-28,1,230-->
+ 
 
 What is an **attribute** in the context of Python classes?::Values for a specific object
-<!--SR:!2024-09-28,1,230-->
+ 
 
 What is a **state** in the context of Python classes?::The current values of the attributes in an object
-<!--SR:!2024-09-28,1,230-->
+ 
 
 What is **modelization** in the context of Python classes?::Creating a class based on real life objects (deciding which attributes/behaviours it has)
-<!--SR:!2024-09-30,3,250-->
+ 
 
 Making sure a class has a "clean" public interface that hides complex implementation details is called,::Abstraction
-<!--SR:!2024-09-30,3,250-->
+ 
 
 Which of the following respects the PEP8 naming convention for classes?
 - my_nice_class
@@ -234,10 +234,10 @@ Which of the following respects the PEP8 naming convention for classes?
 - NICE_CLASS
 ?
 MyNiceClass
-<!--SR:!2024-09-30,3,250-->
+ 
 
 What is **encapsulation**?::Ensuring the state of an object can only be changed by the object methods itself rather than changing it outside of the class
-<!--SR:!2024-09-30,3,250-->
+ 
 
 What is the implicit parameter that all functions within a class receive?::`{python}self`
-<!--SR:!2024-09-30,3,250-->
+ 

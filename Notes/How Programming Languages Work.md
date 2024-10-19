@@ -65,38 +65,38 @@ What does a compiler do?
 ?
 Translates source code into machine/binary language
 - Necessary to make a program executable
-<!--SR:!2024-10-04,6,230-->
+ 
 
 Compiler or interpreter, which is faster?
 ?
 Compiler
 - Will always be faster because entire code base is translated in advance rather than code being read line by line upon execution
-<!--SR:!2024-10-10,12,270-->
+ 
 
 What is a Pure Function?::A function where given a set of inputs, the function returns the same output every time; deterministic
-<!--SR:!2024-09-30,2,230-->
+ 
 
 What is an interpreter?::A program that directly executes source code line by line, without converting it into machine code
-<!--SR:!2024-10-11,1,190-->
+ 
 
 What is ECMA script?::The official specifications that detail what JavaScript can and can't do
-<!--SR:!2024-09-30,2,250-->
+ 
 
 Every programming language needs what key thing in order to be able to execute?::A runtime environment
-<!--SR:!2024-11-11,32,270-->
+ 
 
 What is Node.js?::A runtime environment that allows JavaScript to be executed outside of the browser
-<!--SR:!2024-10-11,13,270-->
+ 
 
 What 2 things are required to create and run a program on a computer?
 ?
 - Programming language
 - Runtime Environment
-<!--SR:!2024-10-15,5,250-->
+ 
 
 What does a runtime environment include?
 ?
 - A compiler or interpreter
 - Extra facilities to help the programming language interact with its environment
 	- APIs
-<!--SR:!2024-11-02,23,250-->
+ 

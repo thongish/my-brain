@@ -194,8 +194,8 @@ What is `{js}addTwo(7, add);` doing?
 ?
 It is calling the function `{js}addTwo()` and passing in a number and the function `{js}add()`
 - What's happening is it takes the number `{js}7` and uses the `{js}add()` as a callback function to add `{js}2` to it
-<!--SR:!2024-09-29,1,230-->
+ 
 
 What is a **higher order function**?::A function that takes a function as an argument
-<!--SR:!2024-10-01,3,250-->
+ 
 

@@ -169,7 +169,7 @@ open("file.txt", "r")
 Let's say you wanted to import the aimbot module so you can use the `{python}shoot()` function. How would you do that?
 ?
 `{python}import logic.computer.aimbot`
-<!--SR:!2024-10-30,20,250-->
+ 
 
 
 # [[2515 Week 1]]

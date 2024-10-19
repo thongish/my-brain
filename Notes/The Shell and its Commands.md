@@ -163,13 +163,13 @@ Must run the chmod command to make the file executable
 # Flash cards
 
 What is a shell?::A program that receives commands and sends them to the operating system for processing.
-<!--SR:!2024-10-26,10,185-->
+ 
 
 What is the fundamental capability of shells?
 ?
 The ability to launch command-line programs already installed on the system.
 - Also offers built-ins and scripting control structures such as conditional loops
-<!--SR:!2024-10-17,1,145-->
+ 
 
 What are some common Linux shells??
 - sh, 
@@ -182,121 +182,121 @@ What are some common Linux shells??
 The "search path" in Linux refers to the list of directories that the system searches through to find executables. How can you view the search path in bash?
 ?
 `{bash}echo $PATH`
-<!--SR:!2024-11-14,29,225-->
+ 
 
 How do you check your shell version?::`{bash}echo $SHELL`
-<!--SR:!2024-10-23,14,225-->
+ 
 
 What is the purpose of flags?
 ?
 To change how the invoked program behaves.
 - ex. `{bash}ls -lt`
 	- The `{bash}-lt` here outputs a lengthy listing of files arranged by creation time
-<!--SR:!2024-10-19,16,225-->
+ 
 
 What are wildcards (`*`) used for?
 ?
 To match file and directory name patterns
 - ex. `{bash}ls -l *.sh`
 	- Listing files named `anything.sh`
-<!--SR:!2024-10-27,16,205-->
+ 
 
 What is the cat command used for?::`{bash}cat /etc/passwd` (displays the contents of a file).
-<!--SR:!2024-11-14,29,225-->
+ 
 
 What is command piping?
 ?
 Taking the output of one program and using it as an input for another program
 -  ex. `{bash}cat testfile.txt | wc -w`
 	- Return content of the file and piping it to the `{bash}wc` command to count the number of words
-<!--SR:!2024-11-10,25,225-->
+ 
 
 There are variables predefined in bash, such as `{bash}$HOME`, how do you see the list of all these variables?::Use the `{bash}set` command
-<!--SR:!2024-10-24,20,250-->
+ 
 
 What does `{bash}pwd` do?::Prints the absolute path of the current working directory.
-<!--SR:!2024-10-20,17,245-->
+ 
 
 How do you make a new directory?::`{bash}mkdir <directory name>`
-<!--SR:!2024-10-24,20,250-->
+ 
 
 How do you delete a directory?
 ?
 `{bash}rmdir <directory name>` (can **only** remove an empty directory).
 Using `{bash}rm <directory/file name>` is more practical
-<!--SR:!2024-10-27,16,205-->
+ 
 
 What command can be used to recursively remove directories and files?::`{bash}rm -rf <directory name>`
-<!--SR:!2024-10-20,17,245-->
+ 
 
 What is the purpose of `{bash}touch`?::To create an empty file or update the modification date of a file.
-<!--SR:!2024-11-14,29,225-->
+ 
 
 What does `ls` do?::Lists all files and directories in the current directory or specified directory
-<!--SR:!2024-10-27,16,205-->
+ 
 
 How can you see hidden files with `{bash}ls`?::`{bash}ls -a`
-<!--SR:!2024-11-05,27,265-->
+ 
 
 How do you list files with details using `{bash}ls`?::`{bash}ls -l`
-<!--SR:!2024-11-14,29,225-->
+ 
 
 How do you copy a file?::`{bash}cp <file to be copied> <where to copy it>`
-<!--SR:!2024-10-20,17,245-->
+ 
 
 How do you move or rename a file?::`{bash}mv <file1> <file2>` (can be used for both moving and renaming).
-<!--SR:!2024-11-14,29,225-->
+ 
 
 How do you remove a file?::`{bash}rm <file>`
-<!--SR:!2024-10-20,17,245-->
+ 
 
 What do the `{bash}-r` and `{bash}-f` flags in `{bash}rm` do?::`{bash}-r `removes directories recursively, and `{bash}-f` forces removal.
-<!--SR:!2024-11-05,20,205-->
+ 
 
 What is `{bash}locate` used for?::To find the path of a file on the system.
-<!--SR:!2024-10-19,10,205-->
+ 
 
 How can you make `{bash}locate` ignore case sensitivity?::`{bash}locate -i <file name>`
-<!--SR:!2024-11-05,20,250-->
+ 
 
 What is `{bash}echo` used for?::To print content to the terminal and write to a file.
-<!--SR:!2024-10-24,20,250-->
+ 
 
 How can you append content to a file with `{bash}echo`?::`{bash}echo "content to be appended" >> file1.txt`
-<!--SR:!2024-10-20,17,245-->
+ 
 
 How do you overwrite content in a file using `{bash}echo`?::`{bash}echo "this content will replace" > file1.txt`
-<!--SR:!2024-10-19,10,225-->
+ 
 
 What does `{bash}cat` do?::Reads and displays the content of a file to the terminal.
-<!--SR:!2024-10-24,20,250-->
+ 
 
 What does `{bash}df` do?
 ?
 Disk-free
 - Displays filesystem information like disk usage and available space.
-<!--SR:!2024-10-19,10,190-->
+ 
 
 How do you make `{bash}df` output human-readable?::`{bash}df -h`
-<!--SR:!2024-10-18,2,185-->
+ 
 
 What does `{bash}du` do?
 ?
 Disk-usage
 - Shows the size of a directory and its subdirectories.
-<!--SR:!2024-10-19,10,205-->
+ 
 
 How can you make `{bash}du` output human-readable?::`{bash}du -sh`
-<!--SR:!2024-10-28,12,210-->
+ 
 
 What does `{bash}uname` do?::Displays system information about the operating system.
-<!--SR:!2024-11-14,29,225-->
+ 
 
 How do you view detailed system information with `{bash}uname`?::`{bash}uname -a`
-<!--SR:!2024-11-05,20,205-->
+ 
 
 What does `{bash}chmod` do?::Changes file permissions for read, write, and execute.
-<!--SR:!2024-10-24,20,250-->
+ 
 
 What are the permission levels in `{bash}chmod`?
 ?
@@ -304,10 +304,10 @@ What are the permission levels in `{bash}chmod`?
 - 2 = write, 
 - 1 = execute, 
 - 0 = no permission.
-<!--SR:!2024-11-14,29,225-->
+ 
 
 What is an example of a `{bash}chmod` command with octal notation?::`{bash}chmod 754 file1.txt`
-<!--SR:!2024-10-20,17,245-->
+ 
 
 How do you change a file's permissions to,
 User = read/write
@@ -316,16 +316,16 @@ Other = read/write/execute
 `{bash}chmod 667 file1.txt`
 OR
 `{bash}chmod u=rw,g=rw,o=rwx file1.txt`
-<!--SR:!2024-11-14,29,225-->
+ 
 
 What does `{bash}chown` do?::Changes the ownership of a file or directory.
-<!--SR:!2024-10-20,17,245-->
+ 
 
 How do you change the owner and group of a file?::`{bash}chown <user>:<group> <file or directory name>`
-<!--SR:!2024-10-22,6,205-->
+ 
 
 What does `{bash}chgrp` do?::Changes the group ownership of a file or directory.
-<!--SR:!2024-11-05,20,210-->
+ 
 
 How can you search man pages by keyword?::`{bash}man -k <keyword>`
-<!--SR:!2024-10-28,12,225-->
+ 
