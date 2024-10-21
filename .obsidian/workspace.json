@@ -22,77 +22,63 @@
             }
           },
           {
-            "id": "44783be1ac55190a",
+            "id": "f198929e2c1dc9f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 7 Tasks.md",
+                "file": "Notes/Business Chapter 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 7 Tasks"
+              "title": "Business Chapter 7"
             }
           },
           {
-            "id": "d5082b513ca8e203",
+            "id": "1da4c3993fc7e61e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bash Scripting Week 5.md",
+                "file": "Notes/The Shell and its Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash Scripting Week 5"
+              "title": "The Shell and its Commands"
             }
           },
           {
-            "id": "723641dfa9ddf142",
+            "id": "f174b7eae5d884bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Notes/Linux Lecture Flash Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "Linux Lecture Flash Cards"
             }
           },
           {
-            "id": "284c73b5adad25b2",
+            "id": "5e03b27845c6c54a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bash Scripting Week 6.md",
+                "file": "Notes/Linux Lecture Flash Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash Scripting Week 6"
-            }
-          },
-          {
-            "id": "b83ffdb5c56ffea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7 Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7 Tasks"
+              "title": "Linux Lecture Flash Cards"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,11 +130,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -292,12 +280,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "aa9708cb0c92571d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c22a2eecf8b089cf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a8102735746b88c9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -315,45 +333,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "972ac5e08e4dead6",
+  "active": "5e03b27845c6c54a",
   "lastOpenFiles": [
+    "Notes/Linux Lecture Flash Cards.md",
+    "Notes/The Shell and its Commands.md",
+    "Lil's notes/week-5-reading.md",
+    "Week 7 Tasks.md",
+    "Notes/Business Chapter 7.md",
+    "Week 6 Tasks.md",
+    "Notes/2831 Week 2.md",
+    "Notes Table of Contents.md",
+    "Notes/2831 Week 2 Glossary.md",
+    "Notes/2831 Week 1.md",
+    "Notes/2831 Week 1 Glossary.md",
+    "Notes/Business Chapter 1.md",
+    "Notes/Business Chapter 10.md",
+    "Notes/SDLC Video Notes.md",
+    "STATS midterm.md",
+    "2520 Week 7.md",
+    "Notes/2520 Week 6.md",
+    "Notes/2520 Week 6 Lecture.md",
+    "Notes/User and Group Management.md",
+    "Notes/2420 Week 4.md",
+    "Notes/Bash Scripting Week 5.md",
+    "Notes/Object Oriented Programming.md",
+    "OOP Cheatsheet.md",
+    "Linux Labs/lab-week-6.md",
+    "Notes/2515 Week 2.md",
+    "Notes/2515 Week 3.md",
     "readme-assets/flash.png",
     "readme-assets/trust-me.png",
     "readme-assets/open-vault.png",
     "readme-assets/git-clone.png",
     "readme-assets",
-    "bday.md",
-    "lab-week-7-part-1.md",
-    "OOP Cheatsheet.md",
-    "STATS midterm.md",
-    "Notes/Bash Scripting Week 5.md",
-    "Notes/Bash Scripting Week 6.md",
-    "Notes/Linux Lecture Flash Cards.md",
-    "Questions.md",
-    "Notes/2420 Week 6.md",
-    "Notes Table of Contents.md",
-    "Week 7 Tasks.md",
-    "Week 6 Tasks.md",
-    "Reinstall Windows Checklist.md",
-    "README.md",
-    "random shit.md",
-    "Untitled 1.md",
-    "Notes/2420 Week 5.md",
-    "Notes/User and Group Management.md",
-    "Notes/2420 Week 4.md",
-    "Notes/2420 Week 4 Lecture.md",
-    "Notes/2420 Week 3.md",
-    "Notes/Processes and Process Control.md",
-    "Notes/Linux Essentials Searching.md",
-    "Notes/The Linux Filesystem.md",
-    "Notes/2831 Week 2 Glossary.md",
     "Images/Pasted image 20241008193503.png",
     "Pasted image 20241011150551.png",
     "Pasted image 20241011150553.png",
     "Images/Pasted image 20241008192449.png",
     "Images/Pasted image 20241008191955.png",
     "Pasted image 20241011150218.png",
-    "Pasted image 20241011150208.png",
     "Lil's notes",
     "Excalidraw",
     "kevin-resume-draft.docx",

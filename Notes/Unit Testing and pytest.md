@@ -127,10 +127,10 @@ def test_add_values_invalid():
 - One minor change in the tests = one minor change in the application
 - True for software development in general
 
-# [[2515 Week 1]]
+# [[2515 week 1]]
 
 
-# Flash cards
+# flash cards
 
 ```python
 # test_something.py  
@@ -138,29 +138,29 @@ def test_thingy():          # 1
 	pass  
 def thing():                # 2
 	pass  
-class Something:  
+class something:  
 	def test_thing(self):   # 3
 		pass  
-class TestSomething:        # 4
+class testsomething:        # 4
 	def test_thing2(self): 
 ```
-Which of these classes/functions will pytest run?
+which of these classes/functions will pytest run?
 ?
 1 and 4
-- Test function names must start with `{python}test_` 
-- Class names must start with `{python}Test`
-<!--SR:!2024-10-30,20,250-->
+- test function names must start with `{python}test_` 
+- class names must start with `{python}test`
+<!--sr:!2024-10-30,20,250-->
 
 ```python
 def add_values(a, b):
 	return a+b
 ```
-What might the unit test look like for this function?
+what might the unit test look like for this function?
 ?
 ```python
 def test_add_values():
 	result = add_values(2,3)
-	assert result == 5     # This line makes sure the output is the one we expect
+	assert result == 5     # this line makes sure the output is the one we expect
 ```
-<!--SR:!2024-10-15,5,230-->
+<!--sr:!2024-10-15,5,230-->
 

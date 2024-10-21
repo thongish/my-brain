@@ -14,7 +14,6 @@
 
 **Asset**
 - Any resource owned by a company that is expected to provide future economic benefits
-
  **Investment** 
 - The allocation of money or resources with the expectation of generating income or profit over time
 

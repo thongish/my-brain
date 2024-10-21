@@ -58,7 +58,7 @@
 # Flash cards
 
 What is SSH?::A method for securely sending commands to a computer over an unsecured network.
-<!--SR:!2024-10-19,10,192-->
+<!--SR:!2024-10-25,5,172-->
 
 What is public key cryptography?::A method to encrypt or sign data with two different keys: a public key available to anyone and a private key kept secret by its owner.
 <!--SR:!2024-11-05,20,212-->
@@ -76,7 +76,7 @@ What is SSH used for?
 - accessing cloud services, 
 - connecting to private network services,
 - and bypassing firewall restrictions.
-<!--SR:!2024-10-18,2,152-->
+<!--SR:!2024-10-21,1,132-->
 
 What port does SSH use?::Port 22.
 <!--SR:!2024-11-08,30,270-->

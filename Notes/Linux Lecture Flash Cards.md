@@ -4,8 +4,10 @@
 
 
 What is Linux?::A family of operating systems that use the Linux kernel
+<!--SR:!2024-10-21,1,230-->
 
 What is the Linux kernel?::The main component of a Linux OS and is the core interface that facilitates the communication between a computer's hardware and its processes
+<!--SR:!2024-10-21,1,230-->
 
 What does the Linux kernel do?
 ?
@@ -17,14 +19,19 @@ What does the Linux kernel do?
 	1. Act as mediator/interpreter between the hardware and processes
 4. System calls and security
 	1. Receive requests for service from the processes
+<!--SR:!2024-10-21,1,230-->
 
 What is the main difference between a server and desktop editions of Linux based OS?::Generally the only difference is the software installed on each of them
+<!--SR:!2024-10-21,1,230-->
 
 What is the distinction between a **terminal** and the **shell**?
 ?
 - The terminal is an interface, the GUI that you interact with
 - The shell is software that runs the commands you enter in the terminal
+<!--SR:!2024-10-21,1,230-->
 
+What happens when you run a command?::The shell will try to find the command in its built-ins before searching through the $PATH directories. Once it finds the command it executes it
+<!--SR:!2024-10-21,1,222-->
 # Week-two flash cards
 #LINUX/W2 
 
@@ -32,11 +39,13 @@ What is a **disk image**?
 ?
 A file that contains an exact copy of the data and structure of a physical disk drive
 - Like a snapshot of the disk, preserving everything from files and folders to the operating system and boot information
+<!--SR:!2024-10-21,1,222-->
 
+
+What do all these ssh command options do?
 ```bash
 ssh -i -t -f -C
 ```
-What do all these ssh command options do?
 ?
 `-i` - identity_file: the path to the private key file associated with public key in the system you're SSHing into
 `-t` - type: the type of encryption to use for the key
