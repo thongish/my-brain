@@ -169,7 +169,7 @@ What is the fundamental capability of shells?
 ?
 The ability to launch command-line programs already installed on the system.
 - Also offers built-ins and scripting control structures such as conditional loops
-<!--SR:!2024-10-21,1,145-->
+<!--SR:!2024-10-22,1,145-->
 
 What are some common Linux shells??
 - sh, 
@@ -278,7 +278,7 @@ Disk-free
 <!--SR:!2024-10-25,5,170-->
 
 How do you make `{bash}df` output human-readable?::`{bash}df -h`
-<!--SR:!2024-10-21,1,165-->
+<!--SR:!2024-10-23,2,165-->
 
 What does `{bash}du` do?
 ?

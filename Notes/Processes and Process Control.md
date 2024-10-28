@@ -178,7 +178,7 @@ ps ax
 # Flash cards
 
 What does ELF stand for?::**Executable and Linkable Format**
-<!--SR:!2024-10-17,1,210-->
+<!--SR:!2024-10-23,2,210-->
 
 What are **shared libraries**?
 ?
@@ -196,10 +196,10 @@ $ ldd /bin/bash
     libc.so.6 => /lib64/libc.so.6 (0x00007f30b7000000)
     /lib64/ld-linux-x86-64.so.2 (0x00007f30b743e000)
 ```
-<!--SR:!2024-10-17,1,208-->
+<!--SR:!2024-10-23,2,208-->
 
 What is an **exit code**?::A numeric value that indicates whether a process exited normally or terminated due to an error
-<!--SR:!2024-10-18,2,228-->
+<!--SR:!2024-10-27,6,228-->
 
 What does a **zero** exit code usually mean?::The process successfully exited without any issues
 <!--SR:!2024-10-26,10,250-->
@@ -218,34 +218,34 @@ What is happening in each of these lines?
 ?
 - The first line, the shell will only execute the second command if the first command exits with a **non-zero** exit code (a fail)
 - The second line, the shell will only execute the second command if the first command exits with a **zero** exit code (a success)
-<!--SR:!2024-10-18,2,210-->
+<!--SR:!2024-10-25,4,210-->
 
 What is a process **signal**?::A special condition that may occur during process execution
-<!--SR:!2024-10-17,1,208-->
+<!--SR:!2024-10-23,2,208-->
 
 What is the **SIGILL** signal?::A signal sent to the process if there was an illegal instruction (i.e. divide by zero)
 <!--SR:!2024-10-26,10,250-->
 
 What is the **SIGSEV** signal?::Segmentation violation (trying to read or modify memory that wasn't allocated to the process)
-<!--SR:!2024-10-17,1,208-->
+<!--SR:!2024-10-23,2,208-->
 
 What is the **SIGPIPE** signal?::A signal generated when a network socket or a local pipe is closed by the other end
-<!--SR:!2024-10-18,2,230-->
+<!--SR:!2024-10-27,6,230-->
 
 What does the  **SIGINT** signal do?::Interrupts a process
-<!--SR:!2024-10-21,5,248-->
+<!--SR:!2024-11-03,13,248-->
 
 What does the **SIGTERM** signal do?::Asks the process to clean up its state and terminate
-<!--SR:!2024-10-21,5,248-->
+<!--SR:!2024-11-03,13,248-->
 
 What does the **SIGKILL** signal do?:: Tells the kernel to forcibly terminate a process
-<!--SR:!2024-10-21,5,248-->
+<!--SR:!2024-11-03,13,248-->
 
 How do you send processes to the background?::Adding `{bash}&` to the end of a command
 <!--SR:!2024-10-26,10,250-->
 
 How do you see a list of background processes?::Using the `{bash}job` command
-<!--SR:!2024-10-18,2,228-->
+<!--SR:!2024-10-27,6,228-->
 
 How do you bring a job (background process) into the foreground?::Using `fg <job number>`
 <!--SR:!2024-10-26,10,250-->
@@ -255,7 +255,7 @@ What signal are you sending when you use **Ctrl + C**?
 A **SIGINT** signal to interrupt the process
 - You can't use **Ctrl + C** on background processes
 	- You either have to bring them to the foreground or use `{bash}kill <process id>`
-<!--SR:!2024-10-21,5,248-->
+<!--SR:!2024-11-03,13,248-->
 
 What signal does the `{bash}kill` command send to the process?::**SIGTERM**
 <!--SR:!2024-10-26,10,250-->
@@ -267,13 +267,13 @@ What is PID=1?
 ?
 The parent of all processes
 - Often called the **init** process
-<!--SR:!2024-10-21,5,248-->
+<!--SR:!2024-11-03,13,248-->
 
 What is the only process that is launched directly by the kernel?::The **init** process
 <!--SR:!2024-10-26,10,250-->
 
 What does the `pstree` command do?::Lets you view the full process tree
-<!--SR:!2024-10-18,2,228-->
+<!--SR:!2024-10-27,6,228-->
 
 What is the `{bash}ps` command?
 ?
@@ -292,14 +292,14 @@ What does each of these mean?
 - TTY - A terminal
 - STAT - The process state
 - CMD - The command that launched the process
-<!--SR:!2024-10-18,2,228-->
+<!--SR:!2024-10-27,6,228-->
 
 What are the `a` and `x` in `{bash}ps ax`
 ?
 - a - removes **owned by me**
 - x - removes **has a terminal**
 - `{bash}ps ax` is a common command to view every process on the system
-<!--SR:!2024-10-18,2,228-->
+<!--SR:!2024-10-27,6,228-->
 
 What are the meanings of the STAT process states:
 - **S**
@@ -314,7 +314,7 @@ What are the meanings of the STAT process states:
 <!--SR:!2024-10-26,10,250-->
 
 What does it mean when a process command name is in square brackets?::It's a kernel service that's made to look like a process for ease of monitoring
-<!--SR:!2024-10-17,1,208-->
+<!--SR:!2024-10-23,2,208-->
 
 What does `{bash}ps -u` do?::Shows you what users own each process
 <!--SR:!2024-10-26,10,250-->
@@ -323,5 +323,5 @@ What does the `{bash}top` command do?::Displays an interactive process list wher
 <!--SR:!2024-10-26,10,250-->
 
 Whenever a process is launched, the kernel adds a sub-directory named...::**`/proc/<PID>/`**
-<!--SR:!2024-10-21,5,230-->
+<!--SR:!2024-11-03,13,230-->
 

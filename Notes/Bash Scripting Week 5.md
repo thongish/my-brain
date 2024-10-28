@@ -169,12 +169,14 @@ done
 # Flash cards
 
 Are file extensions required for script names?::No, they are not required.
+<!--SR:!2024-10-24,3,250-->
 
 How do you make variables available in subshells?
 ?
 ```bash
 export variable=value
 ```
+<!--SR:!2024-10-24,3,250-->
 
 What does `{bash}declare` do to a variable?
 ?
@@ -184,14 +186,18 @@ declare -r ANSWER=yes # sets $ANSWER as a read-only variable
 declare [-a|-A] MYARRAY # define an indexed or associative array
 declare -i NUM # sets $NUM as an integer
 ```
+<!--SR:!2024-10-24,3,250-->
 
 How do you wipe the value of a key without deleting it?::Simply reassign nothing to the variable like this: `var1=`
+<!--SR:!2024-10-24,3,250-->
 
 How do you delete a variable completely?::`unset var1`
+<!--SR:!2024-10-24,3,250-->
 
 What exactly is the condition in an if statement?
 ?
 A command that returns 0 (true) or 1 (false)  depending on whether the condition is true not not
+<!--SR:!2024-10-24,3,250-->
 
 
 

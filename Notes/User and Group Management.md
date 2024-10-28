@@ -282,28 +282,37 @@ How do you add or delete a user to the system?
 ?
 - `{bash}adduser`
 - `userdel`
+<!--SR:!2024-10-24,3,250-->
 
 How do you add/remove a group to the system?
 ?
 - `addgroup`
 - `delgroup`
+<!--SR:!2024-10-24,3,250-->
 
 Where can you find user account information or properties?::/etc/passwd
+<!--SR:!2024-10-24,3,250-->
 
 What is the /etc/shadow file?::Encrypted passwords / password properties
+<!--SR:!2024-10-24,3,250-->
 
 What is the /etc/group file?::Group information
+<!--SR:!2024-10-24,3,250-->
 
 What is the /etc/sudoers file?::Configuration for `{bash}sudo`
+<!--SR:!2024-10-24,3,250-->
 
 What is the difference between `useradd` and `adduser`?
 ?
 - `useradd` requires manual configuration of things like password, home directory, etc
 - `adduser` is a more user-friendly command that does all those things for you
+<!--SR:!2024-10-24,3,250-->
 
 What is /etc/skel?::A directory that provides the folder scheme for new accounts
+<!--SR:!2024-10-24,3,250-->
 
 What can you do with the `usermod` command?::Modify user account things such as home folder, default shell, add description to user, associate with group, etc
+<!--SR:!2024-10-24,3,250-->
 
 How do you add a user to a group?
 ?
@@ -312,20 +321,25 @@ sudo usermod -aG group thong
 # -a means append to group without removing them from other groups
 # -G specifies the group name
 ```
+<!--SR:!2024-10-24,3,250-->
 
 What does the `{bash}su`  command do?
 ?
 - Switch to an account with superuser privileges
 - `{bash}su -` does the same thing but simulates a complete login environment for the target user
+<!--SR:!2024-10-24,3,250-->
 
 How do you lock or unlock user accounts?
 ?
 - `{bash}sudo passwd -l <user>` - locks account
 - `{bash}sudo passwd -u <user>` - unlocks account
+<!--SR:!2024-10-24,3,250-->
 
 What does the `chage` command do?::Change the length of time a user's password is valid
+<!--SR:!2024-10-24,3,250-->
 
 How many users and groups can a file belong to?::One user and one group per file
+<!--SR:!2024-10-24,3,250-->
 
 What are the three additional permissions besides read, write, execute?
 ?
@@ -334,3 +348,4 @@ What are the three additional permissions besides read, write, execute?
 	- When set on a directory, any file created inside it inherits the directory's group ownership
 	- This is helpful for shared group projects
 - sticky bit - ensures that only the file/directory's owner can delete or modify the file or directory
+<!--SR:!2024-10-24,3,250-->
