@@ -12,27 +12,12 @@
 # Networking
 - 
 # Linux
-- can I get week 3 reading questions and lab?
-- what is a hard link, symbolic link, inode
-- pseudo file system?
-- faux file system?
 - firewall? security?
 - Preferred programs
-	- Microsoft word
-	- image editor (gimp seems too heavy)
-		- image viewer? 
-	- an easier to use network tool other than nmcli
-		- networkmanager
-		- nm-applet
-	- screenshots
-	- power-profiles-daemon ? tlp?
 	- suspend & hibernate
 		- how to turn off monitor or suspend after x time
-	- what is a scratchpad?
-	- hyprlock?
 	- unzipping
 		- xarchiver, fileroller
-	- what is drop_caches
-	- week 5 sudo, visudo, nvim
-	- what exactly is the condition in an if statement
-	- shebang??
+- How in depth do you want our scripts to be?
+	- package install
+		- do you want it to change package managers based on user's distro?

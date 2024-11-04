@@ -13,54 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6 Tasks.md",
+                "file": "Week 9 Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 6 Tasks"
+              "title": "Week 9 Tasks"
             }
           },
           {
-            "id": "f198929e2c1dc9f7",
+            "id": "dcda31f420eea459",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Business Chapter 7.md",
+                "file": "week-9-lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Chapter 7"
-            }
-          },
-          {
-            "id": "1da4c3993fc7e61e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/The Shell and its Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Shell and its Commands"
-            }
-          },
-          {
-            "id": "f174b7eae5d884bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Linux Lecture Flash Cards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux Lecture Flash Cards"
+              "title": "week-9-lab"
             }
           },
           {
@@ -69,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JavaScript Syntax Review.md",
+                "file": "Notes Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Syntax Review"
+              "title": "Notes Table of Contents"
             }
           },
           {
@@ -90,9 +62,36 @@
               "icon": "lucide-file",
               "title": "How Programming Languages Work"
             }
+          },
+          {
+            "id": "24bcc8f8916848e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly Tasks Archive/Week 6 Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 6 Tasks"
+            }
+          },
+          {
+            "id": "4943898acd4faa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lil's notes/week-5-reading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week-5-reading"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fstab",
+                "query": "getopts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -404,12 +403,142 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bef7021f21265bcd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "da52a91d2824dd6f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0322149eac4f1979",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a55cb86897ccc325",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "786fdaee04e5edae",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "34e7134eac41b06f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cfa7d105885206ff",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8562082c586d2c2c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8c995b4a5b05558f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cdab670e7c1ae95b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "68f7fa7e71abeda1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b4f9b386609d8b97",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5694a07777a27243",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 35
       }
     ],
     "direction": "horizontal",
@@ -427,34 +556,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4bb99115d68c515f",
+  "active": "e87b6bdcc0944c44",
   "lastOpenFiles": [
-    "Notes/JavaScript Syntax Review.md",
-    "Notes/2520 Week 1.md",
+    "Linux Labs/week-9-lab.md",
+    "Questions.md",
+    "Notes/Bash Scripting Week 6.md",
+    "Notes/Bash Scripting Week 5.md",
+    "Notes/2420 Week 5.md",
     "Notes Table of Contents.md",
-    "Notes/The Linux Filesystem.md",
-    "Notes/How Programming Languages Work.md",
-    "Notes/2520 Week 4.md",
-    "Notes/2520 Week 3.md",
-    "Notes/2520 Week 2.md",
-    "Week 7 Tasks.md",
-    "OOP Cheatsheet 2.md",
-    "OOP Cheatsheet.md",
-    "STATS midterm.md",
-    "Notes/Business Chapter 7.md",
-    "Notes/Linux Lecture Flash Cards.md",
+    "Notes/2420 Week 6.md",
+    "Week 9 Tasks.md",
+    "Tasks Master List.md",
     "Notes/The Shell and its Commands.md",
+    "Notes/How Programming Languages Work.md",
+    "Notes/JavaScript Syntax Review.md",
+    "Notes/Linux Lecture Flash Cards.md",
+    "2620 Week 9 Lecture.md",
+    "2620 Week 9.md",
+    "Notes/2620 Week 5.md",
+    "Notes/2620 Week 5 Lecture.md",
+    "Notes/2620 Week 6.md",
+    "Notes/Advanced Testing Fixtures & Mocks.md",
+    "Notes/IPv4 Addressing.md",
+    "Notes/2620 Week 3.md",
+    "Notes/2620 Week 3 Lecture.md",
+    "bday.md",
+    "random shit.md",
     "Lil's notes/week-5-reading.md",
-    "Week 6 Tasks.md",
-    "Notes/2831 Week 2.md",
-    "Notes/2831 Week 2 Glossary.md",
-    "Notes/2831 Week 1.md",
-    "Notes/2831 Week 1 Glossary.md",
-    "Notes/Business Chapter 1.md",
-    "Notes/Business Chapter 10.md",
-    "Notes/SDLC Video Notes.md",
-    "2520 Week 7.md",
-    "Notes/2520 Week 6.md",
+    "Notes/User and Group Management.md",
     "readme-assets/flash.png",
     "readme-assets/trust-me.png",
     "readme-assets/open-vault.png",

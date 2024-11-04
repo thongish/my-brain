@@ -34,3 +34,11 @@
 - `ip route` shows default gateway
 - `nmtui` edit IPv4, IPv6, create bridge, etc
 - `nmcli` same thing as `nmtui` but command-line based
+
+# Global/local and uni/multicast
+
+- Look at the last 2 bits of the first octect 
+- if 00 == global uni
+- if 10 == local uni
+- if 01 == global multi
+- if 11 == local multi
