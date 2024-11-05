@@ -24,7 +24,7 @@
 [[2515 Week 6]] 
 [[2515 Week 7]] 
 [[2515 Week 8]] 
-[[2515 Week 9]] 
+[[2515 Week 9]] Argument unpacking, CSV and JSON, Database and ORM
 [[2515 Week 10]]
 [[2515 Week 11]]
 [[2515 Week 12]]
