@@ -38,9 +38,9 @@
 [[1350 Week 4]] Probability and counting
 [[1350 Week 5]] Probability Laws and Conditional probability
 [[1350 Week 6]]
-[[1350 Week 7]]
+[[1350 Week 7]] Binomial Distributions
 [[1350 Week 8]]
-[[1350 Week 9]]
+[[1350 Week 9]] 
 [[1350 Week 10]]
 [[1350 Week 11]]
 [[1350 Week 12]]
@@ -88,7 +88,7 @@
 [[2620 Week 6]]
 [[2620 Week 7]]
 [[2620 Week 8]]
-[[2620 Week 9]]
+[[2620 Week 9]] 
 [[2620 Week 10]]
 [[2620 Week 11]]
 [[2620 Week 12]]
@@ -104,7 +104,7 @@
 [[2420 Week 6]] Bash scripting week 6
 [[2420 Week 7]]
 [[2420 Week 8]]
-[[2420 Week 9]]
+[[2420 Week 9]]  Systemctl and Systemd, Systemd Units and Unit Files
 [[2420 Week 10]]
 [[2420 Week 11]]
 [[2420 Week 12]]

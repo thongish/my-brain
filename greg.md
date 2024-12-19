@@ -1,0 +1,21 @@
+- [ ] Gayniggers from Outer Space
+- [ ] Super Troopers
+- [x] Starship troopers
+- [ ] Strange Brew
+- [x] Hobo with a Shotgun
+- [ ] The Fifth Element
+- [x] Scott Pilgrim
+- [ ] The Hateful Eight
+- [ ] Kung Pow Enter the Fist
+- [ ] Team America
+- [ ] Samurai Champloo
+- [ ] Train to Busan
+- [ ] Fritz the Cat
+- [ ] The Haunted World of El Superbeasto
+- [ ] Maquia
+- [ ] Requiem for a Dream
+- [ ] Donnie Darko
+- [x] Shawshank Redemption
+- [ ] Little Miss Sunshine
+- [x] Disctrict 9
+- [x] The Room

@@ -1,0 +1,16 @@
+- [ ] Lock Stock and Two Smoking Barrels
+- [ ] Magnolia
+- [ ] Before Sunrise (has two also good sequels)
+- [ ] Little Miss Sunshine
+- [ ] No Country for Old Men
+- [ ] There Will Be Blood
+- [ ] Burn After Reading
+- [ ] The King's Speech
+- [ ] Argo
+- [ ] Whiplash
+- [ ] Spotlight
+- [ ] Green Book
+- [ ] Knives Out
+- [ ] The Fabelmans
+- [ ] Aftersun
+- [ ] Challengers

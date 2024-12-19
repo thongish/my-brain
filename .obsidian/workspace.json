@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "737ad00dc2c0482c",
+        "id": "87f0edebb1ad9706",
         "type": "tabs",
         "children": [
           {
-            "id": "e87b6bdcc0944c44",
+            "id": "2799c03cb512028e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database and ORM.md",
+                "file": "Notes/JavaScript Syntax Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database and ORM"
-            }
-          },
-          {
-            "id": "dcda31f420eea459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week-9-lab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "week-9-lab"
-            }
-          },
-          {
-            "id": "5e03b27845c6c54a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes Table of Contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes Table of Contents"
-            }
-          },
-          {
-            "id": "4bb99115d68c515f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/How Programming Languages Work.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How Programming Languages Work"
-            }
-          },
-          {
-            "id": "24bcc8f8916848e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly Tasks Archive/Week 6 Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 6 Tasks"
-            }
-          },
-          {
-            "id": "4943898acd4faa6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lil's notes/week-5-reading.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "week-5-reading"
-            }
-          },
-          {
-            "id": "a566b035829b3701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
+              "title": "JavaScript Syntax Review"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "getopts",
+                "query": "swim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed72dfd751970dc7",
@@ -577,12 +492,492 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5b9e6066a7f84804",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f243f704dc46eda7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c3938ab05c55b43c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7cf00b972806d731",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7ec48ffc3aaa8dbb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e3d6efbff4650b71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "10cd5c07b38debec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6a0d90724778fd04",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1bb40291db745208",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c0ffea62f63d9090",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f26a2b98a052d3d4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "541cd72adbbfd85a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "405ba2bf2ed86b98",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "80a06efb391072d9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "90f305b67c06e516",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "87d8b0383d62d5f3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b03ad03550ac1887",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7852d6124b8999b1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ebf36762eef8b67d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ee7dc40a09c63966",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a1e5ddab3e336613",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f53aa3d8758a73c5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f1af6c7c6b3100b5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "120ed374c3172157",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e9e18c3f1fb13200",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "305380e09199a409",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "caf9c63d2c524c27",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b1a99738f0625c30",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f22c001819e86a32",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b4e39b3b07919b88",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4c75ab837f8b67c1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fb14210add80ac07",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "876ffe00ad860ffa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b998856b14e08a4e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6bbb1cdf9dcfb4c5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "95074c5d800ff63c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fc47fd6dbed1241f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1e6e8733ccbd7c31",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "60ee1a139a200ff2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2169e837cb62e84a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1a8b903b505e0a86",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bcef5ad0f21320a8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bf9741f059aa925a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "881bfbe406f44ff1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a09af551f82afdef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "03cfc0242ee206fe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6e78a2f34ecfe0b7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3507f59e78499ab7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 86
       }
     ],
     "direction": "horizontal",
@@ -600,45 +995,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a566b035829b3701",
+  "active": "2799c03cb512028e",
   "lastOpenFiles": [
-    "Week-9 OOP Cheatsheet.md",
-    "Database and ORM.md",
-    "2515 Week 9.md",
-    "CSV and JSON.md",
-    "Notes Table of Contents.md",
-    "Pasted image 20241104153255.png",
-    "Argument Unpacking.md",
-    "Week 9 Tasks.md",
-    "Linux Labs/week-9-lab.md",
-    "Questions.md",
-    "Notes/Bash Scripting Week 6.md",
-    "Notes/Bash Scripting Week 5.md",
-    "Notes/2420 Week 5.md",
-    "Notes/2420 Week 6.md",
-    "Tasks Master List.md",
-    "Notes/The Shell and its Commands.md",
-    "Notes/How Programming Languages Work.md",
+    "Notes/2520 Week 1.md",
+    "Notes/JavaScript Fundamentals.md",
+    "Notes/JavaScript Review on Strings and Functions.md",
     "Notes/JavaScript Syntax Review.md",
-    "Notes/Linux Lecture Flash Cards.md",
-    "2620 Week 9 Lecture.md",
-    "2620 Week 9.md",
-    "Notes/2620 Week 5.md",
-    "Notes/2620 Week 5 Lecture.md",
-    "Notes/2620 Week 6.md",
-    "Notes/Advanced Testing Fixtures & Mocks.md",
-    "Notes/IPv4 Addressing.md",
-    "Notes/2620 Week 3.md",
-    "readme-assets/flash.png",
-    "readme-assets/trust-me.png",
-    "readme-assets/open-vault.png",
-    "readme-assets/git-clone.png",
+    "Notes Table of Contents.md",
+    "2831 Week 11.md",
+    "Excalidraw/Drawing 2024-10-08 18.47.09.excalidraw.md",
+    "linux video script.md",
+    "swim.md",
+    "2831 Week 13 Assignment.md",
+    "2831 week 12 assignment.md",
+    "Python Project.md",
+    "linux video.md",
+    "Notes/2831 assignment 3.md",
+    "Excalidraw/Drawing 2024-12-03 16.46.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-03 16.46.35.excalidraw.md",
+    "LAST TASKS.md",
+    "Drawing 3.png",
+    "Assignment Due Dates.md",
+    "Argument Unpacking.md",
+    "bday.md",
+    "business project part 2.md",
+    "CSV and JSON.md",
+    "Drawing 1.png",
+    "Drawing 1(1).png",
+    "Database and ORM.md",
+    "Interview questions for Matilda.md",
+    "interview comments.md",
+    "job listing.md",
+    "Pasted image 20241104153255.png",
+    "Pasted image 20241107195617.png",
+    "Pasted image 20241107200903.png",
+    "Pasted image 20241126191903.png",
+    "Pasted image 20241127155217.png",
+    "Pasted image 20241129143803.png",
+    "Pasted image 20241129143824.png",
     "readme-assets",
-    "Images/Pasted image 20241008193503.png",
-    "Pasted image 20241011150551.png",
-    "Pasted image 20241011150553.png",
-    "Images/Pasted image 20241008192449.png",
-    "Images/Pasted image 20241008191955.png",
     "Lil's notes",
     "Excalidraw",
     "kevin-resume-draft.docx",

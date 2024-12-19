@@ -8,11 +8,11 @@ filename includes {{query.file.filename}}
 # Dev Web App
 - [x] Watch videos 📅 2024-11-05 ✅ 2024-11-02
 # OOP
-- [ ] study for eval 2 📅 2024-11-05 
+- [x] study for eval 2 📅 2024-11-05 ✅ 2024-11-06
 # Stats
-- [ ] Unit 6 & 8
-	- [ ] Unit 6 practice 📅 2024-11-05 
-	- [ ] Unit 8 practice 📅 2024-11-05 
+- [x] Unit 6 & 8 ✅ 2024-11-06
+	- [x] Unit 6 practice 📅 2024-11-05 ✅ 2024-11-06
+	- [x] Unit 8 practice 📅 2024-11-05 ✅ 2024-11-06
 # Business Systems
 - [ ]
 # Comms
@@ -22,3 +22,4 @@ filename includes {{query.file.filename}}
 - [ ]
 # Linux
 - [x] get started on assignment 📅 2024-11-04 ✅ 2024-11-03
+- [ ] readings 📅 2024-11-07 

@@ -23,3 +23,6 @@
 		- do you want it to change package managers based on user's distro?
 - can i write and push my readme from local machine?
 - ask about commenting and documentation
+- ask about symbolic links folder/file
+- packages gonna need separate file to read from
+- 

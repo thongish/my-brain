@@ -1,52 +1,4 @@
 
-| interviewer | candidate | observer |
-| ----------- | --------- | -------- |
-| kevin       | matilda   | nathan   |
-| misha       | nathan    | kevin    |
-| matilda     | kevin     | misha    |
-| nathan      | misha     | matilda  |
-introduction
-- what is this proposal for? 
-- contextual information
-	- who is this for?
-	- why make this proposal?
-	- what are the circumstances that lead up to it?
-- problems with the current circumstances (website)
-- proposed solution
-	- what is the solution? explain it
-- talk in general, go into details later on in the proposal
-- benefits of the proposed solution
-	- highlight them
-	- costs lowered, more time, increased productivity, etc
-- write specific subheadings
-	- the problem
-	- the solution
-	- the benefits
-	- these aren't actually specific headings, just an outline
-		- ex.
-		- unreliable web layout on new browsers
-			- responsive design <- the solution
-		- confusing and irregular navigation
-			- navigation redesign using UI/UX standards <- the solution
-
-pros:
-- you can tailor it to your exact needs
-- more control over its updates and life cycle
-- 
-
-cons:
-- might not have all the functions you need
-- licensing could be expensive, yearly costs
-
-1. inventory gets logged and and placed on shelf
-2. instead of humans moving to shelves to place products, the shelves are  moved to the worker
-3.  
-4. single pack multi pack
-5. no 
-6. no the machine places the label
-7. ship parcels sorted, palletized and put on truck 
-8.
-
 ### Task 1
 - before you do antyhing install the nginx and ufw packages
 ```
@@ -123,5 +75,3 @@ sudo ufw limit ssh
 sudo ufw allow http
 sudo ufw enable
 ```
-
-

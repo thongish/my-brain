@@ -4,10 +4,10 @@
 
 
 What is Linux?::A family of operating systems that use the Linux kernel
-<!--SR:!2024-10-23,2,230-->
+<!--SR:!2024-12-19,7,250-->
 
 What is the Linux kernel?::The main component of a Linux OS and is the core interface that facilitates the communication between a computer's hardware and its processes
-<!--SR:!2024-10-23,2,230-->
+<!--SR:!2024-12-19,7,250-->
 
 What does the Linux kernel do?
 ?
@@ -19,19 +19,19 @@ What does the Linux kernel do?
 	1. Act as mediator/interpreter between the hardware and processes
 4. System calls and security
 	1. Receive requests for service from the processes
-<!--SR:!2024-10-23,2,230-->
+<!--SR:!2024-12-19,7,250-->
 
 What is the main difference between a server and desktop editions of Linux based OS?::Generally the only difference is the software installed on each of them
-<!--SR:!2024-10-23,2,230-->
+<!--SR:!2024-12-19,7,250-->
 
 What is the distinction between a **terminal** and the **shell**?
 ?
 - The terminal is an interface, the GUI that you interact with
 - The shell is software that runs the commands you enter in the terminal
-<!--SR:!2024-10-23,2,230-->
+<!--SR:!2024-12-19,7,250-->
 
 What happens when you run a command?::The shell will try to find the command in its built-ins before searching through the $PATH directories. Once it finds the command it executes it
-<!--SR:!2024-10-23,2,222-->
+<!--SR:!2024-12-18,6,242-->
 # Week-two flash cards
 #LINUX/W2 
 
@@ -39,7 +39,7 @@ What is a **disk image**?
 ?
 A file that contains an exact copy of the data and structure of a physical disk drive
 - Like a snapshot of the disk, preserving everything from files and folders to the operating system and boot information
-<!--SR:!2024-10-23,2,222-->
+<!--SR:!2024-12-18,6,242-->
 
 
 What do all these ssh command options do?
@@ -51,13 +51,13 @@ ssh -i -t -f -C
 `-t` - type: the type of encryption to use for the key
 `-f` - filename: specify file name and location
 `-C` - comment: attach a comment to the key
-<!--SR:!2024-10-23,2,239-->
+<!--SR:!2024-12-19,7,259-->
 
 What command will update your system?::`{bash}sudo pacman -Syu`
-<!--SR:!2024-10-23,2,239-->
+<!--SR:!2024-12-19,7,259-->
 
 What is a droplet?::The name DigitalOcean uses for a virtual private server (VPS)
-<!--SR:!2024-10-23,2,239-->
+<!--SR:!2024-12-19,7,259-->
 
 The shell functions as a REPL what does it stand for?
 ?
@@ -65,13 +65,13 @@ The shell functions as a REPL what does it stand for?
 - Evaluate
 - Print
 - Loop
-<!--SR:!2024-10-23,2,239-->
+<!--SR:!2024-12-19,7,259-->
 
 What option allows `{bash}mkdir` to create nested directories?::`{bash}mkdir -p`
-<!--SR:!2024-10-23,2,239-->
+<!--SR:!2024-12-19,7,259-->
 
 What does `{bash}uname -r` output?::The kernel release information
-<!--SR:!2024-10-23,2,239-->
+<!--SR:!2024-12-19,7,259-->
 # Week-three flash cards
 #LINUX/W3 
 
